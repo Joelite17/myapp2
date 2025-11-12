@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "The National Programme on Immunization Child Health Card contains the following:",
+    "OPTION": {
+      "A": "Developmental milestone versus age in months plot/chart",
+      "B": "Child's immunization and vitamin A supplement record",
+      "C": "Space for mother's tetanus toxoid immunization record",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "The NPI Child Health Card includes immunization records, maternal tetanus information, and developmental milestones."
+  },
+  "2": {
+    "QUESTION": "The importance of 'Standing Order' in Primary Health Care System includes:",
+    "OPTION": {
+      "A": "Systematic approach to history taking and examination",
+      "B": "Source of cost effective alternatives to procedures",
+      "C": "Information for common illness",
+      "D": "Ensures quality and legal backing",
+      "E": "Framework for monitoring & evaluation of Medical Officer's activities"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Standing Orders standardize care, provide information, and ensure quality/legal backing; monitoring medical officers' activities is separate."
+  },
+  "3": {
+    "QUESTION": "Primary Health Care:",
+    "OPTION": {
+      "A": "Is an applied Specialty in Community Medicine",
+      "B": "Requires the same perspective for different problems, based on similar conceptual theoretical models",
+      "C": "Is the first-contact care, differentiated by age, gender and disease",
+      "D": "Is essentially for people in the rural communities who do not have access to second facilities in the cities",
+      "E": "Is particularly more important for those that cannot afford bills for secondary care"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "PHC uses consistent approaches for different health problems and is crucial for financially disadvantaged populations; it is not limited to rural areas or a specialty."
+  },
+  "4": {
+    "QUESTION": "Roles of National Primary Health Care Development Agency exclude:",
+    "OPTION": {
+      "A": "Policy making",
+      "B": "Monitoring of PHC plan implementation",
+      "C": "Building of Schools of health technology for training of PHC workers",
+      "D": "Provision of technical support",
+      "E": "Auditing of PHC accounts"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "The agency performs policy making, training, and auditing; monitoring and technical support are not considered exclusions."
+  },
+  "5": {
+    "QUESTION": "Measures that protect patients' safety in essential drug management include:",
+    "OPTION": {
+      "A": "Vetting of Doctor's prescription by the Pharmacist",
+      "B": "Conduction of Quality Assurance test",
+      "C": "Use of prescription sheet and code",
+      "D": "Pharmaco-vigilance",
+      "E": "Use of drug formulary by Doctors"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Quality assurance, proper prescriptions, pharmaco-vigilance, and formulary use protect patients; pharmacist vetting is not a standard measure."
+  },
+  "6": {
+    "QUESTION": "Some of the objectives of Community Diagnosis include, to:",
+    "OPTION": {
+      "A": "Elevate the health status of the Community",
+      "B": "Monitor health resources and services within the Community",
+      "C": "Change attitudes of the people towards health services",
+      "D": "Obtain routine data for PHC plan implementation",
+      "E": "Bring health care closer to the people in the Community"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "Community diagnosis primarily monitors resources and collects data; health elevation and attitude change are broader objectives."
+  },
+  "7": {
+    "QUESTION": "Measures to improve PHC service delivery in Nigeria include:",
+    "OPTION": {
+      "A": "Intermittent deployment of CHEWs to tertiary health institutions to improve their skills",
+      "B": "Provision of daily transport for PHC workers from urban to rural centres",
+      "C": "Deployment of Specialist Doctors to PHC centres to provide quality services",
+      "D": "Mobilization of host Communities to provide incentives for PHC workers",
+      "E": "Good PHC policy making by the Local Government Council"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Effective PHC requires sound policy making; temporary specialist deployment or transport provisions are not practical standard measures."
+  },
+  "8": {
+    "QUESTION": "Advantages of Community involvement in health care activities include:",
+    "OPTION": {
+      "A": "Part time unremunerated Village Health Workers can be engaged",
+      "B": "Communities can exert effective administrative supervision of health services",
+      "C": "Coverage and access to health care can be improved",
+      "D": "Communal labour could be used for construction of health care facilities",
+      "E": "Government constraints on available resources could be relieved"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Community involvement improves supervision, access, resource use, and allows engagement of volunteers."
+  },
+  "9": {
+    "QUESTION": "Variables that are normally distributed in nature include all the following except:",
+    "OPTION": {
+      "A": "Height of people",
+      "B": "Weight of individuals",
+      "C": "Triceps skin fold thickness",
+      "D": "Income of individuals",
+      "E": "Body temperature of children"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Income is typically skewed; height, weight, triceps skinfold, and body temperature are approximately normally distributed."
+  },
+  "10": {
+    "QUESTION": "The following statements about the standard distribution curve are correct:",
+    "OPTION": {
+      "A": "It can be arithmetically expressed in terms of all averages and standard deviation",
+      "B": "It was discovered by Gaussian in 1822",
+      "C": "It is tall and narrow for large standard deviation",
+      "D": "Mean +/- SD limit includes roughly 2/3rd of all observations",
+      "E": "Values that differ from mean by less than twice the SD are rare"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Standard distribution is described by averages and SD; mean ± SD includes 2/3 of observations; large SD makes the curve wider, not taller."
+  },
+  "11": {
+    "QUESTION": "The following statement about relative normal variation is not false:",
+    "OPTION": {
+      "A": "It is a deviation from the mean and standard deviation",
+      "B": "The mean could be taken as zero",
+      "C": "The standard deviation is most times taken as a unit or one",
+      "D": "The area under the curve cannot be calculated directly",
+      "E": "The area under the curve between two values 'a' and 'b' depends mainly on the shape of the curve"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Relative normal variation standardizes data using mean zero and SD one; area under curve is calculable via tables, depending on curve shape."
+  },
+  "12": {
+    "QUESTION": "Concerning Standard error in statistics, the following deductions are correct except:",
+    "OPTION": {
+      "A": "It is significant in the test of hypothesis",
+      "B": "It varies directly with the root of the sample size",
+      "C": "It is a measure of sampling variations",
+      "D": "It helps in determining the limits outside which the parameter is expected to lie",
+      "E": "Standard error of proportion is mostly used in prevalence studies"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Standard error measures sampling variability; it varies inversely with the square root of sample size and is used for inference."
+  },
+  "13": {
+    "QUESTION": "The following statistics can be used to arrive at a population estimate in research studies:",
+    "OPTION": {
+      "A": "Geometric mean",
+      "B": "Arithmetic mean",
+      "C": "Student t-test",
+      "D": "Confidence interval",
+      "E": "Z-test"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Means and confidence intervals estimate population parameters; t-test and Z-test are inferential tools."
+  },
+  "14": {
+    "QUESTION": "In hypothesis testing:",
+    "OPTION": {
+      "A": "Assumptions and statements are made which most of the time are true",
+      "B": "Assumptions about the population parameters are called statistical hypothesis",
+      "C": "Null Hypothesis is set up with the ultimate hope of being rejected",
+      "D": "Neyman and Pearson defined alternative hypothesis",
+      "E": "Two-tailed hypothesis is commoner in most research studies"
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Statistical hypotheses describe population parameters; null hypothesis is tested for rejection."
+  },
+  "15": {
+    "QUESTION": "The following statements about errors in sampling are false:",
+    "OPTION": {
+      "A": "The power of a test is 1-B",
+      "B": "Precision is measured by the formula S²/n",
+      "C": "Alpha is the probability of rejecting a true null hypothesis",
+      "D": "Beta is the probability of accepting a false null hypothesis",
+      "E": "Type I error is commoner in research than type II error"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Alpha is probability of Type I error; Type I is not necessarily more common than Type II."
+  },
+  "16": {
+    "QUESTION": "In calculating the midyear population of a city or town, which methods are applicable?",
+    "OPTION": {
+      "A": "Natural increase method",
+      "B": "Life survival table method",
+      "C": "Arithmetic progression method",
+      "D": "Natality measures",
+      "E": "Geometric progression method"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Natural, arithmetic, and geometric methods are practical; life tables and natality measures alone are insufficient."
+  },
+  "17": {
+    "QUESTION": "The following is/are basic management function(s):",
+    "OPTION": {
+      "A": "Scrutinizing",
+      "B": "Leading",
+      "C": "Managing",
+      "D": "Assessing",
+      "E": "Evaluating"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Leading, managing, and evaluating are core management functions; scrutinizing and assessing are subsets."
+  },
+  "18": {
+    "QUESTION": "Planning:",
+    "OPTION": {
+      "A": "Makes desired health situation less certain by leaving it to chance",
+      "B": "Reduces waste",
+      "C": "Decreases cost-effectiveness and cost-efficiency",
+      "D": "Galvanizes purposeful action",
+      "E": "Facilitates anarchy, monitoring and evaluation"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "Planning reduces waste and mobilizes action; it does not promote uncertainty or inefficiency."
+  },
+  "19": {
+    "QUESTION": "Management by objectives includes all except:",
+    "OPTION": {
+      "A": "What is to be done?",
+      "B": "How much is to be done?",
+      "C": "Where it is to be done?",
+      "D": "When it is to be completed?",
+      "E": "Which standard it will be done"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Management by objectives sets standards for completion; specifying what, how, where, and when is already included."
+  },
+  "20": {
+    "QUESTION": "The following are the skills of an effective manager:",
+    "OPTION": {
+      "A": "Human skill",
+      "B": "Technical skill",
+      "C": "Scientific skill",
+      "D": "Conceptual skill",
+      "E": "Technological skill"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Effective managers need human, technical, and conceptual skills; scientific and technological skills are not essential."
+  },
+  "21": {
+    "QUESTION": "The following are publications of the World Health Organization:",
+    "OPTION": {
+      "A": "Weekly epidemiological report",
+      "B": "World Health Policy and Planning",
+      "C": "World Health Journal of Epidemiology",
+      "D": "Journal of Public Health in Developing countries",
+      "E": "World Health Bulletin"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "WHO publishes WER and Bulletin; other journals are independent publications."
+  },
+  "22": {
+    "QUESTION": "The following are formal sources of literature in research:",
+    "OPTION": {
+      "A": "Journals, books",
+      "B": "Report of Expert Committee",
+      "C": "Search engines-Google",
+      "D": "PubMed",
+      "E": "Thesis/ Dissertation"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Formal sources include journals, reports, theses; search engines and PubMed are tools, not primary sources."
+  },
+  "23": {
+    "QUESTION": "Ethical issues in research involve which of the following:",
+    "OPTION": {
+      "A": "Informed consent",
+      "B": "Right to withdraw",
+      "C": "Reasons for the study",
+      "D": "Permission for access to medical records",
+      "E": "Provision of study results"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Ethics focuses on participant rights and result sharing; reasons for study and record access permission are procedural."
+  },
+  "24": {
+    "QUESTION": "The following are quantitative methods of data collection except:",
+    "OPTION": {
+      "A": "Questionnaires",
+      "B": "Data sheets",
+      "C": "Observational Checklists",
+      "D": "Clinic record - case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Key informant interviews are qualitative; all others are quantitative."
+  },
+  "25": {
+    "QUESTION": "In chicken pox infection:",
+    "OPTION": {
+      "A": "Fever and rash tend to be more in adults than children",
+      "B": "Primary viral pneumonia is not a complication",
+      "C": "Patient can be infectious even before rash appears",
+      "D": "Recrudescence from latent infection can be in the form of Herpes Zoster",
+      "E": "Notification is not part of the control measure"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Adults have more severe symptoms; patients are infectious pre-rash; latent virus can reactivate as shingles."
+  },
+  "26": {
+    "QUESTION": "The Nosocomial (Hospital Acquired) Infections could be prevented through:",
+    "OPTION": {
+      "A": "Universal precaution",
+      "B": "Frequent hand washing",
+      "C": "Concurrent and terminal disinfection",
+      "D": "Immunisation of Health care staff against communicable diseases",
+      "E": "Rational use of antibiotics"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed measures reduce the risk of hospital-acquired infections."
+  },
+  "27": {
+    "QUESTION": "The following are types of epidemiological studies except:",
+    "OPTION": {
+      "A": "Descriptive",
+      "B": "Analytical",
+      "C": "Experimental",
+      "D": "None of the above",
+      "E": "All of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Descriptive, analytical, and experimental are all types of epidemiological studies; 'None of the above' is the exception."
+  },
+  "28": {
+    "QUESTION": "With respect to the epidemiology of Air-borne infections:",
+    "OPTION": {
+      "A": "They are acquired only through inhalation of pathogenic organisms",
+      "B": "Causative agents include Histoplasma",
+      "C": "The three main mechanisms of transmission are droplets, droplet nuclei and dust",
+      "D": "Good ventilation and air-hygiene are good control measures",
+      "E": "Air-borne infections include whooping cough, tuberculosis, influenza, measles and chicken pox"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Airborne infections can also be transmitted indirectly; listed mechanisms and examples are correct."
+  },
+  "29": {
+    "QUESTION": "Concerning the term 'Vector':",
+    "OPTION": {
+      "A": "It refers to a vertebrate which harbors infection or transmits infectious diseases",
+      "B": "Means of transmission can be mechanical",
+      "C": "Means of transmission can be chemical",
+      "D": "Means of control can be biological",
+      "E": "Pests may transmit diseases but cannot have a nuisance"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Vectors are organisms that transmit infections; transmission can be mechanical; control can be biological. Chemical transmission is incorrect."
+  },
+  "30": {
+    "QUESTION": "Vector-borne disease control measures include:",
+    "OPTION": {
+      "A": "Environmental modification",
+      "B": "Insecticide spraying",
+      "C": "Biological control",
+      "D": "Use of mosquito nets",
+      "E": "Education and health promotion"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed measures are standard interventions for vector-borne diseases."
+  },
+  "31": {
+    "QUESTION": "The following are the modes of transmission for the corresponding Arthropod disease/Agent:",
+    "OPTION": {
+      "A": "Loa-loa - faeco-oral",
+      "B": "Dracunculiasis - percutaneous penetration",
+      "C": "Chagas disease - rubbing of faeces",
+      "D": "Onchocerciasis - Vector bite",
+      "E": "Tick borne relapsing fever - inhalation"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Loa-loa is transmitted by deer flies, not faeco-oral; Chagas via triatomine feces; Onchocerciasis via blackfly bite; tick-borne relapsing fever is via tick bite."
+  },
+  "32": {
+    "QUESTION": "The following are true about Leprosy:",
+    "OPTION": {
+      "A": "It's more prevalent in India and tropical Africa than Europe",
+      "B": "Tuberculoid leprosy has higher bacterial index than lepromatous leprosy",
+      "C": "The bacterial and morphological indices are used to monitor response to treatment",
+      "D": "The Mitsuda reaction is earlier than Fernandez",
+      "E": "Rifampicin, Dapsone and Clofazimine are used in treatment"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Lepromatous leprosy has higher bacterial load; Mitsuda reaction develops later; treatment includes Rifampicin, Dapsone, and Clofazimine."
+  },
+  "33": {
+    "QUESTION": "Major side effects of Anti-Kochs include:",
+    "OPTION": {
+      "A": "Isoniazid - Peripheral neuropathy",
+      "B": "Rifampicin - Reddish discoloration of urine and feces",
+      "C": "Pyrazinamide - Arthralgia",
+      "D": "Ethambutol - Optic nerve damage",
+      "E": "Streptomycin - Vestibular and auditory nerve damage"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed drugs have these well-documented major side effects."
+  },
+  "34": {
+    "QUESTION": "In clinical case definition of HIV/AIDS, which of the following are minor signs?",
+    "OPTION": {
+      "A": "Weight loss of > 10% body weight",
+      "B": "Chronic diarrhoea > one month",
+      "C": "Prolonged fever > one month",
+      "D": "Persistent cough > one month",
+      "E": "Generalised pruritic dermatitis"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Persistent cough and generalized pruritic dermatitis are minor signs; the rest are considered major."
+  },
+  "35": {
+    "QUESTION": "The time interval between the entry of an infective agent into a host and the onset of the symptoms is called:",
+    "OPTION": {
+      "A": "The communicable period",
+      "B": "The incubation period",
+      "C": "The pre-infection period",
+      "D": "The noncontagious period",
+      "E": "The decubation period"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "The incubation period is defined as the time from infection to symptom onset."
+  },
+  "36": {
+    "QUESTION": "The occurrence of a disease or illness of similar nature at a rate above the expected number is called:",
+    "OPTION": {
+      "A": "Enzootic",
+      "B": "Pandemic",
+      "C": "Endemic",
+      "D": "Epidemic",
+      "E": "Hypoendemic"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Epidemic refers to occurrence above expected rate; endemic is constant presence."
+  },
+  "37": {
+    "QUESTION": "When a new treatment is developed that prevents death but does not produce recovery from a disease the following will occur:",
+    "OPTION": {
+      "A": "Prevalence of the disease will decrease",
+      "B": "Incidence of the disease will increase",
+      "C": "Prevalence of the disease will increase",
+      "D": "Incidence of the disease will decrease",
+      "E": "Incidence and prevalence of the disease will decrease"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Disease prevalence increases because patients survive longer without recovery; incidence remains unchanged."
+  },
+  "38": {
+    "QUESTION": "A cohort must have:",
+    "OPTION": {
+      "A": "Same year of birth",
+      "B": "Passage through the same time period",
+      "C": "Common place of residence",
+      "D": "Exposure to same disease",
+      "E": "Common disease history"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Cohorts share exposure, location, and time period; same birth year or disease history is not required."
+  },
+  "39": {
+    "QUESTION": "Epidemiological triangle describes:",
+    "OPTION": {
+      "A": "Determination of the frequency with which disease occur",
+      "B": "The group expression of disease",
+      "C": "The triangle seen in epidemics",
+      "D": "A unique combination of events resulting in disease",
+      "E": "Explanation of why periodic outbreaks of certain diseases occur"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "The epidemiological triangle illustrates interaction between agent, host, and environment causing disease."
+  },
+  "40": {
+    "QUESTION": "The following diseases confer natural immunity:",
+    "OPTION": {
+      "A": "Influenza",
+      "B": "Polio",
+      "C": "Tetanus",
+      "D": "Measles",
+      "E": "Malaria"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Measles infection confers lasting natural immunity; others do not."
+  },
+  "41": {
+    "QUESTION": "Which of the following conditions contraindicate routine childhood immunization:",
+    "OPTION": {
+      "A": "Prematurity",
+      "B": "Acute illness with an oral temperature over 100°F",
+      "C": "Antibiotic therapy",
+      "D": "Living with a pregnant mother",
+      "E": "Allergy to penicillin"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Acute febrile illness is a contraindication; others are not absolute contraindications."
+  },
+  "42": {
+    "QUESTION": "Herd immunity describes:",
+    "OPTION": {
+      "A": "The immunity conferred by a herd of cattle against bovine disease in man",
+      "B": "Group expression of an illness",
+      "C": "Immunity acquired by a herd of cattle against zoonoses",
+      "D": "The spread of a communicable disease within a group based on the proportion of susceptible and immune individuals in the group",
+      "E": "The response to routine immunization in a community"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Herd immunity is population-level immunity that reduces disease spread."
+  },
+  "43": {
+    "QUESTION": "Sources of disease surveillance data include:",
+    "OPTION": {
+      "A": "Hospital discharge summaries",
+      "B": "Death certificates",
+      "C": "Laboratory reports",
+      "D": "Individual case reports",
+      "E": "Lecture notes"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Surveillance relies on formal reports; lecture notes are not valid sources."
+  },
+  "44": {
+    "QUESTION": "The tools of epidemiology include:",
+    "OPTION": {
+      "A": "Rate",
+      "B": "Ratio",
+      "C": "Proportion",
+      "D": "Duration",
+      "E": "Occupation"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Epidemiology uses rates, ratios, and proportions as primary tools."
+  },
+  "45": {
+    "QUESTION": "The father of Occupational Health is:",
+    "OPTION": {
+      "A": "Bernardino Ramazzini",
+      "B": "Sergius Agricola",
+      "C": "Paracelsus",
+      "D": "Hamilton",
+      "E": "Hippocrates"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Bernardino Ramazzini is credited as the father of Occupational Health."
+  },
+  "46": {
+    "QUESTION": "The father of Modern Medicine is:",
+    "OPTION": {
+      "A": "Socrates",
+      "B": "Hippocrates",
+      "C": "Mohammed",
+      "D": "Ross",
+      "E": "Sergius Agricola"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Hippocrates is regarded as the father of Modern Medicine."
+  },
+  "47": {
+    "QUESTION": "Components of Occupational Health include:",
+    "OPTION": {
+      "A": "Ergonomics",
+      "B": "Clinical Occupational Medicine",
+      "C": "Industrial Hygiene",
+      "D": "Emergency Deliveries",
+      "E": "First Aid"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Occupational health includes ergonomics, clinical care, hygiene, and first aid; emergency deliveries are unrelated."
+  },
+  "48": {
+    "QUESTION": "A farmer can come down with any of the following diseases:",
+    "OPTION": {
+      "A": "Tuberculosis",
+      "B": "Brucellosis",
+      "C": "Frost Bite",
+      "D": "Insecticide Poisoning",
+      "E": "Malaria"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Farmers are exposed to infectious, environmental, and chemical hazards including these diseases."
+  },
+  "49": {
+    "QUESTION": "Occupational Diseases include the following:",
+    "OPTION": {
+      "A": "Bronchial Asthma",
+      "B": "HIV/AIDS",
+      "C": "Brucellosis",
+      "D": "Lead Poisoning",
+      "E": "Hearing Loss"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Occupational diseases arise from work exposure; HIV/AIDS is not primarily occupational."
+  },
+  "50": {
+    "QUESTION": "Notifiable Occupational Diseases include:",
+    "OPTION": {
+      "A": "Lead Poisoning",
+      "B": "Phosphorus Poisoning",
+      "C": "Road Traffic Accidents",
+      "D": "Hypertension",
+      "E": "Benzene Poisoning"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Lead, phosphorus, and benzene poisoning are legally notifiable; accidents and hypertension are not."
+  }
+}

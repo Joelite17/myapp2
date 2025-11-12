@@ -1,0 +1,327 @@
+{
+  "1": {
+    "QUESTION": "The following are types of descriptive studies",
+    "OPTION": {
+      "A": "Cross-sectional study",
+      "B": "Case report",
+      "C": "Case-control study",
+      "D": "Cohort study",
+      "E": "Clinical trial"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Descriptive studies describe characteristics without analyzing associations; cross-sectional studies and case reports are descriptive. Case-control, cohort, and clinical trials are analytical or interventional."
+  },
+  "2": {
+    "QUESTION": "The Nosocomial (Hospital Acquired) Infections could be prevented through",
+    "OPTION": {
+      "A": "Universal precaution",
+      "B": "Frequent hand washing",
+      "C": "Concurrent and terminal disinfection",
+      "D": "Immunisation of Health care staff against communicable diseases",
+      "E": "Rational use of antibiotics"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed measures help prevent hospital-acquired infections."
+  },
+  "3": {
+    "QUESTION": "Contact tracing can be used as control measure for the following diseases",
+    "OPTION": {
+      "A": "Cholera",
+      "B": "Malaria",
+      "C": "Gonorrhoea",
+      "D": "HIV/AIDS",
+      "E": "Lassa fever"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Contact tracing is effective for STIs, HIV, and Lassa fever; malaria is vector-borne and cholera requires other public health measures."
+  },
+  "4": {
+    "QUESTION": "Major side effects of Anti-retroviral drugs include",
+    "OPTION": {
+      "A": "Stavudine - Lipo-dystrophy",
+      "B": "Nevirapine – Severe rash",
+      "C": "Tenofovir - Nephrotoxicity",
+      "D": "Zidovudine – Anaemia",
+      "E": "Efavirenz – Nightmares"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Stavudine rarely causes lipo-dystrophy in modern use; other drugs have the listed known side effects."
+  },
+  "5": {
+    "QUESTION": "The following are components of DOTS (Directly Observed Treatment Short course)",
+    "OPTION": {
+      "A": "Political will on the part of government",
+      "B": "Regular, uninterrupted supply of drugs and reagents",
+      "C": "Standardised treatment regimen with direct observation drug intake by a health worker",
+      "D": "Purchase of vehicles for effective distribution of drugs and reagents",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "C"],
+    "FALSE": ["B", "D", "E"],
+    "EXPLANATION": "DOTS requires government commitment and direct observation of therapy; vehicle purchase and interrupted drug supply are not standard components."
+  },
+  "6": {
+    "QUESTION": "Onchocerciasis is a water-related disease caused by",
+    "OPTION": {
+      "A": "Simulium damnosum",
+      "B": "Simulium naevi",
+      "C": "Glossina palpalis",
+      "D": "A & B",
+      "E": "A, B & C"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Onchocerciasis is transmitted by Simulium species; Glossina (tsetse fly) is unrelated."
+  },
+  "7": {
+    "QUESTION": "The following airborne diseases are spread by droplets",
+    "OPTION": {
+      "A": "Q-fever",
+      "B": "Legionnaires disease",
+      "C": "Measles",
+      "D": "Cerebrospinal Meningitis",
+      "E": "Tuberculosis"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Measles, meningococcal disease, and tuberculosis can spread via droplets; Q-fever and Legionnaires are not primarily droplet-borne."
+  },
+  "8": {
+    "QUESTION": "Which of the following are promotive services in disease prevention",
+    "OPTION": {
+      "A": "Safe drinking water supply",
+      "B": "Adequate nutrition",
+      "C": "Use of lid-covered refuse bins instead of open bins",
+      "D": "Periodic health screening",
+      "E": "Immunization against tetanus"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Health promotion focuses on preventive measures; tetanus immunization is a preventive measure but categorized under specific prevention rather than general health promotion."
+  },
+  "9": {
+    "QUESTION": "Concerning the Sustainable Development Goals, the following are false",
+    "OPTION": {
+      "A": "The goals are a United Nations initiative",
+      "B": "They are officially known as 'Transforming our world: the 2030 Agenda'",
+      "C": "There are 17 Sustainable Development Goals and 167 targets",
+      "D": "The Goals were adopted on 25 September 2014",
+      "E": "The first Sustainable Development Goal is zero hunger"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "The SDGs were adopted in 2015, not 2014; the other statements are correct."
+  },
+  "10": {
+    "QUESTION": "Healthcare financing options include all the following",
+    "OPTION": {
+      "A": "Life insurance premium",
+      "B": "Community contributions",
+      "C": "Payment for health services rendered",
+      "D": "National Health Insurance Scheme",
+      "E": "Only D is correct"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "Community contributions and NHIS are recognized healthcare financing methods; life insurance and user fees are not primary options."
+  },
+  "11": {
+    "QUESTION": "Regarding health education and health information",
+    "OPTION": {
+      "A": "Health education and Health Information are the same in real terms",
+      "B": "Health education refers to health-related facts",
+      "C": "Until there is a change in behavior, health education is not said to be taken place",
+      "D": "An individual informed about health facts but fail to change behavior is merely health informed not health educated",
+      "E": "There is nothing like Health information"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Health education requires behavior change; mere knowledge is not sufficient."
+  },
+  "12": {
+    "QUESTION": "The following is/are part(s) of the planning cycle except",
+    "OPTION": {
+      "A": "Selection of strategies",
+      "B": "Prioritization of needs",
+      "C": "Activity scheduling",
+      "D": "Resource specification",
+      "E": "Selection of key members"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Selection of key members is not a standard step in the planning cycle."
+  },
+  "13": {
+    "QUESTION": "The following are components of Health Information System",
+    "OPTION": {
+      "A": "Demography and vital statistics",
+      "B": "Community diagnosis",
+      "C": "Health status of individuals",
+      "D": "Financial statistics",
+      "E": "Health management and planning"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Health management and planning is a use of data, not a component of the HIS itself."
+  },
+  "14": {
+    "QUESTION": "These are biological consequences of poor refuse disposal",
+    "OPTION": {
+      "A": "Space occupying",
+      "B": "Aesthetics - unsightly appearance and bad odors",
+      "C": "Infestation with rats and vermins",
+      "D": "Fly-transmitted infections like HIV/AIDS",
+      "E": "Pollution"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Poor refuse disposal causes aesthetic, vermin, and pollution problems; space occupying is not a health consequence, and flies do not transmit HIV."
+  },
+  "15": {
+    "QUESTION": "The characteristics of a good sanitary well include",
+    "OPTION": {
+      "A": "Should be sited at least 10 metres and uphill from potential source of pollution",
+      "B": "There should be water-tight lining of at least 20 feet from the surface",
+      "C": "There should be a concrete platform(parapet) about two feet high surrounded by a concrete apron to drain the waste water away",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Each listed feature is essential for a sanitary well; 'all' or 'none' options are not standalone correct answers."
+  },
+  "16": {
+    "QUESTION": "The following are typical indicators of social and mental health",
+    "OPTION": {
+      "A": "Suicide rates",
+      "B": "Alcohol and drug abuse rate",
+      "C": "Radiation exposure",
+      "D": "Noise levels",
+      "E": "Acts of violence and crime"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Social and mental health indicators include suicide, substance abuse, and violence; radiation and noise are environmental health indicators."
+  },
+  "17": {
+    "QUESTION": "The following sampling techniques are not popular in rural settings",
+    "OPTION": {
+      "A": "Multistage sampling",
+      "B": "Systematic sampling",
+      "C": "Stratified sampling",
+      "D": "Cluster sampling",
+      "E": "Multi-phase sampling"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Systematic, stratified, and multi-phase sampling may be less practical in rural contexts; multistage and cluster sampling are widely used."
+  },
+  "18": {
+    "QUESTION": "Steps to avoid Mother-to-Child Transmission (MTCT) in HIV-infected pregnant women include",
+    "OPTION": {
+      "A": "Artificial breast milk if mother can afford it",
+      "B": "Strictly exclusive breastfeeding with pasteurization for the mother",
+      "C": "Anti-retroviral therapy for the woman",
+      "D": "Decision for elective caesarean section before term",
+      "E": "Post-exposure prophylaxis for the baby after delivery"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "ART, elective C-section, post-exposure prophylaxis, and safe alternatives to breastfeeding are recommended; pasteurized exclusive breastfeeding is not standard."
+  },
+  "19": {
+    "QUESTION": "Which of the following are false regarding nutrients",
+    "OPTION": {
+      "A": "1 gram of protein produces 4 kcal",
+      "B": "1 gram of alcohol produces 7 kcal",
+      "C": "Phenylalanine and Histidine are essential amino acids",
+      "D": "Foods rich in saturated fats are beneficial to the cardiovascular system",
+      "E": "Classification of nutrients is based on function only"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Protein and alcohol energy values, and essential amino acids are correct; saturated fats harm the cardiovascular system, and classification also considers structure."
+  },
+  "20": {
+    "QUESTION": "The following are quantitative methods of data collection except",
+    "OPTION": {
+      "A": "Questionnaires",
+      "B": "Data sheets",
+      "C": "Observational checklists",
+      "D": "Clinic records/case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Key informant interviews are qualitative; the others are quantitative data collection methods."
+  },
+  "21": {
+    "QUESTION": "The following variables can be said to be ordered categorical types",
+    "OPTION": {
+      "A": "Blood groups",
+      "B": "Chlamydia test result",
+      "C": "Culture results",
+      "D": "Educational status of individual",
+      "E": "Social class"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Ordered categorical variables have inherent ranking, like education level and social class; blood groups and lab results are nominal."
+  },
+  "22": {
+    "QUESTION": "The quality of measured data can be defined in terms of the following",
+    "OPTION": {
+      "A": "Stability",
+      "B": "Consistency",
+      "C": "Sensitivity",
+      "D": "Size of data",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Data quality emphasizes stability and consistency; sensitivity and data size are not universal quality metrics."
+  },
+  "23": {
+    "QUESTION": "The following principles of sample size calculation are correct except",
+    "OPTION": {
+      "A": "Ensure that your objectives are quantified",
+      "B": "State the size of the increased risk desired",
+      "C": "State the significance level",
+      "D": "State the hypothesis",
+      "E": "State the power of the study"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Sample size should consider objectives, risk, hypothesis, and power; significance level is a related but not a primary principle."
+  },
+  "24": {
+    "QUESTION": "The properties of a good diagram/graph include the following",
+    "OPTION": {
+      "A": "Should have a title above the table",
+      "B": "Should have a key",
+      "C": "Must be drawn to scale",
+      "D": "Uniform features not always necessary",
+      "E": "Should be self-explanatory"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Good diagrams require title, key, scale, and clarity; uniform features should be consistent."
+  },
+  "25": {
+    "QUESTION": "The skewness of a distribution can be measured by the following formulae",
+    "OPTION": {
+      "A": "Skewness = mean - median",
+      "B": "Skewness = mean + mode",
+      "C": "Skewness is positive if mean < mode",
+      "D": "Skewness is negative if median > mean",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Skewness is negative if the mean < median; other formulas listed are incorrect."
+  }
+}

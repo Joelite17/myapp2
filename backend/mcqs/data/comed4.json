@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "The following are animal related zoonoses except:",
+    "OPTION": {
+      "A": "Bovine tuberculosis",
+      "B": "Rabies",
+      "C": "Leptospirosis",
+      "D": "Q-fever (Coxiella burnetii)",
+      "E": "Anthrax"
+    },
+    "TRUE": ["D"], 
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Q-fever is zoonotic but less common compared to other listed diseases; the rest are classic zoonoses."
+  },
+  "2": {
+    "QUESTION": "The following parasites can penetrate an intact skin except:",
+    "OPTION": {
+      "A": "Ancylostoma duodenale",
+      "B": "Strongyloides sp (Thread worm)",
+      "C": "Schistosomiasis",
+      "D": "Enterobius vermicularis (pin worm)",
+      "E": "Ascaris lumbricoides"
+    },
+    "TRUE": ["D", "E"], 
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Enterobius and Ascaris do not penetrate intact skin; hookworm, Strongyloides, and Schistosoma do."
+  },
+  "3": {
+    "QUESTION": "The antigenic group(s) of Neisseria Meningitidis mainly responsible for epidemics in Africa is(are):",
+    "OPTION": {
+      "A": "C",
+      "B": "W-135",
+      "C": "Y",
+      "D": "B",
+      "E": "A"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "Serogroups A and W-135 are most commonly responsible for African epidemics."
+  },
+  "4": {
+    "QUESTION": "The following STI's are caused by the matched organisms:",
+    "OPTION": {
+      "A": "Lymphogranuloma venereum / Chlamydia trachomatis",
+      "B": "Chancroid / Treponema pallidum",
+      "C": "Granuloma inguinale / Gardnerella vaginalis",
+      "D": "Genital warts / Human Papillomavirus (HPV)",
+      "E": "Non-specific urethritis / Ureaplasma urealyticum"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Chancroid is caused by Haemophilus ducreyi, and granuloma inguinale by Klebsiella granulomatis; the rest are correctly matched."
+  },
+  "5": {
+    "QUESTION": "In a skewed distribution:",
+    "OPTION": {
+      "A": "The mean is higher than the median and mode in positive skew",
+      "B": "The mean is the most reliable measure of central tendency",
+      "C": "Mean, mode, and median are equal",
+      "D": "The curve is symmetrical about the mode",
+      "E": "None of the above"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "In positively skewed distributions, the mean > median > mode; mean is sensitive to extreme values."
+  },
+  "6": {
+    "QUESTION": "The following are risk factors for mother-to-child transmission of HIV:",
+    "OPTION": {
+      "A": "High child viral load",
+      "B": "HIV 1 infection",
+      "C": "Vaginal delivery",
+      "D": "Forceps delivery",
+      "E": "2 or multiple deliveries"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "MTCT risk factors include high viral load, mode of delivery (vaginal/forceps), and type of maternal infection."
+  },
+  "7": {
+    "QUESTION": "The following are true about Focused antenatal care (FANC):",
+    "OPTION": {
+      "A": "Is based on evidence-based actions",
+      "B": "Has promotive, preventive & curative components",
+      "C": "A birth plan must always be written down",
+      "D": "Deals only with the period of pregnancy",
+      "E": "Men have a limited role"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "FANC is evidence-based and covers promotive, preventive, and curative care; it also includes pre- and postnatal components."
+  },
+  "8": {
+    "QUESTION": "The following are formal sources of literature in research:",
+    "OPTION": {
+      "A": "Journals, books",
+      "B": "Report of Expert Committee",
+      "C": "Search engines - Google",
+      "D": "PubMed",
+      "E": "Thesis/Dissertation"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Search engines are tools, not formal sources of literature."
+  },
+  "9": {
+    "QUESTION": "Ethical issues in research involve which of the following:",
+    "OPTION": {
+      "A": "Informed consent",
+      "B": "Right to withdraw",
+      "C": "Reasons for the study",
+      "D": "Permission for access to medical records",
+      "E": "Provision of study results"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Ethical issues include consent, withdrawal, privacy, and feedback; study rationale is not an ethical requirement."
+  },
+  "10": {
+    "QUESTION": "The following are quantitative methods of data collection except:",
+    "OPTION": {
+      "A": "Questionnaires",
+      "B": "Data sheets",
+      "C": "Observational Checklists",
+      "D": "Clinic record - case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Key informant interviews are qualitative methods."
+  },
+  "11": {
+    "QUESTION": "The following sampling techniques are popular in rural settings:",
+    "OPTION": {
+      "A": "Multistage sampling",
+      "B": "Systematic sampling",
+      "C": "Stratified sampling",
+      "D": "Cluster sampling",
+      "E": "Multi-phase sampling"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Multistage, systematic, and cluster sampling are commonly used in rural population surveys."
+  },
+  "12": {
+    "QUESTION": "The following are true as regards uses of water in public health:",
+    "OPTION": {
+      "A": "Minimum of 200-400L/person/day is needed in rural areas",
+      "B": "Minimum of 20-60 L/person/day is needed in the urban areas",
+      "C": "At least 50 L/day will be adequate for basic human needs in maintaining good health",
+      "D": "Serves in sports & medium for recreations e.g., swimming, boating",
+      "E": "Water scarcity is the aetiological factor for the Ebola Virus Disease"
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Rural water needs are lower than 200-400 L; water scarcity does not directly cause Ebola; recreation is not only for aesthetics."
+  },
+  "13": {
+    "QUESTION": "In assessing water quality:",
+    "OPTION": {
+      "A": "Coliform organisms are the only organisms used as indicators of recent faecal pollution",
+      "B": "A faecal Coliform count of 50/1000ml is acceptable",
+      "C": "A Coliform count of 10 coliforms/100ml is acceptable",
+      "D": "Water with turbidity of <15 nephelometric turbidity units (NTU) is acceptable",
+      "E": "Cyanide levels of not more than <0.05mg/l is considered safe"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "Faecal coliform zero is acceptable; 10/100ml is too high; turbidity <15 NTU and cyanide <0.05mg/l are safe."
+  },
+  "14": {
+    "QUESTION": "Water impounding diseases include:",
+    "OPTION": {
+      "A": "Onchocerciasis",
+      "B": "Filariasis",
+      "C": "Schistosomiasis",
+      "D": "Paragonimiasis",
+      "E": "Ascariasis"
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Filariasis and Schistosomiasis are associated with water impoundment; the rest are not."
+  },
+  "15": {
+    "QUESTION": "The health effects of poorly disposed refuse include:",
+    "OPTION": {
+      "A": "Pollution of water supply",
+      "B": "Breeding of flies and rats",
+      "C": "Mosquito-borne diseases",
+      "D": "Stress",
+      "E": "Murine typhus infection"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Stress is indirect; refuse directly leads to water pollution, vector breeding, and zoonotic infections."
+  },
+  "16": {
+    "QUESTION": "The characteristics of a good sanitary well include:",
+    "OPTION": {
+      "A": "Should be sited at least 10 meters and uphill from any potential source of pollution",
+      "B": "There should be water-tight lining of at least 20 feet from the surface",
+      "C": "There should be a concrete platform (parapet) about 2 feet high surrounded by a concrete apron to drain the wastewater away (1m)",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "All listed features are required for a sanitary well."
+  },
+  "17": {
+    "QUESTION": "The following are characteristics of good sewage disposal:",
+    "OPTION": {
+      "A": "Must not pollute the surface soil, surface water, or underground water",
+      "B": "Must be unsightly or smelly",
+      "C": "Must be inaccessible to flies or animals",
+      "D": "Encourage handling of fresh sewage",
+      "E": "Method should be simple, cheap, and culturally acceptable"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Sewage disposal should protect the environment, be fly-proof, simple, and culturally acceptable."
+  },
+  "18": {
+    "QUESTION": "In the segregation of hospital wastes, the following is/are correct:",
+    "OPTION": {
+      "A": "Black: Non-infectious",
+      "B": "Brown: Infectious",
+      "C": "Red: Sharps",
+      "D": "Yellow: Chemical",
+      "E": "Black with radioactive label: Radioactive"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "These are standard WHO/CDC hospital waste color codes."
+  },
+  "19": {
+    "QUESTION": "Infection with the following confers life-long immunity?",
+    "OPTION": {
+      "A": "Mumps",
+      "B": "Varicella-Zoster virus",
+      "C": "Neisseria meningitides",
+      "D": "Measles virus",
+      "E": "a, b and d"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Mumps, varicella, and measles typically confer long-lasting immunity after infection."
+  },
+  "20": {
+    "QUESTION": "In which of the following rodents implicated as vectors",
+    "OPTION": {
+      "A": "Lassa fever",
+      "B": "Leptospirosis",
+      "C": "Histoplasmosis",
+      "D": "Rat bite fever",
+      "E": "Ebola"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Lassa fever is endemic in parts of West Africa; the others are not Lassa endemic diseases."
+  },
+  "21": {
+    "QUESTION": "Physical occupational hazards include:",
+    "OPTION": {
+      "A": "Occupational hearing loss",
+      "B": "Extremes of temperature",
+      "C": "Vibration",
+      "D": "Humidity",
+      "E": "Radiation"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Humidity is not typically classified as a physical hazard, while the others are recognized physical hazards."
+  },
+  "22": {
+    "QUESTION": "Methods of health education in Occupational health include:",
+    "OPTION": {
+      "A": "Information processes e.g., Posters, talks, seminars",
+      "B": "Use of health and safety committees",
+      "C": "Use of accident prevention and accident investigation committees",
+      "D": "Incentive programs",
+      "E": "Disincentive programs for unsafe conduct"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed methods are applied in occupational health education and safety management."
+  },
+  "23": {
+    "QUESTION": "Live vaccines include:",
+    "OPTION": {
+      "A": "Yellow fever vaccine",
+      "B": "Meningitis vaccine",
+      "C": "Diphtheria",
+      "D": "Typhoid",
+      "E": "Hepatitis B"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Yellow fever vaccine is a live attenuated vaccine; the others are inactivated or subunit vaccines."
+  },
+  "24": {
+    "QUESTION": "Factors which cause food spoilage include:",
+    "OPTION": {
+      "A": "High atmospheric temperature",
+      "B": "Food vendors with respiratory infections",
+      "C": "Cooking with pressure pots",
+      "D": "Contamination with Salmonella typhi",
+      "E": "Eating organically grown foods"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "High temperature, contamination, and unhygienic handlers cause spoilage; pressure cooking and organic foods do not."
+  },
+  "25": {
+    "QUESTION": "The following predispose to vaginal candidiasis:",
+    "OPTION": {
+      "A": "Use of oral contraceptives",
+      "B": "Diabetes mellitus",
+      "C": "Pregnancy",
+      "D": "Use of antibiotics",
+      "E": "Cancer of the liver"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Liver cancer is not a recognized predisposing factor for vaginal candidiasis."
+  },
+  "26": {
+    "QUESTION": "In a baby-friendly hospital like Madonna Teaching Hospital the following should be the norms",
+    "OPTION": {
+      "A": "Feeding bottles are not allowed for babies",
+      "B": "Maternity and Labour ward staff should assist mothers in initiating breastfeeding within 1 hour of delivery",
+      "C": "Cesarean section mothers are to rest for 4 hours before initiating breastfeeding",
+      "D": "Separate babies from their sick mothers",
+      "E": "Resume breastfeeding after discharge from hospital"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Baby-friendly hospital policies emphasize early initiation and avoidance of bottles; C and D are incorrect practices."
+  },
+  "27": {
+    "QUESTION": "The following are indications for the transfer of a child from the secondary to tertiary level of care:",
+    "OPTION": {
+      "A": "Subcostal recession in a kwashiorkor patient",
+      "B": "Frequent stooling",
+      "C": "Dribbling or poor urine stream in a male infant",
+      "D": "Acute respiratory tract infection in a 3-week-old with fever and subcostal recession",
+      "E": "Jaundice in the first 24 hrs of life"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Frequent stooling alone is not usually an indication for referral, but the other conditions require secondary care."
+  },
+  "28": {
+    "QUESTION": "Place the following in the sequence used for weighing children at Awo Omama General Hospital:",
+    "OPTION": {
+      "A": "Set the weighing scale to zero-second",
+      "B": "Minimize the clothing of the child-first",
+      "C": "Weigh the child-third",
+      "D": "Weigh the mother and the child-third",
+      "E": "Weigh the mother-third"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed steps are sequentially followed in weighing procedures; child clothing is minimized first."
+  },
+  "29": {
+    "QUESTION": "In Focus Group Discussion:",
+    "OPTION": {
+      "A": "Participants are usually 20 to 30 in number",
+      "B": "Participants should be of the same age",
+      "C": "Members may be of different gender",
+      "D": "Presence of a moderator is optional",
+      "E": "Members come from the same social background"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Participants can be mixed-gender, come from similar backgrounds; same age and optional moderator are incorrect."
+  },
+  "30": {
+    "QUESTION": "The following is/are true concerning repetition as a principle of health education:",
+    "OPTION": {
+      "A": "It is also called Spaced learning",
+      "B": "Repetition at intervals is good for health programs",
+      "C": "Is synonymous with Reinforcement",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "All listed statements correctly describe repetition in health education."
+  },
+  "31": {
+    "QUESTION": "The Eijkman experiment in which he fed natives of Java brown rice can be applied in the treatment of",
+    "OPTION": {
+      "A": "Scurvy",
+      "B": "Beri Beri",
+      "C": "Cholecalciferol deficiency",
+      "D": "Wernicke's encephalopathy",
+      "E": "Lactic acidosis"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Brown rice deficiency studies revealed thiamine (Vitamin B1) deficiency causing Beri Beri."
+  },
+  "32": {
+    "QUESTION": "In the guidelines for essential drugs:",
+    "OPTION": {
+      "A": "Selection of drugs should be guided by scientific proof and proven effectiveness",
+      "B": "The least expensive drug should be chosen when it comes to selecting clinically effective drugs",
+      "C": "Drugs should not be referred to by generic names",
+      "D": "As far as practicable, duplication of drugs should be avoided",
+      "E": "Combination of drugs should be considered if it provides a needed benefit over a single entity"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Generic names are preferred; cost-effectiveness and avoiding duplication are important principles."
+  },
+  "33": {
+    "QUESTION": "A child of 4 years who is found on examination to have a muddy, wrinkled conjunctiva should be given?",
+    "OPTION": {
+      "A": "900mcg of Vitamin A",
+      "B": "200mcg of Vitamin C",
+      "C": "600mcg of Vitamin B complex",
+      "D": "200,000 IU of Vitamin A",
+      "E": "110 mcg of retinol palmitate"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "A 4-year-old with vitamin A deficiency signs should receive a high-dose (200,000 IU) vitamin A supplement."
+  },
+  "34": {
+    "QUESTION": "The following are emerging/re-emerging diseases:",
+    "OPTION": {
+      "A": "Malaria",
+      "B": "Marburg fever",
+      "C": "Creutzfeld-Jakob disease",
+      "D": "Tuberculosis",
+      "E": "Cholera"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Malaria is endemic and not classified as emerging/re-emerging; the others are."
+  },
+  "35": {
+    "QUESTION": "Major side effects of anti-Kochs medications include:",
+    "OPTION": {
+      "A": "Rifampicin - Peripheral neuropathy",
+      "B": "Isoniazid - Reddish discoloration of urine, feces",
+      "C": "Ethambutol - Optic nerve damage",
+      "D": "Streptomycin - Audio vestibular nerve damage",
+      "E": "Pyrazinamide - Hepatitis"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Peripheral neuropathy is mainly caused by Isoniazid, not Rifampicin."
+  },
+  "36": {
+    "QUESTION": "Some of the objectives of Community diagnosis include:",
+    "OPTION": {
+      "A": "Obtain routine data for PHC plan implementation",
+      "B": "Maintain the health status of the community",
+      "C": "Bring health care closer to the people in the community",
+      "D": "Change attitudes of people towards health services",
+      "E": "Monitor health resources and services within the community"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed objectives are part of community diagnosis."
+  },
+  "37": {
+    "QUESTION": "The following are publications of the World Health Organization:",
+    "OPTION": {
+      "A": "Weekly epidemiological report",
+      "B": "Pharmacopoeia",
+      "C": "World health bulletin",
+      "D": "World health policy and planning",
+      "E": "Arise Africa"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "WHO publishes epidemiological reports, pharmacopoeia, and world health bulletins; not the other two."
+  },
+  "38": {
+    "QUESTION": "In the clinical case definition for HIV/AIDS which of the following are minor signs?",
+    "OPTION": {
+      "A": "Weight loss of >10% body weight",
+      "B": "Persistent cough of <1 month",
+      "C": "Chronic diarrhea >1 month",
+      "D": "Generalized pruritic dermatitis",
+      "E": "Oral candidiasis"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "Minor signs include persistent short cough, generalized pruritus, and oral candidiasis; weight loss >10% and chronic diarrhea are major signs."
+  },
+  "39": {
+    "QUESTION": "The following are NGOs which address women/child rights issues except:",
+    "OPTION": {
+      "A": "NAPTIP",
+      "B": "ANPPCAN",
+      "C": "CEDAW",
+      "D": "WACOL",
+      "E": "MWAN"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "CEDAW (Convention on the Elimination of All Forms of Discrimination Against Women) is an international treaty, not an NGO. NAPTIP: National Agency for the Prohibition of Trafficking in Persons; ANPPCAN: African Network for the Prevention and Protection against Child Abuse and Neglect; WACOL: Women Aid Collective; MWAN: Muslim Women's Association of Nigeria."
+  },
+  "40": {
+    "QUESTION": "When a new treatment is developed that prevents death but does not produce recovery:",
+    "OPTION": {
+      "A": "Prevalence of the disease will increase",
+      "B": "Incidence of the disease will decrease",
+      "C": "Prevalence of the disease will be static",
+      "D": "All of the above",
+      "E": "Only A and B are correct"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Preventing death increases the number of existing cases (prevalence), incidence may stay the same; A and E correctly describe this."
+  },
+  "41": {
+    "QUESTION": "Concerning variables the following are not false:",
+    "OPTION": {
+      "A": "The main divisions are numerical and categorical variables only",
+      "B": "Weight, height, and serum cholesterol level are continuous scale measurements",
+      "C": "Dichotomous variables are commoner in nature",
+      "D": "Social class is an example of an ordered numerical variable",
+      "E": "Polychotomous variables are more difficult to analyze"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Dichotomous variables are common but not necessarily more frequent than others; social class is categorical ordinal, not numerical."
+  },
+  "42": {
+    "QUESTION": "The quality of data is very important in terms of the following except:",
+    "OPTION": {
+      "A": "Validity",
+      "B": "Precision",
+      "C": "Units of measurement",
+      "D": "Predictive value of the test result",
+      "E": "Repeatability"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Units of measurement are standard but not a quality indicator."
+  },
+  "43": {
+    "QUESTION": "The following statements about the characteristics and uses of arithmetic mean are correct:",
+    "OPTION": {
+      "A": "It is the center of gravity of all values",
+      "B": "It is a stable average",
+      "C": "It is not necessarily a value belonging to the group",
+      "D": "Cannot be calculated if a single observation is missing",
+      "E": "Variability of the mean does not depend on the sample size"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Mean can still be calculated if one observation is missing; variability decreases as sample size increases."
+  },
+  "44": {
+    "QUESTION": "The following are measures of location except?",
+    "OPTION": {
+      "A": "Range",
+      "B": "Mid range",
+      "C": "Deciles",
+      "D": "Quintile",
+      "E": "Quantile"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Range and mid-range are measures of spread, not location."
+  },
+  "45": {
+    "QUESTION": "The importance of the Gaussian curve in Biostatistics includes the following?",
+    "OPTION": {
+      "A": "Sampling distributions of means and proportions are known to have normal distribution",
+      "B": "When the distribution is not normal, transformation techniques exist to make it normal",
+      "C": "The statistical theory is elegant if the assumptions hold",
+      "D": "It is the cornerstone of all tests of statistical significance",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "All listed points describe the importance of Gaussian distribution."
+  },
+  "46": {
+    "QUESTION": "The following statement(s) about errors in sampling is/are true:",
+    "OPTION": {
+      "A": "The power of the test is 1-β",
+      "B": "The power of the test is the probability of committing errors in research",
+      "C": "Precision is measured by the formula S²/n",
+      "D": "Type 1 error is commoner in research than Type 2 error",
+      "E": "The probability of Type 1 error is known as the level of significance"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Power = 1 - β; precision = S²/n; level of significance = probability of Type 1 error; B is incorrect."
+  },
+  "47": {
+    "QUESTION": "Chi square as a test of significance can be used in the following conditions:",
+    "OPTION": {
+      "A": "In the test of proportions",
+      "B": "Analysis of contingency tables",
+      "C": "To test independence of attributes",
+      "D": "To test heterogeneity of attributes",
+      "E": "Used mostly for classified attributes"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Chi-square is applicable to proportions, contingency tables, testing independence/heterogeneity, and categorical data."
+  },
+  "48": {
+    "QUESTION": "The changes in population which a country may undergo during its development are described by:",
+    "OPTION": {
+      "A": "Warren Thompson, 1919",
+      "B": "Malthus, 1608",
+      "C": "Garen Powel, 1608",
+      "D": "Pearson, 1722",
+      "E": "John Snow, 1754"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Warren Thompson described demographic transition in 1919; others are unrelated to this model."
+  },
+  "49": {
+    "QUESTION": "The following can be diagnosed by signs on the face:",
+    "OPTION": {
+      "A": "Malaria",
+      "B": "Anaemia",
+      "C": "Tuberculosis",
+      "D": "Cholera",
+      "E": "Dehydration"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "Facial signs can reveal anemia and dehydration; others require lab/clinical diagnosis."
+  },
+  "50": {
+    "QUESTION": "The ORS pack used in managing diarrhea contains the following:",
+    "OPTION": {
+      "A": "Sodium citrate",
+      "B": "Potassium chloride",
+      "C": "Sucrose",
+      "D": "Sodium bicarbonate",
+      "E": "C and D"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "ORS formulation includes sodium citrate, potassium chloride, sucrose, and sometimes sodium bicarbonate."
+  }
+}

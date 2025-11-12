@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "The following are barriers to effective health education:",
+    "OPTION": {
+      "A": "Effective feedback mechanism by the communicator",
+      "B": "Awareness of the influences of personal values",
+      "C": "Taboos",
+      "D": "Insufficient mobilisation of the audience",
+      "E": "Official approval"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Barriers to effective health education include taboos and poor mobilisation; effective feedback, personal value awareness, and official approval facilitate education."
+  },
+  "2": {
+    "QUESTION": "The following constitute the management cycle:",
+    "OPTION": {
+      "A": "Administration",
+      "B": "Planning",
+      "C": "Evaluation",
+      "D": "Funding",
+      "E": "Implementation"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Management cycle includes administration, planning, funding, and implementation; evaluation is part of the control phase, not the core cycle."
+  },
+  "3": {
+    "QUESTION": "The following causes of maternal death are classified as direct obstetric deaths:",
+    "OPTION": {
+      "A": "Ruptured uterus",
+      "B": "Eclampsia",
+      "C": "Hypertension",
+      "D": "Post partum haemorrhage",
+      "E": "Diabetes in pregnancy"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Direct obstetric deaths result from complications of pregnancy, labor, or postpartum; hypertension and diabetes are indirect causes."
+  },
+  "4": {
+    "QUESTION": "Female Genital Mutilations:",
+    "OPTION": {
+      "A": "Is all procedures that involve total removal of the external genitalia?",
+      "B": "Was previously called female circumcision",
+      "C": "Includes 4 types: clitoridectomy, excision, infibulation and others",
+      "D": "Is believed by the practitioners to reduce sexual promiscuity",
+      "E": "Has strictly medical disadvantages only"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "FGM includes partial or total removal of female genitalia, not strictly total; cultural beliefs drive the practice; it has medical, psychological, and social disadvantages."
+  },
+  "5": {
+    "QUESTION": "The tissues affected by irradiation include:",
+    "OPTION": {
+      "A": "Skin",
+      "B": "Peripheral nerves",
+      "C": "Mucosa of the upper respiratory tract",
+      "D": "Eyes",
+      "E": "Bones"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Irradiation affects rapidly dividing tissues like skin, mucosa, eyes, and bones; peripheral nerves are relatively resistant."
+  },
+  "6": {
+    "QUESTION": "The basic requirement for measurements in epidemiology includes:",
+    "OPTION": {
+      "A": "Association",
+      "B": "Reliability",
+      "C": "Specificity",
+      "D": "Validity",
+      "E": "Accuracy"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Epidemiological measurements must be reliable, specific, valid, and accurate; association is an analytical outcome, not a measurement requirement."
+  },
+  "7": {
+    "QUESTION": "Regarding rates in epidemiology:",
+    "OPTION": {
+      "A": "Indicates the change in an event over a period",
+      "B": "Has a numerator not part of the denominator",
+      "C": "Is only expressed per 100,000",
+      "D": "Is either specific or crude only",
+      "E": "Is not a statement of the risk of developing a health condition"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "A rate measures change in events over time; the numerator is part of the denominator, and rates can be expressed in any appropriate unit."
+  },
+  "8": {
+    "QUESTION": "Prevalence is expressed mathematically as:",
+    "OPTION": {
+      "A": "P=Incidence X Disability",
+      "B": "P=Incidence X Morbidity",
+      "C": "P=Mortality X Morbidity",
+      "D": "P=Duration X Disability",
+      "E": "P=Duration X Incidence"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Prevalence is the product of incidence and the average duration of the disease."
+  },
+  "9": {
+    "QUESTION": "During a measles outbreak in a community, a family of 6 with both parents immunized had 2 of the 4 children developing symptoms/signs. What is the attack rate?",
+    "OPTION": {
+      "A": "40%",
+      "B": "33.3%",
+      "C": "50%",
+      "D": "16.6%",
+      "E": "80%"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Attack rate = (Number of new cases / Number at risk) x 100 = (2/4)*100 = 50%."
+  },
+  "10": {
+    "QUESTION": "Water washed (shortage) diseases include:",
+    "OPTION": {
+      "A": "Scabies",
+      "B": "Trachoma",
+      "C": "Filariasis",
+      "D": "Malaria",
+      "E": "Trypanosomiasis"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Diseases caused by poor personal hygiene include scabies and trachoma; filariasis, malaria, and trypanosomiasis are vector-borne."
+  },
+  "11": {
+    "QUESTION": "Factors affecting nosocomial transfer of infections include all except:",
+    "OPTION": {
+      "A": "Extremes of age",
+      "B": "Underlying illness e.g cancer",
+      "C": "Aseptic hospital procedures",
+      "D": "Short stay in the hospital",
+      "E": "Only (d) is correct"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Short hospital stay reduces risk of nosocomial infection; age, illness, and poor aseptic procedures increase risk."
+  },
+  "12": {
+    "QUESTION": "The following are components of DOTS:",
+    "OPTION": {
+      "A": "Political will",
+      "B": "Establishment of standardized diagnosis through sputum microscopy",
+      "C": "Adoption of standardized treatment for all diagnosed TB cases",
+      "D": "Regular and uninterrupted supply of quality drugs, reagents and other logistics",
+      "E": "Use of standardized recording and reporting format for monitoring and evaluation"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "DOTS requires political commitment, standardized diagnosis and treatment, drug supply, and proper monitoring and reporting."
+  },
+  "13": {
+    "QUESTION": "Steps to avoid Maternal-to-child transmission in an HIV-infected pregnant woman include:",
+    "OPTION": {
+      "A": "Anti-retroviral therapy for the woman",
+      "B": "Decision for elective caesarean section before term",
+      "C": "Post-exposure prophylaxis of anti-retroviral for the baby after delivery",
+      "D": "Artificial breast milk as option if the mother can afford it",
+      "E": "Strictly exclusive breastfeeding with pasteurization for a poor mother"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Maternal ART, infant prophylaxis, and safe feeding practices prevent transmission; elective c-section and pasteurization are not universally required."
+  },
+  "14": {
+    "QUESTION": "The components of school health environment include the following except:",
+    "OPTION": {
+      "A": "Food services",
+      "B": "School buildings",
+      "C": "School dispensary",
+      "D": "Psycho-social environment",
+      "E": "Water supply"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "A healthy school environment requires safe water; buildings, food services, dispensary, and psycho-social environment are part of school resources, not environment component exclusions."
+  },
+  "15": {
+    "QUESTION": "Concerning climate change:",
+    "OPTION": {
+      "A": "The causes could be natural or man-made",
+      "B": "Changes in the sun itself and the tilt of the earth can cause warmer earth's temperature",
+      "C": "Animal grazing, use of agricultural fertilizers and improper waste disposal are contributory",
+      "D": "Increased industrial waste, increased hydrofluorocarbon contribute to global warming",
+      "E": "It has led to extreme weather effects"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Climate change is caused by natural and human activities and results in extreme weather events."
+  },
+  "16": {
+    "QUESTION": "Iodization of salt is an example of:",
+    "OPTION": {
+      "A": "Primordial prevention",
+      "B": "Secondary prevention",
+      "C": "Primary prevention",
+      "D": "Tertiary prevention",
+      "E": "None of the above"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Iodized salt prevents iodine deficiency disorders, representing primary prevention."
+  },
+  "17": {
+    "QUESTION": "Concerning International Health:",
+    "OPTION": {
+      "A": "It arose as a result of EU, comparison and mutual benefit",
+      "B": "The spread of Ebola across borders Europe, e.g. international conferences, health and sanitary conventions, alien WHO",
+      "C": "Areas of partnership is only in disease control and does not include research and training",
+      "D": "Agencies involved could be multilateral like Red Cross",
+      "E": "Organisation of WHO consists of the Assembly, the Board and Secretariats"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "International health involves cooperation, disease control, research, training, and organizations like WHO and Red Cross; partnership is not limited to disease control."
+  },
+  "18": {
+    "QUESTION": "The organism mostly responsible for hospital acquired wound infection is:",
+    "OPTION": {
+      "A": "Strep. aureus",
+      "B": "Coliforms",
+      "C": "Staph aureus",
+      "D": "Salmonella",
+      "E": "Clostridium perfringes"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Staphylococcus aureus is the most common cause of hospital-acquired wound infections."
+  },
+  "19": {
+    "QUESTION": "Census:",
+    "OPTION": {
+      "A": "Is either local or international",
+      "B": "Could be de jure or de facto",
+      "C": "Is carried out at regular intervals of 5 years",
+      "D": "The procedure involves pre-enumeration, enumeration and post enumeration stages",
+      "E": "It is useful in planning of health services, but not for social welfare services"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Census can be local/international, de jure/de facto, and involves pre-, during, and post-enumeration; interval is usually 10 years and it informs health and social planning."
+  },
+  "20": {
+    "QUESTION": "The following are basic features of experimental studies:",
+    "OPTION": {
+      "A": "Randomization",
+      "B": "Manipulation/treatment",
+      "C": "Control",
+      "D": "Matching",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Experimental studies typically include randomization, manipulation, control, and sometimes matching; 'All of the above' summarizes these features."
+  },
+  "21": {
+    "QUESTION": "Activities to control sexually transmitted infections are as follows except:",
+    "OPTION": {
+      "A": "Contact tracing",
+      "B": "Sex education",
+      "C": "Screening of every adult",
+      "D": "Treating sick persons",
+      "E": "A, B, D are correct"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Control of STIs includes contact tracing, sex education, and treatment, but universal adult screening is not standard practice."
+  },
+  "22": {
+  "QUESTION": "Viral sexually transmitted infections include:",
+  "OPTION": {
+    "A": "Hepatitis B",
+    "B": "HIV",
+    "C": "Herpes simplex",
+    "D": "Chancroid",
+    "E": "CMV"
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Hepatitis B, HIV, Herpes simplex, and CMV are viral STIs; Chancroid is bacterial, caused by Haemophilus ducreyi."
+  },
+  "23": {
+    "QUESTION": "Which of these is true about Neglected Tropical Diseases (NTDs)?",
+    "OPTION": {
+      "A": "They are a group of tropical diseases that were previously controlled but are coming back",
+      "B": "They have been persistent because they have been shown little or no attention",
+      "C": "They are especially endemic in low-income populations of African and Asian developing regions",
+      "D": "They include ascariasis, schistosomiasis, lymphatic filariasis and trachoma",
+      "E": "They don't include African sleeping sickness, Leprosy or Japanese encephalitis"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "NTDs persist due to neglect and mainly affect low-income populations in Africa and Asia. Common NTDs include ascariasis, schistosomiasis, lymphatic filariasis, trachoma, African sleeping sickness, leprosy, and Japanese encephalitis. Option A is false because NTDs were never fully controlled, and option E is false because those diseases are part of NTDs."
+  },
+  "24": {
+    "QUESTION": "The interruption of transmission of disease from large geographic regions or areas is:",
+    "OPTION": {
+      "A": "Eradication",
+      "B": "Surveillance",
+      "C": "Monitoring",
+      "D": "Elimination",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Elimination refers to stopping disease transmission in a defined area; eradication is global."
+  },
+  "25": {
+    "QUESTION": "The separation of infected persons or animals for the period of communicability to prevent transmission is called:",
+    "OPTION": {
+      "A": "Isolation",
+      "B": "Quarantine",
+      "C": "Disease detection",
+      "D": "International regulation",
+      "E": "All of the above"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Isolation separates infected individuals during the period they can transmit disease. Quarantine is for individuals who may have been exposed but are not yet confirmed infected. Other options are unrelated."
+  },
+  "26": {
+  "QUESTION": "The difference between shallow and deep wells is:",
+  "OPTION": {
+    "A": "A deep well has a concrete parapet",
+    "B": "A shallow well is drawn by permanent pump",
+    "C": "A deep well has a water-tight lining",
+    "D": "In a shallow well water, is collected from above the first impervious layer",
+    "E": "All of the above"
+  },
+  "TRUE": ["A", "C", "D"],
+  "FALSE": ["B", "E"],
+  "EXPLANATION": "Deep wells have concrete parapets and water-tight lining; shallow wells collect water above the first impervious layer and are usually drawn manually, not with permanent pumps. 'All of the above' is incorrect because not all statements are true."
+  },
+  "27": {
+    "QUESTION": "Statistical analysis of data includes:",
+    "OPTION": {
+      "A": "Methods of calculating statistics",
+      "B": "Methods of displaying data in tables and charts",
+      "C": "A process of converting data into information",
+      "D": "A process through which inferences can be made from a set of data",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Statistical analysis involves calculating statistics, displaying data, converting it into information, and making inferences; 'None of the above' is incorrect."
+  },
+  "28": {
+    "QUESTION": "The ability of a test to identify correctly those who do not have the disease is termed:",
+    "OPTION": {
+      "A": "Positive predictive value",
+      "B": "Sensitivity",
+      "C": "Negative predictive value",
+      "D": "Specificity",
+      "E": "B & D"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Specificity is the proportion of true negatives correctly identified. Sensitivity measures true positives; positive and negative predictive values relate to test result interpretation."
+  },
+  "29": {
+    "QUESTION": "Epidemiological studies can only be broadly classified into:",
+    "OPTION": {
+      "A": "Observational and analytical",
+      "B": "Descriptive and analytical",
+      "C": "Case-Control and Cohort",
+      "D": "Randomized and non-randomized",
+      "E": "None of the above"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Epidemiological studies are broadly classified as descriptive (describing patterns) and analytical (examining associations); other classifications are more specific types."
+  },
+  "30": {
+    "QUESTION": "Which of the following is true about the National Health Insurance Scheme?",
+    "OPTION": {
+      "A": "Chronic and terminal diseases are included",
+      "B": "All the children of an enrolee can access care",
+      "C": "The HMO pays decapitation to primary care given based on per diem",
+      "D": "Primary, Secondary and tertiary care giving facilities should be accredited",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "The NHIS covers chronic diseases, allows access for dependents, uses capitation and accreditation; therefore, all statements are correct."
+  },
+  "31": {
+    "QUESTION": "Concerning WHO:",
+    "OPTION": {
+      "A": "The present Director General is Ban Ki-moon",
+      "B": "Its Headquarter is in Geneva, Switzerland",
+      "C": "Its African regional office is in Alexandria, Egypt",
+      "D": "It has the constitutional responsibility for coordinating International Cooperation for health under United Nations",
+      "E": "Part of its function on disease control includes programmes like TDR, RBM and STOP TB"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "WHO HQ is in Geneva; the African Regional Office is in Brazzaville, Congo; the Director-General is not Ban Ki-moon; disease control programs include TDR, RBM, STOP TB."
+  },
+  "32": {
+    "QUESTION": "The following are examples of vital statistics:",
+    "OPTION": {
+      "A": "Birth records",
+      "B": "Death records",
+      "C": "Marriage records",
+      "D": "Migration records",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Vital statistics include all civil records: births, deaths, marriages, and migrations."
+  },
+  "33": {
+    "QUESTION": "In Community Diagnosis:",
+    "OPTION": {
+      "A": "The process identifies the felt needs of the community",
+      "B": "Advocacy visits to the community leaders is done last",
+      "C": "Head/hand demographic data needed for diagnosis can be collected from vital records",
+      "D": "Data for community diagnosis can be collected using questionnaires",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Community diagnosis identifies community needs using vital records and surveys; advocacy is not done last."
+  },
+  "34": {
+    "QUESTION": "The following are types of occupational hazards:",
+    "OPTION": {
+      "A": "Physical hazards",
+      "B": "Chemical hazards",
+      "C": "Biological hazards",
+      "D": "Mechanical hazards",
+      "E": "Psychosocial hazards"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Occupational hazards include physical, chemical, biological, mechanical, and psychosocial risks."
+  },
+  "35": {
+    "QUESTION": "The following are animal related zoonosis:",
+    "OPTION": {
+      "A": "Bovine tuberculosis",
+      "B": "Rabies",
+      "C": "Leptospirosis",
+      "D": "Q-fever",
+      "E": "Anthrax"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed diseases are zoonoses transmitted from animals to humans."
+  },
+  "36": {
+    "QUESTION": "Which of the following is true about Cerebro-spinal meningitis?",
+    "OPTION": {
+      "A": "Caused by Neisseria meningitides",
+      "B": "Often occurs as epidemic in the meningitis belt of Tropical Africa during dry season",
+      "C": "Control measures include gathering people in camps for health education during epidemics",
+      "D": "Control measures include immunizations",
+      "E": "Injection of long acting chloramphenicol (Tifomycin) is an effective treatment"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "CSM is caused by Neisseria meningitidis; immunization and antibiotics are control measures; gathering people in camps increases risk."
+  },
+  "37": {
+    "QUESTION": "The global increase of chronic non-communicable disease is not attributable to:",
+    "OPTION": {
+      "A": "Epidemiologic transition",
+      "B": "Demographic transition",
+      "C": "Changes in ecology",
+      "D": "Changes in lifestyle",
+      "E": "Industrialization"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Changes in ecology are less relevant to NCDs; lifestyle, demography, epidemiologic transition, and industrialization drive NCD prevalence."
+  },
+  "38": {
+    "QUESTION": "The following defects are caused by matched deficiency states:",
+    "OPTION": {
+      "A": "Scurvy /Ascorbic acid deficiency",
+      "B": "Mental retardation/Fluoride deficiency",
+      "C": "Megaloblastic anaemia/Cyanocobalamin deficiency",
+      "D": "Enamel mottling/Iodine deficiency",
+      "E": "Kwashiorkor/Protein deficiency"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Scurvy, megaloblastic anaemia, and kwashiorkor are caused by specific nutrient deficiencies; fluoride and iodine have different outcomes."
+  },
+  "39": {
+    "QUESTION": "The following parameters are used for measuring a child's nutritional status:",
+    "OPTION": {
+      "A": "Weight for Age",
+      "B": "Head Circumference",
+      "C": "Mid Upper Arm Circumference",
+      "D": "Height",
+      "E": "Body Mass Index"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Child nutrition assessment uses weight, MUAC, height, and BMI; head circumference is for growth and neurodevelopment assessment."
+  },
+  "40": {
+    "QUESTION": "A person who is infected with an agent, has no apparent sign of clinical disease and serves as a potential source of infection to others is:",
+    "OPTION": {
+      "A": "A chronic case",
+      "B": "An acute case",
+      "C": "An acute-on-chronic case",
+      "D": "A carrier",
+      "E": "A healthy person"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Asymptomatic carriers harbor the pathogen and can transmit it without showing symptoms."
+  },
+  "41": {
+    "QUESTION": "All the following are recognized effects of climate change except:",
+    "OPTION": {
+      "A": "Communal crises",
+      "B": "Drought",
+      "C": "Flooding",
+      "D": "Increased transmission of vector-borne diseases e.g malaria",
+      "E": "None of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "All listed are recognized effects of climate change, so none is an exception."
+  },
+  "42": {
+    "QUESTION": "The following are principles of Primary Health Care except:",
+    "OPTION": {
+      "A": "Essential Health care",
+      "B": "Community participation",
+      "C": "Appropriate technology",
+      "D": "Advocacy",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "PHC principles include essential health care, community participation, and appropriate technology; advocacy is not listed as a core principle."
+  },
+  "43": {
+    "QUESTION": "Zonal offices of the National Primary Health Care Development Agency (NPHCDA) are:",
+    "OPTION": {
+      "A": "North East Zone – Bauchi",
+      "B": "North West Zone – Kano",
+      "C": "South South Zone – Benin",
+      "D": "South West Zone – Ibadan",
+      "E": "South East Zone – Enugu"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "These are the recognized zonal offices of NPHCDA."
+  },
+  "44": {
+    "QUESTION": "The functions of Port-Health Authority include:",
+    "OPTION": {
+      "A": "Inspection of the crew and cabin by port health officer",
+      "B": "Inspection of vaccination certificate",
+      "C": "De-ratting by fumigation",
+      "D": "Port-sanitation",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Port Health Authorities are responsible for all listed activities to prevent disease spread through ports."
+  },
+  "45": {
+    "QUESTION": "The latest addition in the Child Survival Strategies acronym of GOB is:",
+    "OPTION": {
+      "A": "Essential drugs",
+      "B": "Environmental health",
+      "C": "Treatment of common ailments",
+      "D": "Health education",
+      "E": "None of the above"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Environmental health is the recent addition to GOB (Growth monitoring, Oral rehydration, Breastfeeding, plus Environmental health)."
+  },
+  "46": {
+    "QUESTION": "In focused antenatal care (FANC) the visits for normal pregnancy include:",
+    "OPTION": {
+      "A": "First visit within 12 weeks of gestation",
+      "B": "Second visit at 26 weeks",
+      "C": "Third visit at 32 weeks",
+      "D": "Fourth visit at 36 weeks",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "FANC for normal pregnancy recommends four focused visits at 12, 26, 32, and 36 weeks."
+  },
+  "47": {
+    "QUESTION": "The following is true about Routine Immunization Schedule in Nigeria except:",
+    "OPTION": {
+      "A": "DPT is given at 6, 10 and 14 weeks",
+      "B": "OPV is given at birth, 6, 10 and 14 weeks",
+      "C": "Hepatitis B is given at birth, 6 and 14 months",
+      "D": "Measles and yellow fever are given at 9 weeks/9 months",
+      "E": "BCG can only be given at birth"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Hepatitis B is given at birth, 6 and 14 weeks (not months). Other schedules are correct."
+  },
+  "48": {
+    "QUESTION": "As a medical officer in a district, the villagers report excess stooling and vomiting within the past few days. Your first appropriate action should be:",
+    "OPTION": {
+      "A": "Give every child in the district a broad spectrum antibiotic",
+      "B": "Notify the state Ministry of Health immediately",
+      "C": "Notify Federal Ministry of Health immediately",
+      "D": "Isolate all the affected children",
+      "E": "Take steps to confirm the diagnosis"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "First confirm the diagnosis before implementing mass interventions or notifications."
+  },
+  "49": {
+    "QUESTION": "The major types of epidemic include:",
+    "OPTION": {
+      "A": "Common source epidemic",
+      "B": "Propagated epidemic",
+      "C": "Slow (modern) epidemic",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "All listed types are recognized major forms of epidemic patterns."
+  },
+  "50": {
+    "QUESTION": "Epidemiology is used in:",
+    "OPTION": {
+      "A": "Historical study of rise and fall of disease in the population",
+      "B": "Community diagnosis",
+      "C": "Evaluation of individual's risk",
+      "D": "Syndromic identification",
+      "E": "Completing the natural history of disease"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Epidemiology is used in all listed functions: historical study, community diagnosis, risk evaluation, syndromic identification, and understanding natural history of disease."
+  }
+}

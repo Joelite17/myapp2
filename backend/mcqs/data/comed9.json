@@ -1,0 +1,652 @@
+{
+"1": {
+  "QUESTION": "Concerning the term 'Vector'",
+  "OPTION": {
+    "A": "It refers to a vertebrate which harbors infection or transmits infectious diseases.",
+    "B": "Means of transmission can be mechanical",
+    "C": "Means of transmission can be chemical.",
+    "D": "Means of control can be biological or mechanical.",
+    "E": "Pests may transmit diseases but cannot have a nuisance value."
+  },
+  "TRUE": ["B", "D"],
+  "FALSE": ["A", "C", "E"],
+  "EXPLANATION": "Vectors are invertebrates transmitting pathogens mechanically or biologically; control is biological or mechanical."
+},
+"2": {
+  "QUESTION": "Food hygiene",
+  "OPTION": {
+    "A": "Its public health objective is to prevent food poisoning and other food borne diseases.",
+    "B": "Its efforts require intersectoral collaboration.",
+    "C": "Involves the systematic control of the environmental conditions only during transportation, selling, and servicing of food.",
+    "D": "Persons with wounds, otitis media or skin infections are not to handle food or utensils.",
+    "E": "Food handlers are to undergo medical check at least twice/year."
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Food hygiene covers all stages from production to consumption; handlers with infections or wounds must be excluded."
+},
+"3": {
+  "QUESTION": "Housing",
+  "OPTION": {
+    "A": "is only the physical structure providing shelter",
+    "B": "Overcrowding is a potentially very important factor that has bearing on the risks of home accident.",
+    "C": "The definition of healthy or unhealthy housing is related to exposure to toxins and other environmental factors.",
+    "D": "Physical overcrowding occurs when two persons over 6 years of age of same gender are obliged to sleep in the same room.",
+    "E": "A house is statutorily overcrowded when either the Room Standard or the Space Standard is contravened."
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "Housing includes physical, environmental and social aspects; overcrowding defined legally by room or space standards."
+},
+"4": {
+  "QUESTION": "Direct effects of radiation pollution include:",
+  "OPTION": {
+    "A": "Famine and drought due to poor agricultural output and lack of potable water.",
+    "B": "Economical loss and poverty due to poor agricultural output.",
+    "C": "Disorder in the ecosystem and its attendant effects.",
+    "D": "Global warming, climate change and all its effects.",
+    "E": "Civil strife due to fighting over available land and water."
+  },
+  "TRUE": ["C"],
+  "FALSE": ["A", "B", "D", "E"],
+  "EXPLANATION": "Radiation directly damages living tissues and disrupts ecosystems; other listed effects are indirect or unrelated."
+},
+"5": {
+  "QUESTION": "Factors affecting waste management include:",
+  "OPTION": {
+    "A": "Economic activities",
+    "B": "Climatic and seasonal changes",
+    "C": "Physical characteristics/topography",
+    "D": "Social and religious custom",
+    "E": "Finance and budgetary limitations."
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "Waste management efficiency depends on environmental, social, and economic factors including funding and topography."
+},
+"6": {
+  "QUESTION": "Qualities of a good sewage disposal system include:",
+  "OPTION": {
+    "A": "Must not pollute surface soil or water (surface or underground).",
+    "B": "Must not be sightly or smelly.",
+    "C": "There must not be any handling whatsoever of fresh faeces.",
+    "D": "Method should be culturally acceptable to the community.",
+    "E": "Must be situated at least 30 meters downhill from water source."
+  },
+  "TRUE": ["A", "C", "D", "E"],
+  "FALSE": ["B"],
+  "EXPLANATION": "A good sewage system prevents contamination and contact with faeces, respects culture, and maintains water safety distance."
+},
+"7": {
+  "QUESTION": "The following statement about non-parametric tests is true",
+  "OPTION": {
+    "A": "It does not assume any particular functional form for a population distribution.",
+    "B": "They are distribution free methods based on ordered statistic theory.",
+    "C": "Their hypothesis focuses on nature of distribution alone rather than values.",
+    "D": "It is weaker than parametric tests in situations where data satisfies the assumptions.",
+    "E": "They are less useful on classificatory variables."
+  },
+  "TRUE": ["A", "B", "D"],
+  "FALSE": ["C", "E"],
+  "EXPLANATION": "Non-parametric tests make no distributional assumptions, rely on ranking, and have less power when parametric assumptions hold."
+},
+"8": {
+  "QUESTION": "In applying the T-test, the following criteria or assumptions must be met",
+  "OPTION": {
+    "A": "Data must be quantitative in nature.",
+    "B": "The parent population standard deviation is known.",
+    "C": "The two groups compared have similar variances.",
+    "D": "Samples should be random in nature.",
+    "E": "It must be of a known scale."
+  },
+  "TRUE": ["A", "C", "D"],
+  "FALSE": ["B", "E"],
+  "EXPLANATION": "T-tests require quantitative, random samples from populations with approximately equal variances; population SD is unknown."
+},
+"9": {
+  "QUESTION": "The following measures of dispersion or variability can be used for calculating individual observations.",
+  "OPTION": {
+    "A": "Standard deviation",
+    "B": "Coefficient of variance",
+    "C": "Standard error of mean",
+    "D": "Standard error of proportion",
+    "E": "Inter-quartile range."
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Standard deviation, coefficient of variation, and interquartile range describe variability among individual data points."
+},
+"10": {
+  "QUESTION": "The following is true about routine immunization in Nigeria except",
+  "OPTION": {
+    "A": "PV is given at birth, 6 and 14 weeks.",
+    "B": "OPV is given at birth, 6 and 14 weeks.",
+    "C": "Measles and Yellow fever are given at 9 months.",
+    "D": "BCG can only be given at birth.",
+    "E": "Vitamin A is only given to children under age 1 year."
+  },
+  "TRUE": ["A", "B", "C"],
+  "FALSE": ["D", "E"],
+  "EXPLANATION": "BCG may be given up to 1 year if missed; Vitamin A supplementation continues up to 5 years."
+},
+"11": {
+  "QUESTION": "Female genital mutilation",
+  "OPTION": {
+    "A": "Is all procedures that involve total removal of the external genitalia.",
+    "B": "Was previously called female circumcision.",
+    "C": "Includes all types: clitoridectomy, excision, infibulations and others.",
+    "D": "Is confirmed by practitioners to reduce sexual promiscuity.",
+    "E": "Has medical & psychosocial disadvantage."
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "FGM ranges from minor cutting to excision or infibulation, has no health benefit, and carries severe medical and social harm."
+},
+"12": {
+  "QUESTION": "Concerning family planning",
+  "OPTION": {
+    "A": "OCPs are preferable for older women.",
+    "B": "A woman with a menstrual cycle ranging from 27 to 31 days is safe from days 7 to 21.",
+    "C": "Pre-exposure contraception can be given within 72 hours.",
+    "D": "The implant (norplant) remains effective for 5 years.",
+    "E": "Family history of ovarian cancer is a contraindication to use of OCPs."
+  },
+  "TRUE": ["C", "D"],
+  "FALSE": ["A", "B", "E"],
+  "EXPLANATION": "Emergency contraception works within 72 h; implants act for about 5 years; OCPs are avoided mainly in hormone-sensitive cancers."
+},
+"13": {
+  "QUESTION": "Concerning intelligent quotient (I.Q)",
+  "OPTION": {
+    "A": "The WHO uses the I.Q to assess mental proficiency.",
+    "B": "Severe mental retardation is I.Q between 20-34.",
+    "C": "Profound mental retardation is I.Q < 20.",
+    "D": "Moderate mental retardation 35-49.",
+    "E": "People with I.Q. > 50 are incapable of living alone or guarding against exploitation."
+  },
+  "TRUE": ["B", "C", "D"],
+  "FALSE": ["A", "E"],
+  "EXPLANATION": "IQ 20–34 indicates severe, <20 profound, and 35–49 moderate retardation; WHO doesn’t assess individuals by IQ directly."
+},
+"14": {
+  "QUESTION": "In the rehabilitation of individuals",
+  "OPTION": {
+    "A": "He/she should be coerced to accept the opportunities offered.",
+    "B": "The family is not important.",
+    "C": "The community provides the major resources for those that are based with it.",
+    "D": "Credit institutions such as banks may play a role.",
+    "E": "Income generating projects are a way of combating poverty for the disabled."
+  },
+  "TRUE": ["C", "D", "E"],
+  "FALSE": ["A", "B"],
+  "EXPLANATION": "Rehabilitation relies on community integration, supportive finance, and empowerment through income-generating programs."
+},
+"15": {
+  "QUESTION": "In calculating the midyear population of a city or town, the following method(s) is applicable",
+  "OPTION": {
+    "A": "Natural increase method",
+    "B": "Life survival table method",
+    "C": "Arithmetic progression method",
+    "D": "Natality measures",
+    "E": "Geometric progression method."
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Population estimates may use natural increase, life tables, or arithmetic/geometric progression; natality is not an estimation method."
+},
+"16": {
+  "QUESTION": "The road to health card for a child",
+  "OPTION": {
+    "A": "should be kept by the health worker.",
+    "B": "shows weight for age only.",
+    "C": "is most useful for a child <12 months.",
+    "D": "helps in early detection of malnutrition and illness.",
+    "E": "shows other useful information apart from anthropometric values."
+  },
+  "TRUE": ["D", "E"],
+  "FALSE": ["A", "B", "C"],
+  "EXPLANATION": "The card is kept by the mother, tracks growth and immunization, and helps detect malnutrition early."
+},
+"17": {
+  "QUESTION": "The following are live attenuated vaccines",
+  "OPTION": {
+    "A": "Yellow fever",
+    "B": "Rabies vaccine",
+    "C": "Rubella vaccine",
+    "D": "Pertussis vaccine",
+    "E": "Salk vaccine"
+  },
+  "TRUE": ["A", "C"],
+  "FALSE": ["B", "D", "E"],
+  "EXPLANATION": "Yellow fever and rubella vaccines are live attenuated; rabies and Salk (polio) are inactivated, pertussis is killed bacterial."
+},
+"18": {
+  "QUESTION": "The activities of international health include",
+  "OPTION": {
+    "A": "health regulation.",
+    "B": "control of international travels.",
+    "C": "control of the spread of diseases.",
+    "D": "vaccination against typhoid only.",
+    "E": "food control."
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "International health activities cover regulation, disease and food control, and travel monitoring, not single-disease vaccination."
+},
+"19": {
+  "QUESTION": "The following are publications of the World Health Organization",
+  "OPTION": {
+    "A": "Weekly epidemiological report",
+    "B": "World Health Policy and Planning",
+    "C": "World Health Report",
+    "D": "Journal of Public Health in Developing countries",
+    "E": "World health bulletin"
+  },
+  "TRUE": ["A", "C", "E"],
+  "FALSE": ["B", "D"],
+  "EXPLANATION": "WHO publishes the Weekly Epidemiological Record, World Health Report, and World Health Bulletin."
+},
+"20": {
+  "QUESTION": "The following are comprehensive indicators that measure health in any community.",
+  "OPTION": {
+    "A": "Proportional mortality indicator",
+    "B": "Expectation of life",
+    "C": "Maternal and infant mortality rates",
+    "D": "Number of females",
+    "E": "Crude birth rate"
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Health indicators include mortality, life expectancy, and birth rates; population sex count alone isn’t a health measure."
+},
+"21": {
+  "QUESTION": "The following requirements are to be satisfied by the health information system according to the WHO",
+  "OPTION": {
+    "A": "The system should be grouped and specific based",
+    "B": "Feedback components absolutely necessary.",
+    "C": "The system should agglomerate data carefully.",
+    "D": "Financial statistics is very important.",
+    "E": "The system should express information imaginatively."
+  },
+  "TRUE": ["A", "B", "C", "D"],
+  "FALSE": ["E"],
+  "EXPLANATION": "WHO emphasizes specificity, careful aggregation, feedback, and inclusion of financial data; imaginative presentation isn’t required."
+},
+"22": {
+  "QUESTION": "The following are some of the components of Occupational Health (OH)",
+  "OPTION": {
+    "A": "Toxicology",
+    "B": "Occupational disease",
+    "C": "Ergonomics",
+    "D": "Industrial hygiene",
+    "E": "All of the above"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "Occupational health integrates toxicology, disease control, ergonomics, and industrial hygiene."
+},
+"23": {
+  "QUESTION": "Pre-placement examination:",
+  "OPTION": {
+    "A": "Assesses medical fitness",
+    "B": "Ascertains that an employee is in a good physical condition.",
+    "C": "Is not a prerequisite in occupation health.",
+    "D": "All of the above are correct.",
+    "E": "Only A and C are correct."
+  },
+  "TRUE": ["A", "B"],
+  "FALSE": ["C", "D", "E"],
+  "EXPLANATION": "Pre-placement exams ensure fitness for work and prevent occupational hazards; they are essential in occupational health."
+},
+"24": {
+  "QUESTION": "The following are correctly matched with their specific developments in occupational health",
+  "OPTION": {
+    "A": "Percival pott - Chinney sweeping and cancer of the scrotum.",
+    "B": "Philippus Aureolus Paracelcus - toxicity due to mercury and sulphur.",
+    "C": "Sir Thomas Legg - Pioneer occupational physician in the USA.",
+    "D": "Gergius Agricola - Abdominal colic and lead poisoning.",
+    "E": "George Baker - described health problems in mines."
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Sir Thomas Legge, not Legg, was Britain’s first occupational physician; the rest are historically correct contributions."
+},
+"25": {
+  "QUESTION": "The following statements about inorganic lead poisoning is true, except.",
+  "OPTION": {
+    "A": "Abdominal colic is a chronic symptom",
+    "B": "Encephalopathy is the commonest presentation",
+    "C": "Increased urinary lead above 0.2mg/l is observed",
+    "D": "Anaemia with punctate basophilic is not commonly seen",
+    "E": "There is increased urinary coproporphyrin III."
+  },
+  "TRUE": ["A", "C", "E"],
+  "FALSE": ["B", "D"],
+  "EXPLANATION": "Lead poisoning presents with colic, anaemia with basophilic stippling, and high urinary lead and coproporphyrin; encephalopathy is rare."
+},
+"26": {
+  "QUESTION": "Concerning the Sustainable Development Goals:",
+    "OPTION": {
+      "A": "The goals are a United Nations Initiative",
+      "B": "The Sustainable Development Goals are officially known as Transforming our world: the 2030 Agenda",
+      "C": "There are 17 Sustainable Development Goals and 169 targets",
+      "D": "The Goals were adopted on 25 September 2015",
+      "E": "The second Sustainable Development Goal is zero hunger"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "The SDGs are a UN-led initiative known as the 2030 Agenda, consisting of 17 goals and 169 targets."
+},
+"27": {
+  "QUESTION": "Concerning Monkeypox",
+  "OPTION": {
+    "A": "It always causes fatal illness in humans.",
+    "B": "It is similar but milder than human smallpox which has been eradicated.",
+    "C": "It is a viral zoonosis but has limited secondary spread through human-to-human transmission.",
+    "D": "Typically, case fatality in monkeypox outbreaks has been more than 51%.",
+    "E": "There is no treatment but vaccines are available."
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "Case fatality in monkeypox outbreaks has been LESS than 51% not MORE. Monkeypox resembles but is milder than smallpox; transmission between humans is limited, and vaccination provides protection though no specific antiviral treatment exists."
+},
+"28": {
+  "QUESTION": "Concerning Zika virus",
+  "OPTION": {
+    "A": "Mosquitoes that spread Zika virus bite only during the daytime.",
+    "B": "Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses.",
+    "C": "There is no vaccine to prevent or specific medicine to treat Zika infections.",
+    "D": "Only a blood test can confirm diagnosis.",
+    "E": "The virus can be transmitted vertically."
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Aedes mosquitoes bite mainly during the day and also transmit dengue and chikungunya; there is no specific treatment or vaccine, and vertical transmission occurs."
+},
+"29": {
+  "QUESTION": "Concerning Lassa fever",
+  "OPTION": {
+    "A": "The virus is transmitted by Mastomys Natalensis specie.",
+    "B": "It is transmitted to humans from contacts with food or household items contaminated with rodent excreta only.",
+    "C": "Laboratory transmission can occur.",
+    "D": "Application of universal precaution is not an important control measure.",
+    "E": "There is no drug treatment."
+  },
+  "TRUE": ["A", "C"],
+  "FALSE": ["B", "D", "E"],
+  "EXPLANATION": "Lassa virus is carried by Mastomys rodents; infection may occur through contact with rodent excreta or in laboratories; ribavirin is effective when given early."
+},
+"30": {
+  "QUESTION": "Concerning Ebola virus disease (EVD)",
+  "OPTION": {
+    "A": "The average EVD case fatality rate is around 50%.",
+    "B": "Case fatality rates have varied from 2% to 9% in past outbreaks.",
+    "C": "The virus is transmitted to people from all wild animals.",
+    "D": "Ebola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.",
+    "E": "The virus spreads in the human population through animal-to-human transmission."
+  },
+  "TRUE": ["A", "D"],
+  "FALSE": ["B", "C", "E"],
+  "EXPLANATION": "EVD has an average case fatality of about 50%; it is a severe often fatal disease transmitted initially from infected animals and spreads human-to-human."
+},
+"31": {
+  "QUESTION": "The following is/are true about Trypanosomiasis",
+  "OPTION": {
+    "A": "It has an African and a North America type.",
+    "B": "The African type is caused Trypanosoma brucei transmitted by Glossina fly",
+    "C": "The domestic cattle rearers can play a role in its epidemiology",
+    "D": "It is essentially a disease of rural population.",
+    "E": "Insecticide impregnated traps and screens are not useful in its vector control."
+  },
+  "TRUE": ["A", "B", "C", "D"],
+  "FALSE": ["E"],
+  "EXPLANATION": "Trypanosomiasis has African and American forms; the African type is transmitted by tsetse fly; rural populations and cattle rearers are commonly affected; vector control includes insecticide traps."
+},
+"32": {
+  "QUESTION": "The following is/are true about Leprosy",
+  "OPTION": {
+    "A": "It's more prevalent in India and tropical Africa than Europe.",
+    "B": "Tuberculoid leprosy has higher bacterial index than lepromatous leprosy.",
+    "C": "The Bacterial and morphological indices are used to monitor response to treatment.",
+    "D": "The mitsuda reaction is earlier than Fernandez.",
+    "E": "Rifampicin, Dapson and Clofazimycin are used in treatment."
+  },
+  "TRUE": ["A", "C", "D", "E"],
+  "FALSE": ["B"],
+  "EXPLANATION": "Leprosy is more prevalent in India and tropical Africa; indices are used to monitor therapy; Mitsuda test appears earlier; standard treatment includes rifampicin, dapsone, and clofazimine."
+},
+"33": {
+  "QUESTION": "Concerning rabies",
+  "OPTION": {
+    "A": "It is endemic in Great Britain, Australia, New Zealand and the Pacific islands.",
+    "B": "Can be transmitted by inhalation of aerosols in caves with infected bats.",
+    "C": "Person to person transmission can never occur.",
+    "D": "Control of wild life rabies using oral vaccine bait to immunize wild foxes.",
+    "E": "A booster dose of Rabies vaccine is not useful if Human Rabies Immunoglobulin was given."
+  },
+  "TRUE": ["B", "D"],
+  "FALSE": ["A", "C", "E"],
+  "EXPLANATION": "Rabies is not endemic in those islands; aerosol transmission in bat caves can occur; wildlife rabies control uses oral vaccines for foxes; boosters remain beneficial."
+},
+"34": {
+  "QUESTION": "Concerning Nosocomial infections",
+  "OPTION": {
+    "A": "Incidence varies from centre to centre.",
+    "B": "It is not nosocomial if transmission is between hospital staff.",
+    "C": "Hospital procedures is not a predisposing factor.",
+    "D": "Viral Hemorrhagic Fevers are associated with high mortality among health care staff.",
+    "E": "Increased use of disposable items is a protective factor."
+  },
+  "TRUE": ["A", "D", "E"],
+  "FALSE": ["B", "C"],
+  "EXPLANATION": "Nosocomial infection rates differ by institution; invasive procedures predispose; VHFs cause high staff mortality; disposables reduce spread."
+},
+"35": {
+  "QUESTION": "The following statements about sexually transmitted infections (STIs) is/are true except:",
+  "OPTION": {
+    "A": "They are only transmitted through sexual contacts.",
+    "B": "Chlamydia trachomatis is a bacterial STI.",
+    "C": "Incidence can be increased by greater availability of forms of contraception.",
+    "D": "Soiled formites may transmit vulvo-vaginitis to pre-pubescent girls.",
+    "E": "Early diagnosis and treatment is not an important control measure."
+  },
+  "TRUE": ["B", "C", "D"],
+  "FALSE": ["A", "E"],
+  "EXPLANATION": "STIs have other transmission routes beyond sexual contact; Chlamydia is bacterial; fomites may cause infections in children; prompt diagnosis is crucial for control."
+},
+"36": {
+  "QUESTION": "The following are components of Directly Observed Treatment Short course (DOTS)",
+  "OPTION": {
+    "A": "Political will on the part of government.",
+    "B": "Regular but interrupted supply of drugs and reagents.",
+    "C": "Unsupervised treatment regimen for all diagnosed TB cases and direct observation drug intake by a health worker.",
+    "D": "Purchase of vehicles for effective distribution of drugs and reagents.",
+    "E": "All of the above."
+  },
+  "TRUE": ["A"],
+  "FALSE": ["B", "C", "D", "E"],
+  "EXPLANATION": "DOTS requires political commitment, uninterrupted drug supply, supervised treatment, and monitoring—not unsupervised or interrupted therapy."
+},
+"37": {
+  "QUESTION": "Which of these is true about Neglected Tropical Diseases?",
+  "OPTION": {
+    "A": "They are a group of tropical disease that were previously controlled but are coming back.",
+    "B": "They have been persistent because they have been shown little or no attention.",
+    "C": "They are especially endemic in low-income populations of African and Asian developing regions.",
+    "D": "They include ascariasis, schistosomiasis, lymphatic filariasis and trachoma.",
+    "E": "They don't include African sleeping sickness, Leprosy or Japanese encephalitis."
+  },
+  "TRUE": ["B", "C", "D"],
+  "FALSE": ["A", "E"],
+  "EXPLANATION": "NTDs persist due to neglect; they are endemic in poor tropical regions and include diseases like schistosomiasis, filariasis, and trachoma."
+},
+"38": {
+  "QUESTION": "The following diseases are marked for control in Nigeria, except:",
+  "OPTION": {
+    "A": "Schistosomiasis",
+    "B": "Dracunculiasis",
+    "C": "HIV/AIDS",
+    "D": "Poliomyelitis",
+    "E": "Leprosy"
+  },
+  "TRUE": ["D"],
+  "FALSE": ["A", "B", "C", "E"],
+  "EXPLANATION": "Poliomyelitis is currently targeted for eradication rather than general control; the others are control-priority diseases in Nigeria."
+},
+"39": {
+  "QUESTION": "Regarding screening tests:",
+  "OPTION": {
+    "A": "It is valid if it gives a good preliminary indication of which individuals have the disease.",
+    "B": "Its yield refers to the amount of the disease it can detect in the population.",
+    "C": "Its reliability depends on its repeatability with consistency of results",
+    "D": "It is the basic tool of the screening programme",
+    "E": "It does not have to be acceptable if it is relatively easy and safe"
+  },
+  "TRUE": ["A", "B", "C", "D"],
+  "FALSE": ["E"],
+  "EXPLANATION": "A valid screening test identifies likely cases correctly; yield measures the number of detected cases in the population."
+},
+"40": {
+  "QUESTION": "Contact tracing can be used as control measure for the following diseases:",
+  "OPTION": {
+    "A": "Cholera",
+    "B": "Malaria",
+    "C": "Gonorrhoea",
+    "D": "HIV/AIDS",
+    "E": "Ebola"
+  },
+  "TRUE": ["A", "C", "D", "E"],
+  "FALSE": ["B"],
+  "EXPLANATION": "Contact tracing is effective for diseases with person-to-person transmission or outbreaks; malaria is vector-borne, not suitable."
+},
+"41": {
+  "QUESTION": "Mark True (T) or False (F) for the following statements about nutrition and disability:",
+  "OPTION": {
+    "A": "Starchy vegetables include corn, potatoes (white, Irish), pumpkin, yam, and sweet potatoes.",
+    "B": "Disability is any loss or abnormality of psychological, physiological or anatomical structure/functions e.g., Intellectual, Speech, Vision.",
+    "C": "Poor nutrition contributes to 1 out of 2 deaths (53%) associated with infectious diseases among children under five in developing countries.",
+    "D": "The four basic food groups are cereal, meat, sweet, and vegetable.",
+    "E": "The quality of protein in legumes is low because of deficiency in lysine and methionine"
+  },
+  "TRUE": ["A", "B", "C"],
+  "FALSE": ["D", "E"],
+  "EXPLANATION": "Starchy vegetables are correctly listed; disability includes mental and physical function loss; poor nutrition contributes significantly to child mortality; 'sweet' is not a basic food group."
+},
+"42": {
+  "QUESTION": "Planning in health management:",
+  "OPTION": {
+    "A": "Is a function of all health managers.",
+    "B": "Is the most strategic of all management functions.",
+    "C": "Establishes institutional objectives.",
+    "D": "Has been termed a Siamese twin to evaluation.",
+    "E": "The situation analysis involves an appraisal of past and current national, regional and local health policy."
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "Planning is strategic, establishes objectives, is universal to health managers, linked to evaluation, and requires policy analysis."
+},
+"43": {
+  "QUESTION": "Socioeconomic status (SES) is regarded as a product of:",
+  "OPTION": {
+    "A": "Income",
+    "B": "Residence",
+    "C": "Education",
+    "D": "All of the above",
+    "E": "A and C only"
+  },
+  "TRUE": ["D"],
+  "FALSE": ["A", "B", "C", "E"],
+  "EXPLANATION": "SES is determined by income, education, and residence."
+},
+"44": {
+  "QUESTION": "Criteria for classification of formal health plans include:",
+  "OPTION": {
+    "A": "Flexibility of the plan",
+    "B": "Duration of the period covered by the plan",
+    "C": "Nature and scope of the plan",
+    "D": "Significance of the plan",
+    "E": "Formality of the plan"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "All listed criteria are used to classify formal health plans."
+},
+"45": {
+  "QUESTION": "Zinc deficiency is associated with:",
+  "OPTION": {
+    "A": "Immune deficiency",
+    "B": "Diarrhoea",
+    "C": "Discoloration of skin",
+    "D": "A and B only",
+    "E": "A and C only"
+  },
+  "TRUE": ["D"],
+  "FALSE": ["A", "B", "C", "E"],
+  "EXPLANATION": "Zinc deficiency commonly leads to immune dysfunction and diarrhoea; skin changes are less specific."
+},
+"46": {
+  "QUESTION": "The following statement about biostatistics is incorrect:",
+  "OPTION": {
+    "A": "Deductive type reasons from general to specific.",
+    "B": "Inductive observes the specifics to infer on the general.",
+    "C": "Descriptive statistics reduces data to a smaller concise and manageable size than others.",
+    "D": "Inferential statistics deals with higher quality of data.",
+    "E": "Biostatistics is invariably the strongest tool in research."
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Inferential statistics focuses on drawing conclusions from data, not necessarily on higher quality data; other statements are correct."
+},
+"47": {
+  "QUESTION": "Routine sources of health data include:",
+  "OPTION": {
+    "A": "Migration registrations",
+    "B": "Published demographic data",
+    "C": "Pre-employment and periodic medical records",
+    "D": "Field surveys",
+    "E": "Dispensary and Health Post records"
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Routine health data come from administrative and medical records; field surveys are not routine."
+},
+"48": {
+  "QUESTION": "Statements concerning data on cardinal scale:",
+  "OPTION": {
+    "A": "It can be classificatory",
+    "B": "It may be ordered",
+    "C": "Mathematical computations is possible but quite difficult",
+    "D": "It expresses quality and position",
+    "E": "It must have absolute zero point"
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "Cardinal (ratio) data can be ordered and allows computations; absolute zero exists; classificatory or qualitative description is incorrect."
+},
+"49": {
+  "QUESTION": "Diagrammatic data presentations that are categorical/classificatory in nature include:",
+  "OPTION": {
+    "A": "Pictogram",
+    "B": "Dot diagram",
+    "C": "Spot diagram",
+    "D": "Pie chart",
+    "E": "Line graph"
+  },
+  "TRUE": ["A", "D"],
+  "FALSE": ["B", "C", "E"],
+  "EXPLANATION": "Pictograms and pie charts represent categories; dot, spot, and line graphs are quantitative/continuous."
+},
+"50": {
+  "QUESTION": "Considering the uses of median as a measure of central tendency. The folllowing is true",
+  "OPTION": {
+    "A": "It is affected by outliers",
+    "B": "Can be calculated if extreme class is open",
+    "C": "Cannot be determined directly for odd number observations",
+    "D": "Affected by fluctuations of sampling",
+    "E": "It is used for irregular distributions"
+  },
+  "TRUE": ["E", "D"],
+  "FALSE": ["A", "B", "C"],
+  "EXPLANATION": "Median is preferred for irregular distributions; it is not sensitive to outliers; can be determined for odd observations; extreme classes must be defined."
+}
+}

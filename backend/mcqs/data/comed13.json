@@ -1,0 +1,327 @@
+{
+  "1": {
+    "QUESTION": "Medical Sociology:",
+    "OPTION": {
+      "A": "Studies human relationships in the medical setting",
+      "B": "Is interested in the social and cultural factors affecting health",
+      "C": "Is not interested in understanding attitudes that may contrain or facilitate the treatment process.",
+      "D": "Focuses on sociology in medicine and of medicine",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Medical sociology studies relationships and social/cultural health factors; it facilitates treatment indirectly."
+  },
+  "2": {
+    "QUESTION": "Sociology in medicine deals with",
+    "OPTION": {
+      "A": "Illness behaviour",
+      "B": "What people think about their illness",
+      "C": "Relationships within the Health Organisations",
+      "D": "Patient-care Management",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed areas are addressed in sociology in medicine."
+  },
+  "3": {
+    "QUESTION": "Example of ascribed status is:",
+    "OPTION": {
+      "A": "Husband",
+      "B": "Age",
+      "C": "Race",
+      "D": "Child",
+      "E": "occupation"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Ascribed status is assigned by birth or involuntary factors like age, race, child."
+  },
+  "4": {
+    "QUESTION": "The role of the doctor in patient care includes:",
+    "OPTION": {
+      "A": "Legitimizing the illness",
+      "B": "Making sure patient comes to the hospital",
+      "C": "Counselling and education of the patient",
+      "D": "Making sure the patient gets well as soon as possible",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All options are components of the doctor's role."
+  },
+  "5": {
+    "QUESTION": "Handicap are (is):",
+    "OPTION": {
+      "A": "Any loss or abnormality of psychological, physiological or anatomical structure function",
+      "B": "Any restriction of ability to perform an activity in the manner or within the range considered normal for a human being.",
+      "C": "Is a disadvantage for a given individual resulting from an impairment or disability that limits or prevents the fulfilment of role that is normal.",
+      "D": "None of the above.",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Impairment, disability, and handicap are distinct but related concepts."
+  },
+  "6": {
+    "QUESTION": "The following are examples of socially handicapped",
+    "OPTION": {
+      "A": "The blind",
+      "B": "The orphan",
+      "C": "Child with cerebral palsy",
+      "D": "The destitute",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed groups are socially handicapped."
+  },
+  "7": {
+    "QUESTION": "Nutrition-related problems include the following;",
+    "OPTION": {
+      "A": "Cancers",
+      "B": "Dental diseases",
+      "C": "Osteoporosis",
+      "D": "Skin diseases",
+      "E": "Hypertension"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed conditions can be nutrition-related."
+  },
+  "8": {
+    "QUESTION": "Social Welfare Services in Nigeria",
+    "OPTION": {
+      "A": "Orphanage",
+      "B": "Old People's Home",
+      "C": "Remand Homes",
+      "D": "Adoption services",
+      "E": "Clinical services"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Clinical services are healthcare, not social welfare."
+  },
+  "9": {
+    "QUESTION": "The following statements are true of a point source epidemic except:",
+    "OPTION": {
+      "A": "All the cases will be present within the incubation period of the infection",
+      "B": "It is characterized by an explosive on-set",
+      "C": "The increase in number of cases of the disease is usually over a short period",
+      "D": "An outbreak of yellow fever is an example",
+      "E": "An outbreak of food poisoning is an example"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Yellow fever usually spreads via vectors, not a point source epidemic."
+  },
+  "10": {
+    "QUESTION": "Rate",
+    "OPTION": {
+      "A": "Is a tool in epidemiologic measurements",
+      "B": "Has a numerator not part of the denominator",
+      "C": "May be expressed per 1,000",
+      "D": "can be specific, crude or adjusted",
+      "E": "is a statement of the risk of developing a particular condition"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All statements are true about rates."
+  },
+  "11": {
+    "QUESTION": "Calculate the attack rate in an outbreak of measles in a community, where a family of 8 with both parents immunized had 2 of their 6 children developing symptoms/signs of measles.",
+    "OPTION": {
+      "A": "40%",
+      "B": "33.3%-",
+      "C": "50%",
+      "D": "25%",
+      "E": "80%"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Attack rate = 2/6 x 100 = 33.3%."
+  },
+  "12": {
+    "QUESTION": "Which of the following are promotive services?",
+    "OPTION": {
+      "A": "Safe drinking water supply",
+      "B": "Adequate nutrition",
+      "C": "Use of lid covered refuse bin against open bins",
+      "D": "Periodic health screening",
+      "E": "Immunization against tetanus"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed services promote health."
+  },
+  "13": {
+    "QUESTION": "The ability of a test to correctly identify those who do not have a disease can be called the following;",
+    "OPTION": {
+      "A": "Negative predictive value",
+      "B": "Sensitivity",
+      "C": "Positive predictive value",
+      "D": "Specificity",
+      "E": "B & D."
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Specificity identifies true negatives."
+  },
+  "14": {
+    "QUESTION": "The following are types of descriptive studies except:",
+    "OPTION": {
+      "A": "Cross sectional study",
+      "B": "Case report",
+      "C": "Case-Control study",
+      "D": "Cohort study",
+      "E": "Clinical trial"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Case-control and clinical trials are analytical/interventional studies."
+  },
+  "15": {
+    "QUESTION": "Regarding arthropod borne infections:",
+    "OPTION": {
+      "A": "The epidemiology of each individual disease is closely related to the ecology of the arthropod vector",
+      "B": "The most effective measure of Control of the infection is the treatment of the causative agent",
+      "C": "Vector transmission of the agent always involves biological transformation",
+      "D": "The anthropophilic vectors bite animals preferentially",
+      "E": "Bancroftian filariasis is an example of a helminthic arthropod infection"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Vector control is often more effective than treating the agent; anthropophilic vectors bite humans."
+  },
+  "16": {
+    "QUESTION": "The following are true about Leprosy",
+    "OPTION": {
+      "A": "It's more prevalent in india and tropical Africa than Europe",
+      "B": "Tuberculoid leprosy has higher bacterial index than lepromatous leprosy",
+      "C": "The bacterial and morphological indices are used to monitor response to treatment",
+      "D": "The mitsuda reaction is earlier the Fernandez",
+      "E": "Rifampicin, Dapson and Clofazimin are used in treatment"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Lepromatous leprosy has higher bacterial index than tuberculoid."
+  },
+  "17": {
+    "QUESTION": "The Nosocomial (Hospital Acquired) Infections could be prevented through:",
+    "OPTION": {
+      "A": "Universal precaution",
+      "B": "Frequent hand washing",
+      "C": "Concurrent and terminal disinfection",
+      "D": "Immunisation of Health care staff against communicable diseases",
+      "E": "Rational use of antibiotics"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed measures help prevent nosocomial infections."
+  },
+  "18": {
+    "QUESTION": "The following statements about Biostatistics are incorrect",
+    "OPTION": {
+      "A": "It can be used in decision making",
+      "B": "Inductive biostatistics in commoner",
+      "C": "Deductive biostatistics follows probability theory",
+      "D": "Rarely used in disease surveillance",
+      "E": "Only B and C are correct."
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Statements B and C are correct regarding types of biostatistics; A and D are true, E is incorrect."
+  },
+  "19": {
+    "QUESTION": "The following are component of Health information system except",
+    "OPTION": {
+      "A": "Demography and vita statistics.",
+      "B": "Community diagnosis.",
+      "C": "Health status of individuals.",
+      "D": "Financial statistics",
+      "E": "Health management and planning."
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Financial statistics is not considered a core component."
+  },
+  "20": {
+    "QUESTION": "The following variables can be said to be an ordered categorical type",
+    "OPTION": {
+      "A": "Blood groups.",
+      "B": "Chlamydia test result",
+      "C": "Culture results.",
+      "D": "Educational status of individual",
+      "E": "Social class"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Educational status and social class are ordered categorical; others are nominal."
+  },
+  "21": {
+    "QUESTION": "The quality of measured data can be defined in terms of the following terms.",
+    "OPTION": {
+      "A": "Stability",
+      "B": "Consistency",
+      "C": "Sensitivity",
+      "D": "Size of data",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed aspects define quality of measured data."
+  },
+  "22": {
+    "QUESTION": "The following statement about descriptive statistics is correct",
+    "OPTION": {
+      "A": "It reduces data to a small concise and manageable size.",
+      "B": "It draws inferences in some cases",
+      "C": "It generates pseudo-hypothesis",
+      "D": "It presents a summary of the spread of data.",
+      "E": "All of the above."
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Descriptive statistics summarizes data; inference is inferential statistics."
+  },
+  "23": {
+    "QUESTION": "The following is (are), common measures of dispersion for individual observations.",
+    "OPTION": {
+      "A": "Standard deviation",
+      "B": "Mean deviation",
+      "C": "Stand error of mean",
+      "D": "Stand error of proportion",
+      "E": "Inter-quartile range."
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed are measures of dispersion."
+  },
+  "24": {
+    "QUESTION": "Notifiable occupational diseases include the following",
+    "OPTION": {
+      "A": "Asbestos",
+      "B": "Silicosis",
+      "C": "Lead poisoning",
+      "D": "Pneumoconiosis",
+      "E": "A and C alone ABOVE"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed diseases are notifiable occupational diseases."
+  },
+  "25": {
+    "QUESTION": "What factors increase the risk of adverse health effects secondary to exposure to a harzard",
+    "OPTION": {
+      "A": "Duration of exposure",
+      "B": "Concentration of exposure",
+      "C": "Body weight",
+      "D": "Only A and B",
+      "E": "All of the above options are correct"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "All listed factors contribute to risk."
+  }
+}

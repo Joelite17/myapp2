@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     "flashcards",
     "mcqs",
     "ckeditor",
+    
 
 ]
 
@@ -149,13 +150,13 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 # Allow local frontend (adjust origin)
-# Allow local frontend (adjust origin)
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "https://myapp2-frontends.onrender.com",
     "http://localhost:5173",
     'https://myapp2-pzj8.onrender.com',
+    "http://localhost:8000"
 
 
 ]
@@ -180,11 +181,11 @@ AUTH_USER_MODEL = "accounts.User"
 
 
 # Use console email backend in development (prints emails to console)
-EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
-DEFAULT_FROM_EMAIL = "no-reply@example.com"
+# EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
+# DEFAULT_FROM_EMAIL = "no-reply@example.com"
 
 # Email settings for testing with real email (SMTP)
-# EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
+EMAIL_BACKEND = "django.core.mail.backends.smtp.EmailBackend"
 EMAIL_HOST = "smtp.gmail.com"        # Example: Gmail SMTP
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True

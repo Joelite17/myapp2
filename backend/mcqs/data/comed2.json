@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "The clinical study design that routinely incorporates the use of a control or comparison group includes:",
+    "OPTION": {
+      "A": "Clinical trials",
+      "B": "Cohort study",
+      "C": "Case-series report",
+      "D": "Case-Control study",
+      "E": "Case-report"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Clinical trials, cohort studies, and case-control studies typically use control or comparison groups; case reports and series do not."
+  },
+  "2": {
+    "QUESTION": "The following are animal related zoonosis:",
+    "OPTION": {
+      "A": "Bovine tuberculosis",
+      "B": "Rabies",
+      "C": "Leptospirosis",
+      "D": "Q-fever",
+      "E": "Anthrax"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed diseases are zoonotic infections transmitted from animals to humans."
+  },
+  "3": {
+    "QUESTION": "The following are arthropod borne infections:",
+    "OPTION": {
+      "A": "Bancroftian filariasis",
+      "B": "Yellow fever",
+      "C": "African trypanosomiasis",
+      "D": "Plague",
+      "E": "Schistosomiasis"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Schistosomiasis is water-borne; the others are transmitted by arthropod vectors."
+  },
+  "4": {
+    "QUESTION": "The following is true about African trypanosomiasis:",
+    "OPTION": {
+      "A": "It is essentially a disease of the rural population",
+      "B": "Population movement (like nomadic Fulanis) plays a role in its aetiology",
+      "C": "It is caused by the Reduviid bug",
+      "D": "It has two clinically distinct types",
+      "E": "Pentamidine can be used in the treatment"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "African trypanosomiasis is caused by tsetse flies, not Reduviid bugs; it affects rural areas, has two types, and Pentamidine is a treatment."
+  },
+  "5": {
+    "QUESTION": "The major antigenic group of Neisseria meningitides mainly responsible for epidemics of CSM in Tropical Africa is:",
+    "OPTION": {
+      "A": "C",
+      "B": "W-135",
+      "C": "Y",
+      "D": "B",
+      "E": "A"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["B","C", "D", "E"],
+    "EXPLANATION": "Serogroup A is the major cause of cerebrospinal meningitis epidemics in tropical Africa."
+  },
+  "6": {
+    "QUESTION": "The organism mostly responsible for Hospital acquired wound infection is:",
+    "OPTION": {
+      "A": "Strep. aureus",
+      "B": "Coliforms",
+      "C": "Staph aureus",
+      "D": "Salmonella",
+      "E": "Clostridium perfringes"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Staphylococcus aureus is the most common pathogen in hospital-acquired wound infections."
+  },
+  "7": {
+    "QUESTION": "The following parasites can penetrate an intact skin except:",
+    "OPTION": {
+      "A": "Ancylostoma duodenale",
+      "B": "Strongyloides sp",
+      "C": "Schistosomiasis",
+      "D": "Enterobius vermicularis",
+      "E": "Ascaris lumbricoides"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Enterobius and Ascaris cannot penetrate intact skin; hookworms, Strongyloides, and Schistosoma larvae can."
+  },
+  "8": {
+    "QUESTION": "Which of these is true about Neglected Tropical Disease:",
+    "OPTION": {
+      "A": "They are a group of tropical diseases that were previously controlled but are coming back",
+      "B": "They have been persistent because they have received little or no attention",
+      "C": "They are especially endemic in low-income populations of African and Asian developing regions",
+      "D": "They include ascariasis, schistosomiasis, lymphatic filariasis and trachoma",
+      "E": "They don't include African sleeping sickness, Leprosy or Japanese encephalitis"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Neglected tropical diseases persist due to lack of attention, affect low-income regions, and include listed diseases."
+  },
+  "9": {
+    "QUESTION": "Participation as a principle of health education implies:",
+    "OPTION": {
+      "A": "Community participation",
+      "B": "Community involvement",
+      "C": "Teaching family members how to take care of their sick relation",
+      "D": "Pulling resources together to solve problems",
+      "E": "Being part of a project from planning to implementation"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Participation involves engaging the community in all stages, not just teaching individual care."
+  },
+  "10": {
+    "QUESTION": "In focus group discussion:",
+    "OPTION": {
+      "A": "Participants are usually 20 to 30 in number",
+      "B": "Members are of different age group",
+      "C": "Members must belong to different sex",
+      "D": "A moderator is required",
+      "E": "Members come from different social background"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Focus groups require a moderator and social diversity; typical size is 6–12, not 20–30."
+  },
+  "11": {
+    "QUESTION": "Media of communication include:",
+    "OPTION": {
+      "A": "Mass media",
+      "B": "Posters",
+      "C": "Displays",
+      "D": "Demonstration",
+      "E": "Flip chart"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed items are valid forms of communication media."
+  },
+  "12": {
+    "QUESTION": "Counselling:",
+    "OPTION": {
+      "A": "Advices individuals to make informed decisions",
+      "B": "Implies choice not force",
+      "C": "Can reinforce motivation",
+      "D": "Allows for mutual trust",
+      "E": "Develops positive attitude in the counselor"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Counselling supports clients' decision-making; it does not aim to change counselor’s attitude."
+  },
+  "13": {
+    "QUESTION": "The elements of communication include:",
+    "OPTION": {
+      "A": "Communicator",
+      "B": "Translator",
+      "C": "Moderator",
+      "D": "Encoder",
+      "E": "Decoder"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Key elements are communicator, encoder, and decoder; translator and moderator are not essential elements."
+  },
+  "14": {
+    "QUESTION": "The functions of fat include:",
+    "OPTION": {
+      "A": "Serves as vehicle for hormones",
+      "B": "Provides calories needed for day to day activities",
+      "C": "Provides as much as 8kcal for every gram",
+      "D": "Fat under the skin provides a covering from cold in tropical weather",
+      "E": "Serves as vehicle for B complex vitamins"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Fat provides energy (~9kcal/g) and serves as hormone vehicle; subcutaneous fat protects in cold, not tropical weather, and B vitamins are water-soluble."
+  },
+  "15": {
+    "QUESTION": "Carbohydrates:",
+    "OPTION": {
+      "A": "Are the main source of energy in food as they provide 8kcal per gram",
+      "B": "Are not essential for the oxidation of fats and synthesis of non-essential amino acids",
+      "C": "Sources include starches, free sugars and disaccharides only",
+      "D": "As disaccharides are sucrose, lactose and maltose",
+      "E": "As cellulose is digestible with scarcely any nutritive value"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Disaccharides include sucrose, lactose, and maltose; carbohydrates provide 4kcal/g, cellulose is indigestible."
+  },
+  "16": {
+    "QUESTION": "Dietary fibre:",
+    "OPTION": {
+      "A": "is a non-starch polysaccharide which is an important component of diet",
+      "B": "is found in vegetables, fruits, lean meat and grains",
+      "C": "Is broadly divided into cellulose, non-cellulose and plant gums",
+      "D": "Absorbs water from food undergoing digestion, thereby causing constipation",
+      "E": "Lowers serum albumin level"
+    },
+    "TRUE": ["A", "C"],
+    "FALSE": ["B", "D", "E"],
+    "EXPLANATION": "Dietary fibre comes from plant sources, is non-starch polysaccharide, and includes cellulose, non-cellulose, and gums; it aids digestion, does not cause constipation or lower serum albumin."
+  },
+  "17": {
+    "QUESTION": "In developing a questionnaire, the researcher should:",
+    "OPTION": {
+      "A": "be as specific as possible",
+      "B": "not be guided by the culture of the people",
+      "C": "use simple language",
+      "D": "Avoid vague words, which may mean different things to different people",
+      "E": "Use leading questions"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Questionnaires should be specific, culturally sensitive, simple, and avoid vague or leading questions."
+  },
+  "18": {
+    "QUESTION": "In assessing water quality:",
+    "OPTION": {
+      "A": "Coliform organisms are used as indicators of recent faecal pollution",
+      "B": "A faecal Coliform count of 50/1000ml is acceptable",
+      "C": "A Coliform count of 10 coliforms/100ml is regarded as suspicious",
+      "D": "Physical quality is not important",
+      "E": "Cyanide levels of not more than <0.05mg/l is considered safe"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Coliforms indicate faecal contamination; 10/100ml is suspicious, <0.05mg/l cyanide is safe; physical quality matters; 50/1000ml is too high."
+  },
+  "19": {
+    "QUESTION": "Water impounding diseases include:",
+    "OPTION": {
+      "A": "onchocerciasis",
+      "B": "filariasis",
+      "C": "schistosomiasis",
+      "D": "paragonimiasis",
+      "E": "ascariasis"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Schistosomiasis is associated with water impoundments; others have different transmission modes."
+  },
+  "20": {
+    "QUESTION": "The health effects of poorly disposed refuse include:",
+    "OPTION": {
+      "A": "pollution of water supply",
+      "B": "breeding of flies and rats",
+      "C": "mosquito borne diseases",
+      "D": "stress",
+      "E": "murine typhus infection"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Improper refuse disposal causes pollution, breeding of vectors, and murine typhus; stress is not a direct health effect."
+  },
+  "21": {
+    "QUESTION": "The characteristics of a good sanitary well include:",
+    "OPTION": {
+      "A": "Should be sited at least 10 metres and uphill from any potential source of pollution",
+      "B": "There should be water-tight lining of at least 20 feet from the surface",
+      "C": "There should be a concrete platform (parapet) about two feet high surrounded by a concrete apron to drain the waste water away",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "All listed measures are necessary for a good sanitary well to prevent contamination."
+  },
+  "22": {
+    "QUESTION": "The following are characteristics of good sewage disposal:",
+    "OPTION": {
+      "A": "Must not pollute the surface soil, surface water, or underground water",
+      "B": "Must not be unsightly or smelly",
+      "C": "Must be inaccessible to flies or animals",
+      "D": "Encourage handling of fresh sewage",
+      "E": "Method should be simple, cheap and culturally acceptable"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Good sewage systems prevent pollution, odors, vector access, and are simple, cheap, culturally acceptable; handling fresh sewage is discouraged."
+  },
+"23": {
+  "QUESTION": "In the segregation of hospital wastes, the following is/are correct:",
+  "OPTION": {
+    "A": "Non-infectious - Black",
+    "B": "Infectious - Brown",
+    "C": "Highly infectious - Red",
+    "D": "Chemical - Yellow",
+    "E": "Radioactive - Black with radioactive label"
+  },
+  "TRUE": ["A", "C", "D"],
+  "FALSE": ["B", "E"],
+  "EXPLANATION": "Non-infectious waste is black; infectious and highly infectious waste is red; chemical waste is yellow. Radioactive waste should be yellow with the radioactive symbol, not black.Brown is for cytotoxic or pharmaceutical waste"
+},
+  "24": {
+    "QUESTION": "Which of these is/are risk(s) associated with medical wastes:",
+    "OPTION": {
+      "A": "Needle stick injuries",
+      "B": "Exposure to radiation",
+      "C": "Public nuisance (offensive smells, unsightly debris)",
+      "D": "Environmental pollution and degradation",
+      "E": "Transmission of infections and diseases"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Medical wastes pose multiple risks including injury, infection, pollution, and public nuisance."
+  },
+  "25": {
+    "QUESTION": "The common indices used in the monitoring and evaluation of family planning programmes in Nigeria include the following:",
+    "OPTION": {
+      "A": "Crude birth rate",
+      "B": "Crude death rate",
+      "C": "Child-women ratio",
+      "D": "Mean age of women at each parity",
+      "E": "Pregnancy rate"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Crude birth rate, child-woman ratio, mean age at parity, and pregnancy rate are relevant for family planning monitoring. Crude death rate is not specific to family planning programs."
+  },
+  "26": {
+    "QUESTION": "The following statement(s) about world population:",
+    "OPTION": {
+      "A": "The world population hit the six billion mark in 1997",
+      "B": "The second billion mark came in 30 years after the first billion in 1930",
+      "C": "Nigeria is estimated to be 255 million in 2050",
+      "D": "About 2/3rd of the world population lives in developing countries",
+      "E": "The fifth billion mark was achieved in 1989"
+    },
+    "TRUE": [ "C", "D"],
+    "FALSE": ["A","B", "E"],
+    "EXPLANATION": "The world population hit the six billion mark in 1999. World population milestones and projections show these statements as correct; others are historically inaccurate."
+  },
+  "27": {
+    "QUESTION": "The following statement(s) about vital registration in Nigeria is correct:",
+    "OPTION": {
+      "A": "Decree No.39 of the military government made it compulsory",
+      "B": "Comprehensive vital registration was introduced in 1917",
+      "C": "It was modified to contain information on Births, Deaths, and Burial ordinance only",
+      "D": "It is a primary function of the national population",
+      "E": "It is done at LGAs and Ward levels in Nigeria"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Vital registration covers births and deaths at local levels; modification does not limit data to burial ordinance only."
+  },
+  "28": {
+    "QUESTION": "Which of these variables can be classified as categorical, qualitative and polychotomous:",
+    "OPTION": {
+      "A": "Chlamydia test result",
+      "B": "Social class of individual",
+      "C": "Pulse rate of individuals",
+      "D": "White blood cell count of patients",
+      "E": "Measurement of skin colour"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Categorical variables have discrete categories; quantitative measures like pulse or WBC are continuous."
+  },
+  "29": {
+    "QUESTION": "Data that could be measured on the interval scale include the following:",
+    "OPTION": {
+      "A": "Temperature scale measurement by Celsius",
+      "B": "Time used in experimental measurements",
+      "C": "Measurement of drug effect on individual",
+      "D": "Calendar dates",
+      "E": "Mean weight of experimental rats"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Interval data have meaningful differences but no true zero; weight is ratio scale."
+  },
+  "30": {
+    "QUESTION": "The quality of measured data in observational studies is defined in terms of:",
+    "OPTION": {
+      "A": "Sensitivity",
+      "B": "Specificity",
+      "C": "Repeatability",
+      "D": "Standard error",
+      "E": "Predictive validity"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Data quality involves sensitivity, specificity, repeatability, and validity; standard error measures precision, not quality."
+  },
+  "31": {
+    "QUESTION": "Confounding factors that could cause a spurious association in research can be controlled by the following measures:",
+    "OPTION": {
+      "A": "Category matching",
+      "B": "Stratification",
+      "C": "Restriction",
+      "D": "Classification",
+      "E": "Only b and c are correct"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Stratification and restriction control confounding; category matching alone is insufficient."
+  },
+  "32": {
+    "QUESTION": "The following statement about frequency distributions are generally correct:",
+    "OPTION": {
+      "A": "The median is used for ordinary data that is always skewed",
+      "B": "If the mean is smaller than the median, the distribution is skewed to the left",
+      "C": "In symmetric distributions, the mean, mode and median are equal",
+      "D": "The mean is used for quantitative data and asymptotic distribution",
+      "E": "The mode can be used for bimodal and skewed distribution"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Median is not always used for skewed data; other statements about distribution measures are correct."
+  },
+  "33": {
+    "QUESTION": "The following diseases have relatively high fatality rates:",
+    "OPTION": {
+      "A": "Rabies",
+      "B": "Lassa fever",
+      "C": "Scabies",
+      "D": "Neonatal tetanus",
+      "E": "Common cold"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Scabies and common cold are rarely fatal; rabies, Lassa fever, and neonatal tetanus have high fatality."
+  },
+  "34": {
+    "QUESTION": "Risk factors for lung cancer include:",
+    "OPTION": {
+      "A": "Family history",
+      "B": "Smoking",
+      "C": "Air pollution",
+      "D": "Radiation",
+      "E": "Occupational exposure"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors contribute to lung cancer risk."
+  },
+  "35": {
+    "QUESTION": "Which of the following belong to primary prevention:",
+    "OPTION": {
+      "A": "Health education",
+      "B": "Treating a case of gonorrhea with antibiotics",
+      "C": "Screening programmes",
+      "D": "Cleaning up the environment",
+      "E": "Providing physiotherapy"
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Primary prevention aims to prevent disease occurrence; treatment, screening, and physiotherapy are secondary or tertiary."
+  },
+  "36": {
+    "QUESTION": "The following are zoonotic infections:",
+    "OPTION": {
+      "A": "Plague",
+      "B": "Brucellosis",
+      "C": "Rabies",
+      "D": "Lassa fever",
+      "E": "Avian influenza"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Lassa fever is viral hemorrhagic, but rodent-borne, not classic zoonosis; others are zoonotic."
+  },
+  "37": {
+    "QUESTION": "The major causes of maternal mortality in Nigeria include:",
+    "OPTION": {
+      "A": "Obstructed labour",
+      "B": "Haemorrhage",
+      "C": "Unsafe abortion",
+      "D": "Eclampsia",
+      "E": "Malaria"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors contribute significantly to maternal mortality in Nigeria."
+  },
+  "38": {
+    "QUESTION": "Which of the following measures is used frequently as a denominator to calculate the incidence rate of a disease:",
+    "OPTION": {
+      "A": "Number of cases observed",
+      "B": "Number of new cases observed",
+      "C": "Number of asymptomatic cases",
+      "D": "Person-years of observation",
+      "E": "Person lost to follow up"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Incidence rate uses person-time as the denominator, usually person-years of observation."
+  },
+  "39": {
+    "QUESTION": "In the study of the cause of a disease, the essential difference between an experimental study and an observational study is that in the experimental investigation:",
+    "OPTION": {
+      "A": "The study is prospective",
+      "B": "The study is retrospective",
+      "C": "The study and control groups are of equal size",
+      "D": "The study and control groups are selected on the basis of history of exposure to the suspected causal factor",
+      "E": "The investigations determine who is and who is not exposed to the suspected causal factor"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Experimental studies assign exposure to participants; observational studies do not."
+  },
+  "40": {
+    "QUESTION": "The following are true of prevalence rate:",
+    "OPTION": {
+      "A": "It is the same thing as incidence rate",
+      "B": "It is the addition of duration and incidence",
+      "C": "As the duration increases the prevalence increases",
+      "D": "If we know the prevalence and duration of a disease, we can calculate the incidence",
+      "E": "It indicates the presence of new cases only"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Prevalence reflects total cases, increases with duration; incidence relates to new cases."
+  },
+  "41": {
+    "QUESTION": "The following are measures of dispersion:",
+    "OPTION": {
+      "A": "Range",
+      "B": "Variance",
+      "C": "Standard deviation",
+      "D": "Coefficient of variance",
+      "E": "Mode"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Mode is a measure of central tendency; others measure variability or dispersion."
+  },
+  "42": {
+    "QUESTION": "The present pentavalent vaccine used for immunization in Nigeria contains:",
+    "OPTION": {
+      "A": "Diphtheria",
+      "B": "Measles",
+      "C": "Pertussis",
+      "D": "Polio",
+      "E": "Tetanus"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Pentavalent vaccine covers DPT, Hep B, Hib; measles is given separately."
+  },
+  "43": {
+    "QUESTION": "Sources of disease surveillance data include:",
+    "OPTION": {
+      "A": "Hospital discharge summaries",
+      "B": "Death certificates",
+      "C": "Laboratory reports",
+      "D": "Individual case reports",
+      "E": "Lecture notes"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Lecture notes are not a source of surveillance data."
+  },
+  "44": {
+    "QUESTION": "The following represent epidemiological measures:",
+    "OPTION": {
+      "A": "Rate",
+      "B": "Ratio",
+      "C": "Proportion",
+      "D": "Duration",
+      "E": "Occupation"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Occupation is a variable, not a measure; others are standard epidemiologic measures."
+  },
+  "45": {
+    "QUESTION": "The father of Occupational Health is:",
+    "OPTION": {
+      "A": "Bernardino Rammazizzini",
+      "B": "Sergius Agricola",
+      "C": "Paracelsus",
+      "D": "Halmiton",
+      "E": "Hippocrates"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Bernardino Rammazizzini is regarded as the father of occupational medicine."
+  },
+  "46": {
+    "QUESTION": "The father of Modern Medicine is:",
+    "OPTION": {
+      "A": "Socrates",
+      "B": "Hippocrates",
+      "C": "Mohammed",
+      "D": "Ross",
+      "E": "Sergius Agricola"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Hippocrates is widely recognized as the father of modern medicine."
+  },
+  "47": {
+    "QUESTION": "Components of Occupational Health include:",
+    "OPTION": {
+      "A": "Ergonomics",
+      "B": "Clinical Occupational Medicine",
+      "C": "Industrial Hygiene",
+      "D": "Emergency Deliveries",
+      "E": "First Aid"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Occupational health includes ergonomics, clinical practice, hygiene, first aid; emergency deliveries are unrelated."
+  },
+  "48": {
+    "QUESTION": "A farmer can come down with any of the following diseases:",
+    "OPTION": {
+      "A": "Tuberculosis",
+      "B": "Brucellosis",
+      "C": "Frost Bite",
+      "D": "Insecticide Poisoning",
+      "E": "Malaria"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Farmers are exposed to infectious diseases, malaria, and chemical hazards; frostbite is uncommon in Nigeria."
+  },
+  "49": {
+    "QUESTION": "Occupational Diseases include the following:",
+    "OPTION": {
+      "A": "Bronchial Asthma",
+      "B": "HIV/AIDS",
+      "C": "Brucellosis",
+      "D": "Lead Poisoning",
+      "E": "Hearing Loss"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "HIV/AIDS is not an occupational disease; others are recognized occupational hazards."
+  },
+  "50": {
+    "QUESTION": "Notifiable Occupational Diseases include:",
+    "OPTION": {
+      "A": "Lead Poisoning",
+      "B": "Phosphorus Poisoning",
+      "C": "Road Traffic Accidents",
+      "D": "Hypertension",
+      "E": "Benzene Poisoning"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Lead, phosphorus, and benzene poisoning are notifiable occupational diseases; accidents and hypertension are not listed."
+  }
+}

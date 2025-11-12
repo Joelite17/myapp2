@@ -1,14 +1,15 @@
 import { Link } from "react-router-dom";
 
 export default function FeedItem({ post }) {
+  console.log(["post", post])
   if (!post) return null;
 
-  const link =
-    post.type === "Note"
-      ? `/notes/${post.id}`
-      : post.type === "MCQ"
-      ? `/mcqs/${post.id}`
-      : `/flashcards/${post.id}`;
+  // Determine link based on post type
+  const link = {
+    Note: `/notes/${post.id}`,
+    MCQ: `/mcqsets/${post.id}`,
+    Flashcard: `/flashcards/${post.id}`,
+  }[post.type] || "#";
 
   return (
     <Link
@@ -20,7 +21,7 @@ export default function FeedItem({ post }) {
         {post.title}
       </p>
 
-      {/* Badge - bottom right */}
+      {/* Badge */}
       <div className="flex justify-end mt-2">
         <span className="text-xs font-semibold text-green-700 dark:text-green-400 bg-green-100 dark:bg-green-900 px-2 py-0.5 rounded-md">
           {post.type?.toUpperCase()}

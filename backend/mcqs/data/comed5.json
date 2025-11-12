@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "Onchocerciasis is a water-related disease caused by?",
+    "OPTION": {
+      "A": "Simulium damnosum",
+      "B": "Simulium naevi",
+      "C": "Glossina palpalis",
+      "D": "a & b",
+      "E": "a, b & c"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Onchocerciasis (river blindness) is caused by Simulium species, particularly Simulium damnosum, which breeds in fast-flowing rivers. Glossina transmits trypanosomiasis."
+  },
+  "2": {
+    "QUESTION": "Nosocomial (Hospital Acquired) infections could be prevented through?",
+    "OPTION": {
+      "A": "Universal precautions",
+      "B": "Frequent hand washing",
+      "C": "Concurrent and terminal disinfection",
+      "D": "Immunisation of healthcare staff against communicable diseases",
+      "E": "Rational use of antibiotics"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed infection control measures are essential for preventing hospital-acquired infections."
+  },
+  "3": {
+    "QUESTION": "The following are component chapters of a research proposal?",
+    "OPTION": {
+      "A": "Results",
+      "B": "Discussions and Conclusions",
+      "C": "Introduction",
+      "D": "Methodology",
+      "E": "Conclusion"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "A research proposal typically includes Introduction and Methodology sections, but not Results or Conclusions."
+  },
+  "4": {
+    "QUESTION": "With respect to the epidemiology of Air-borne infections?",
+    "OPTION": {
+      "A": "They are acquired only through inhalation of pathogenic organisms",
+      "B": "Causative agents include Histoplasma",
+      "C": "The three main mechanisms of transmission are droplets, droplet nuclei, and dust",
+      "D": "Good ventilation and air hygiene are good control measures",
+      "E": "Passive immunization is not of any importance as effective vaccines exist"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Air-borne infections spread mainly by droplets, droplet nuclei, and dust; good ventilation reduces transmission risk."
+  },
+  "5": {
+    "QUESTION": "The following is true about African trypanosomiasis?",
+    "OPTION": {
+      "A": "It is essentially a disease of the rural population",
+      "B": "Population movement (like nomadic Fulanis) plays a role in its aetiology",
+      "C": "It is caused by the Reduviid bug",
+      "D": "It has two clinically distinct types",
+      "E": "Pentamidine can be used in the treatment"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "African trypanosomiasis (sleeping sickness) is caused by Trypanosoma brucei species transmitted by tsetse flies, affecting mostly rural populations."
+  },
+  "6": {
+    "QUESTION": "The following are components of DOTS (Directly Observed Treatment Shortcourse)?",
+    "OPTION": {
+      "A": "Political will on the part of government",
+      "B": "Regular, but uninterrupted supply of drugs and reagents",
+      "C": "Standardised treatment regimen for all diagnosed TB cases and direct observation of drug intake by a health worker",
+      "D": "Purchase of vehicles for effective distribution of drugs and reagents",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "DOTS strategy includes government commitment, uninterrupted drug supply, and directly observed treatment. Buying vehicles is not a core component."
+  },
+  "7": {
+    "QUESTION": "An infected person that harbours a specific infectious agent in the absence of discernible clinical disease and serves as a potential source of infection to others is?",
+    "OPTION": {
+      "A": "A chronic case",
+      "B": "An acute case",
+      "C": "An acute-on-chronic case",
+      "D": "A carrier",
+      "E": "A healthy person"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "A carrier harbours the pathogen without symptoms but can transmit it to others."
+  },
+  "8": {
+    "QUESTION": "Steps to avoid Mother-to-Child Transmission (MTCT) in an HIV-infected pregnant woman include?",
+    "OPTION": {
+      "A": "Anti-retroviral therapy for the woman",
+      "B": "Decision for elective caesarean section before term",
+      "C": "Post-exposure prophylaxis of anti-retroviral drugs for the baby after delivery",
+      "D": "Artificial breast milk as option if the mother can afford it",
+      "E": "Strictly exclusive breastfeeding with pasteurisation for the mother"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "MTCT prevention includes ART for mother, elective C-section, and infant prophylaxis. Pasteurised exclusive breastfeeding is not standard."
+  },
+  "9": {
+    "QUESTION": "The following are true about Leprosy?",
+    "OPTION": {
+      "A": "It’s more prevalent in India and tropical Africa than Europe",
+      "B": "Tuberculoid leprosy has a higher bacterial index than lepromatous leprosy",
+      "C": "The bacterial and morphological indices are used to monitor response to treatment",
+      "D": "The Mitsuda reaction occurs earlier than the Fernandez reaction",
+      "E": "Rifampicin, Dapsone and Clofazimine are used in treatment"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Leprosy is endemic in tropical regions. Tuberculoid leprosy has a low bacterial index. Standard treatment includes rifampicin, dapsone, and clofazimine."
+  },
+  "10": {
+    "QUESTION": "The following are the modes of transmission of the corresponding arthropod diseases/agents?",
+    "OPTION": {
+      "A": "Loa loa — faeco-oral",
+      "B": "Dracunculiasis — percutaneous penetration",
+      "C": "Chaga’s disease — rubbing of faeces into skin abrasions",
+      "D": "Onchocerciasis — vector bite",
+      "E": "Tick-borne relapsing fever — inhalation"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Loa loa is transmitted by Chrysops fly bites. Dracunculiasis occurs via larval skin penetration. Chaga’s disease via Reduviid bug faeces; Onchocerciasis via blackfly bites."
+  },
+  "11": {
+    "QUESTION": "Which of these is/are risks associated with medical wastes?",
+    "OPTION": {
+      "A": "Needle stick injuries",
+      "B": "Exposure to radiation",
+      "C": "Public nuisance (offensive smells, unsightly debris)",
+      "D": "Environmental pollution and degradation",
+      "E": "Transmission of infections and diseases"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Medical waste poses multiple risks including physical injury, infection, radiation exposure, and environmental hazards."
+  },
+  "12": {
+    "QUESTION": "Which of the following definitions is/are correct?",
+    "OPTION": {
+      "A": "Sewage — household waste containing faeces",
+      "B": "Sullage — network of sewers from the same area that discharges into a common pool",
+      "C": "Sewer — waste water from kitchen, bathrooms, laundry, etc.",
+      "D": "Sewerage — connection of pipes that take away faeces from the toilet",
+      "E": "Sullarage — household waste without faeces"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Sewage refers to waste water containing faeces. Sullage means household waste without faeces; sewerage is the system of pipes conveying sewage."
+  },
+  "13": {
+    "QUESTION": "These are biological consequences of poor refuse disposal?",
+    "OPTION": {
+      "A": "Space occupying",
+      "B": "Aesthetics-unsightly appearance and bad odours",
+      "C": "Infestation with rats and vermins",
+      "D": "Fly-transmitted infections like HIV/AIDS",
+      "E": "Pollution"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Poor refuse disposal leads to disease outbreaks, rodent and fly infestations, and environmental nuisance, but HIV/AIDS are not transmitted by flies."
+  },
+  "14": {
+    "QUESTION": "These are not social components of the environment?",
+    "OPTION": {
+      "A": "Moral values",
+      "B": "Customs",
+      "C": "Political systems",
+      "D": "Economic systems",
+      "E": "Health systems"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Health systems are institutional components, not social components, which include customs, culture, and politics."
+  },
+  "15": {
+    "QUESTION": "The following are WHO special programmes?",
+    "OPTION": {
+      "A": "Tropical Disease Research (TDR)",
+      "B": "Control of Diarrheal Diseases",
+      "C": "Roll Back Malaria",
+      "D": "Stop TB Initiative",
+      "E": "Integrated Management of Childhood Illnesses (IMCI)"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed programmes are WHO special health initiatives targeting major global diseases."
+  },
+  "16": {
+    "QUESTION": "In chicken pox infection?",
+    "OPTION": {
+      "A": "Fever and rash tend to be more in adults than children",
+      "B": "Primary viral pneumonia is not a complication",
+      "C": "Patient can be infectious even before rash appears",
+      "D": "Recrudescence from latent infection can be in the form of Herpes Zoster",
+      "E": "Notification is not part of the control measure"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Adults have more severe chickenpox; infection is contagious before rash, and reactivation causes herpes zoster. Pneumonia is a known complication and notification is required."
+  },
+  "17": {
+    "QUESTION": "In Toxicology, sites of contamination include?",
+    "OPTION": {
+      "A": "Respiratory tract",
+      "B": "Skin",
+      "C": "Eye",
+      "D": "Ingestion",
+      "E": "Injection"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Toxic substances may enter the body via inhalation, ingestion, skin absorption, injection, or eye exposure."
+  },
+  "18": {
+    "QUESTION": "Toxic effects of chemicals include?",
+    "OPTION": {
+      "A": "Occupational asthma",
+      "B": "Toxic jaundice",
+      "C": "Haematologic anaemia",
+      "D": "Toxic nephritis",
+      "E": "Migraine"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Toxic chemicals can affect multiple organs causing asthma, liver injury, anaemia, or kidney damage; migraine is not a direct toxic effect."
+  },
+  "19": {
+    "QUESTION": "Notifiable occupational diseases include?",
+    "OPTION": {
+      "A": "Compression air sickness",
+      "B": "Poisoning due to halogenated aliphatic hydrocarbons",
+      "C":"Compression air sickness",
+      "D": "Pathological effects due to radiation",
+      "E": "Lead poisoning"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": [],
+    "EXPLANATION": "Common occupational diseases include decompression sickness, chemical poisoning, radiation effects, and heavy metal toxicity."
+  },
+  "20": {
+    "QUESTION": "The social work environment?",
+    "OPTION": {
+      "A": "Consists of man-man interface in the work phase",
+      "B": "It is difficult to manipulate",
+      "C": "Includes worker-worker relationship",
+      "D": "Worker-management group(corporate relationship)",
+      "E": "Boss-subordinate (line-management) relationship"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "The social environment includes interpersonal relations at work; it can be improved by policies, teamwork, and communication."
+  },
+  "21": {
+    "QUESTION": "In calculating sample size, the following are needed?",
+    "OPTION": {
+      "A": "Objectives of the study",
+      "B": "Estimation of certain population parameters (e.g., prevalence)",
+      "C": "Comparisons between population characteristics across groups",
+      "D": "Study design",
+      "E": "How far you want the sample estimate to deviation from true population"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors determine the required sample size in study design."
+  },
+  "22": {
+    "QUESTION": "Concerning intelligence quotient (IQ)?",
+    "OPTION": {
+      "A": "The WHO uses IQ to assess mental proficiency",
+      "B": "Severe mental retardation is between 20–34",
+      "C": "Profound mental retardation is <20",
+      "D": "Moderate mental retardation is 35–49",
+      "E": "People with IQ >50 are incapable of living alone or guarding against exploitation"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "IQ classification: profound <20, severe 20–34, moderate 35–49. WHO does not directly use IQ as a mental health measure."
+  },
+  "23": {
+    "QUESTION": "Concerning greenhouse gas emissions?",
+    "OPTION": {
+      "A": "Carbon dioxide and methyl chloroform are key greenhouse gases driving global warming",
+      "B": "Methane is of particular concern because its global warming potential is 21 times less potent than carbon dioxide",
+      "C": "Carbon dioxide building up in the atmosphere, traps heat in the earth atmosphere, which can cause climatic changes that shift the delicate balance of eco systems around the world",
+      "D": "Oil and gas drilling can be a major cause of these two gases through accidental leaks known as fugitive emission and intentional venting ",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Methane is 21 times more potent than CO₂, not less. CO₂, CH₄, and others trap heat, and oil/gas industries contribute through leaks and venting."
+  },
+  "24": {
+    "QUESTION": "The following are linked with ozone layer depletion?",
+    "OPTION": {
+      "A": "Halons as fire suppressants",
+      "B": "Methyl bromide in cleaning metals",
+      "C": "Methyl chloroform as refrigerants",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Halons, methyl bromide, and methyl chloroform are all ozone-depleting substances."
+  },
+  "25": {
+    "QUESTION": "Recall bias occurs in all the following except?",
+    "OPTION": {
+      "A": "Researchers in a case-control study ask more probing questions of cases than controls",
+      "B": "Researchers are not blinded and recall which subjects were cases and which were controls",
+      "C": "Subjects in one arm of a randomized controlled trial recall their treatment compliance better than subjects in other arm of the randomized controlled trials",
+      "D": "Cases and controls in a case-control study know their disease status and differentially report their exposure",
+      "E": "The exposed and non-exposed subjects in a cohort study know their exposure status and differentially recall exposure histories"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Recall bias mainly affects retrospective (case-control) studies, not randomized controlled trials."
+  },
+  "26": {
+    "QUESTION": "The following statement is not true about sampling?",
+    "OPTION": {
+      "A": "The unit of enquiry is always the same as the sampling unit",
+      "B": "Proportional allocation is usually applied when selecting a simple random sample",
+      "C": "The sampling fraction is the ratio of sample size to the population size",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "In simple random sampling, proportional allocation is not used; the unit of enquiry may differ from the sampling unit."
+  },
+  "27": {
+    "QUESTION": "The following cannot be classified as a nominal variable?",
+    "OPTION": {
+      "A": "Presence or absence of blood in sputum",
+      "B": "International classification of disease code",
+      "C": "Histological type of tumour",
+      "D": "Racial group",
+      "E": "Presence of blood in urine"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Histological type is an ordinal or categorical variable, while the others are nominal classifications without order."
+  },
+  "28": {
+    "QUESTION": "The following statements about the mean of a large sample size (n) are correct?",
+    "OPTION": {
+      "A": "It is always greater than the median",
+      "B": "It is calculated using the formula Σx/n",
+      "C": "It estimates the population mean with less precision than the mean of a small sample",
+      "D": "It increases as the sample size increases",
+      "E": "It is always greater than the standard deviation"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "The mean is calculated as Σx/n and estimates the population mean more precisely as sample size increases."
+  },
+  "29": {
+    "QUESTION": "Common indices used in monitoring and evaluation of family planning programmes in Nigeria include?",
+    "OPTION": {
+      "A": "Child-woman ratio",
+      "B": "Male-female ratio",
+      "C": "Pregnancy rate",
+      "D": "Crude birth/death rates",
+      "E": "Mean age of woman at each parity"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Family planning indicators include fertility and parity measures; male-female ratio is a demographic index, not FP-specific."
+  },
+  "30": {
+    "QUESTION": "The pillars of the Safe Motherhood Initiative include the following except?",
+    "OPTION": {
+      "A": "Family planning",
+      "B": "Antenatal rate",
+      "C": "Birth registration",
+      "D": "Essential obstetric care",
+      "E": "Increased assisted delivery rate"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Birth registration is not a pillar of Safe Motherhood; major pillars include FP, antenatal and obstetric care, and skilled delivery."
+  },
+  "31": {
+    "QUESTION": "A matched case-control study was conducted to test whether regular physical activity prevents sudden death from heart attacks. Which statistical test can be used?",
+    "OPTION": {
+      "A": "Paired t-test",
+      "B": "Two-sample t-test for independent samples",
+      "C": "x² test for 2x2 contingency tables",
+      "D": "Fisher’s exact test",
+      "E": "McNemar’s test" 
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "McNemar’s test is used for matched pair case-control studies with dichotomous outcomes."
+  },
+  "32": {
+    "QUESTION": "These factors do not influence the width of a confidence interval in descriptive studies except?",
+    "OPTION": {
+      "A": "The chosen significance level",
+      "B": "Power of a test (hβ)",
+      "C": "Variance of the variable under study",
+      "D": "Sample size",
+      "E": "Standard deviation of the variable under study"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Power affects hypothesis testing, not CI width. CI width depends on sample size, variance, SD, and confidence level."
+  },
+  "33": {
+    "QUESTION": "In the study of disease causation, the essential difference between experimental and observational studies is that in experimental investigations?",
+    "OPTION": {
+      "A": "The study is not retrospective",
+      "B": "The study is prospective",
+      "C": "The study and control groups are selected based on history of exposure",
+      "D": "The investigator determines who is and who is not exposed to the suspected causal factor",
+      "E": "The study and control groups are of equal size"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "In experimental studies, investigators assign exposure; these studies are prospective, not retrospective."
+  },
+  "34": {
+    "QUESTION": "Confounding factors that could cause a spurious association in research can be controlled by?",
+    "OPTION": {
+      "A": "Category matching",
+      "B": "Stratification",
+      "C": "Restriction",
+      "D": "Classification",
+      "E": "Only A, B, and C are correct"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Confounding is controlled by restriction, matching, or stratification; classification is not a control method."
+  },
+  "35": {
+    "QUESTION": "Which of the following is true about the recent Ebola outbreak in Nigeria?",
+    "OPTION": {
+      "A": "Patrick Sawyer was the index case",
+      "B": "Late Dr (Mrs) Dejo Adeyemo was a primary contact of Sawyer",
+      "C": "Late Dr. Ike Enemuoh was a primary contact of Sawyer",
+      "D": "Contact tracing was not helpful in the control",
+      "E": "The two states affected were Lagos and Rivers"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "The index case was Patrick Sawyer; effective contact tracing helped control the outbreak in Lagos and Rivers states."
+  },
+  "36": {
+    "QUESTION": "When comparing two sample means using a t-test, which of the following conditions should be satisfied?",
+    "OPTION": {
+      "A": "The two samples must have been selected through a probability sampling method",
+      "B": "At least one of the samples must be smaller or equal to 30",
+      "C": "The two sample variances must be equal",
+      "D": "The variable under study may have a binominal distribution",
+      "E": "The sample sizes drawn from the populations must be equal"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Assumptions for t-test include random sampling, normal distribution, and equal variances (homoscedasticity)."
+  },
+  "37": {
+    "QUESTION": "The following classifications of helminths are correctly matched?",
+    "OPTION": {
+      "A": "Trematodes — Necator americanus",
+      "B": "Cestodes — Paragonimus westermani",
+      "C": "Nematodes — Diphyllobothrium latum",
+      "D": "None of the above",
+      "E": "All of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Necator is a nematode, Paragonimus is a trematode, and Diphyllobothrium is a cestode; none are correctly matched."
+  },
+  "38": {
+    "QUESTION": "The following statements about sexually transmitted infections (STIs) are true except?",
+    "OPTION": {
+      "A": "They are only transmitted through sexual contact",
+      "B": "Chlamydia trachomatis is a bacterial STI",
+      "C": "Incidence can increase with greater availability of contraceptives",
+      "D": "Soiled fomites may transmit vulvovaginitis to prepubescent girls",
+      "E": "Early diagnosis and treatment is not an important control measure"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "STIs can be transmitted nonsexually in rare cases; early diagnosis and treatment are crucial control measures."
+  },
+  "39": {
+    "QUESTION": "Regarding arthropod-borne infections?",
+    "OPTION": {
+      "A": "The epidemiology of each disease is closely related to the ecology of the vector",
+      "B": "The most effective measure of control is treatment of the causative agent",
+      "C": "Vector transmission always involves biological transmission",
+      "D": "Anthropophilic vectors bite animals preferentially",
+      "E": "Bancroftian filariasis is an example of a helminthic arthropod infection"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Vector ecology determines transmission patterns; Bancroftian filariasis is caused by a helminth transmitted by mosquitoes."
+  },
+  "40": {
+    "QUESTION": "The following infections can be transmitted from mother to child except?",
+    "OPTION": {
+      "A": "Malaria",
+      "B": "Varicella zoster virus",
+      "C": "Hepatitis B",
+      "D": "Typhoid fever",
+      "E": "Amoebiasis"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Vertical transmission occurs in malaria and varicella, but not typically in hepatitis A, typhoid, or amoebiasis."
+  },
+  "41": {
+    "QUESTION": "Concerning family planning?",
+    "OPTION": {
+      "A": "OCPs are preferable for older women",
+      "B": "A woman with a menstrual cycle ranging from 27 to 31 days is safe between days 7 and 21",
+      "C": "Post-exposure contraception can be given within 72 hours",
+      "D": "The implant (Norplant) remains effective for 5 years",
+      "E": "Family history of ovarian cancer is a contraindication to use of OCPs"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Older women are usually advised against combined OCPs. Emergency contraception is effective within 72 hours; Norplant lasts 5 years; OCPs may actually protect against ovarian cancer."
+  },
+  "42": {
+    "QUESTION": "Which of the following are false regarding nutrients?",
+    "OPTION": {
+      "A": "1 gram of protein will produce 4 kcal of energy",
+      "B": "1 gram of alcohol will produce 9 kcal of energy",
+      "C": "Phenylalanine and Histidine are essential amino acids",
+      "D": "Foods rich in saturated fats are beneficial to the cardiovascular system",
+      "E": "The standard for classification is based on function only"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Saturated fats increase cardiovascular risk; nutrients are classified by function, chemistry, and essentiality, not function alone."
+  },
+  "43": {
+    "QUESTION": "When a ship has evidence of rat mortality?",
+    "OPTION": {
+      "A": "It should fly the yellow flag",
+      "B": "It will be allowed to dock quickly",
+      "C": "Samples must be taken from all passengers and crew",
+      "D": "Cyanogens will be used to defeat the ship",
+      "E": "Assessment of food storage"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "A yellow flag (quarantine flag) indicates disease on board; inspection and de-ratting are required before docking."
+  },
+  "44": {
+    "QUESTION": "Which of the following groups of individuals are socially handicapped?",
+    "OPTION": {
+      "A": "Beggars",
+      "B": "People Living With HIV/AIDS (PLWHAs)",
+      "C": "War veterans",
+      "D": "Commercial sex workers",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed groups experience varying levels of social disadvantage or stigma, hence are socially handicapped."
+  },
+  "45": {
+    "QUESTION": "Concerning health-seeking behaviour of individuals?",
+    "OPTION": {
+      "A": "Mechanic and Andersen characterised the factors which influence it",
+      "B": "Poverty and ignorance are predisposing factors",
+      "C": "A need under certain conditions becomes a want",
+      "D": "Transit time to the health facility is a determining factor",
+      "E": "Both sexes have equal behaviour"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Andersen’s model explains predisposing, enabling, and need factors in health-seeking behaviour. Gender differences exist in practice."
+  },
+  "46": {
+    "QUESTION": "Components of Focused Antenatal Care (FANC) include the following except?",
+    "OPTION": {
+      "A": "Health education",
+      "B": "Risk assessment",
+      "C": "Weekly visits between 32 and 36 weeks",
+      "D": "Birth plan",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "FANC promotes quality visits, not weekly ones; includes health education, risk assessment, and birth preparedness."
+  },
+  "47": {
+    "QUESTION": "Which of the following are principles of management according to Henry Fayol?",
+    "OPTION": {
+      "A": "Discipline",
+      "B": "Schedule",
+      "C": "Division of labour",
+      "D": "Total quality management",
+      "E": "Span of control"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Fayol’s classic management principles include discipline, division of labour, unity of command, and span of control."
+  },
+  "48": {
+    "QUESTION": "Which of the following statements about the histogram are true?",
+    "OPTION": {
+      "A": "Usually shows the development of quality over time",
+      "B": "Could be used to show the distribution of lengths of stay in patients admitted with acute asthma",
+      "C": "Could be used to show the distribution of birth weights in a sample of babies",
+      "D": "Conveys information about the spread of a distribution",
+      "E": "It is the best way to show relationship between weights and blood pressure"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Histograms display frequency distributions; time-related data uses line charts; relationships use scatterplots."
+  },
+  "49": {
+    "QUESTION": "The following can be said to be true about population pyramids?",
+    "OPTION": {
+      "A": "The oldest age group is open-ended",
+      "B": "Females are represented on the left and males on the right side of the pyramid",
+      "C": "Age is represented on the horizontal axis",
+      "D": "Age data is commonly categorized into 5 or 10-year age groups",
+      "E": "Its base is broad in populations of most third-world countries"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "In population pyramids, males are on the left, females on the right; age on vertical axis; developing countries have broad bases."
+  },
+  "50": {
+    "QUESTION": "The following are comprehensive indicators that measure health in any community?",
+    "OPTION": {
+      "A": "Proportional mortality indicator",
+      "B": "Expectation of life",
+      "C": "Maternal and infant mortality rates",
+      "D": "Number of females",
+      "E": "Crude birth rate"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Comprehensive health indicators include life expectancy, mortality rates, and proportional mortality ratios. Population sex ratio alone is not a health indicator."
+  }
+}

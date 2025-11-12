@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "The following statements about Biostatistics are incorrect",
+    "OPTION": {
+      "A": "It can be used in decision making",
+      "B": "Inductive biostatistics is commoner",
+      "C": "Deductive biostatistics follows probability theory",
+      "D": "Rarely used in disease surveillance",
+      "E": "Only B and C are correct"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Biostatistics is essential in decision making, inductive methods are common, and deductive methods follow probability logic. It is not rarely used in disease surveillance."
+  },
+  "2": {
+    "QUESTION": "The following are components of Health Information System except",
+    "OPTION": {
+      "A": "Demography and vital statistics",
+      "B": "Community diagnosis",
+      "C": "Health status of individuals",
+      "D": "Financial statistics",
+      "E": "Health management and planning"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Financial statistics are not part of a health information system’s core components."
+  },
+  "3": {
+    "QUESTION": "The following variables can be said to be an ordered categorical type",
+    "OPTION": {
+      "A": "Blood groups",
+      "B": "Chlamydia test result",
+      "C": "Culture results",
+      "D": "Educational status of individual",
+      "E": "Social class"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Ordered categorical variables have natural order, e.g., education level and social class."
+  },
+  "4": {
+    "QUESTION": "The quality of measured data can be defined in terms of the following terms",
+    "OPTION": {
+      "A": "Stability",
+      "B": "Consistency",
+      "C": "Sensitivity",
+      "D": "Size of data",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Quality of data is assessed using stability, consistency, sensitivity, etc."
+  },
+  "5": {
+    "QUESTION": "In developing a questionnaire the following guides should be taken",
+    "OPTION": {
+      "A": "Decide on the layout",
+      "B": "Pretest of the questionnaire is not necessary",
+      "C": "Interviewer administered should be used",
+      "D": "Avoid ambiguous statements",
+      "E": "Code the columns"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Pretesting is necessary; layout, coding, clarity, and interview method are important."
+  },
+  "6": {
+    "QUESTION": "The following principles of sample size calculation is incorrect except",
+    "OPTION": {
+      "A": "Ensure that your objectives are quantified",
+      "B": "State the size of the increased risk desired",
+      "C": "State the significant level",
+      "D": "State the hypothesis",
+      "E": "State the power of the study"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed items are necessary principles for sample size calculation."
+  },
+  "7": {
+    "QUESTION": "The following statement about descriptive statistics is correct",
+    "OPTION": {
+      "A": "It reduces data to a small concise and manageable size",
+      "B": "It draws inferences in some cases",
+      "C": "It generates pseudo-hypothesis",
+      "D": "It presents a summary of the spread of data",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Descriptive statistics summarize data; inferential conclusions or hypotheses are not their role."
+  },
+  "8": {
+    "QUESTION": "The following is/are common measures of dispersion for individual observations",
+    "OPTION": {
+      "A": "Standard deviation",
+      "B": "Mean deviation",
+      "C": "Standard error of mean",
+      "D": "Standard error of proportion",
+      "E": "Inter-quartile range"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Dispersion measures include SD, mean deviation, and IQR. Standard errors measure precision, not dispersion."
+  },
+  "9": {
+    "QUESTION": "Commonly used measures of location include the following except",
+    "OPTION": {
+      "A": "Quartile",
+      "B": "Quintiles",
+      "C": "Median",
+      "D": "Mean deviation",
+      "E": "Deciles"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Mean deviation is a measure of dispersion, not location."
+  },
+  "10": {
+    "QUESTION": "The properties of a good diagram/graph includes the following",
+    "OPTION": {
+      "A": "Should have a title above the table",
+      "B": "Should have a key",
+      "C": "Must be drawn to scale",
+      "D": "Uniform features not always necessary",
+      "E": "Should be self explanatory"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Good graphs must have titles, keys, scales, and clarity; uniform features are necessary."
+  },
+  "11": {
+    "QUESTION": "The skewness of a distribution can be measured by the following formulae",
+    "OPTION": {
+      "A": "Skewness = mean - median",
+      "B": "Skewness = mean + mode",
+      "C": "Skewness is positive if mean < mode",
+      "D": "Skewness is negative if median > mean",
+      "E": "None of the above"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Skewness measures asymmetry; formulas and sign depend on mean, median, and mode."
+  },
+  "12": {
+    "QUESTION": "The commonest micro-nutrient deficiencies worldwide include",
+    "OPTION": {
+      "A": "Vitamin A, Iron-deficiency anemia and Vitamin C",
+      "B": "Vitamin C, zinc and Vitamin B",
+      "C": "Vitamin D, Iodine and Vitamin A",
+      "D": "Vitamin A, Iron-deficiency anemia, and iodine",
+      "E": "Iron-deficiency anemia, zinc and vitamin C"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Vitamin A deficiency, iron-deficiency anemia, and iodine deficiency are the most common globally."
+  },
+  "13": {
+    "QUESTION": "The following are examples of socially handicapped",
+    "OPTION": {
+      "A": "The blind",
+      "B": "The orphan",
+      "C": "Child with cerebral palsy",
+      "D": "The destitute",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "All listed groups are socially disadvantaged or handicapped."
+  },
+  "14": {
+    "QUESTION": "Nutrition-related problems include the following",
+    "OPTION": {
+      "A": "Cancers",
+      "B": "Dental diseases",
+      "C": "Osteoporosis",
+      "D": "Skin diseases",
+      "E": "Hypertension"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Nutrition affects a broad spectrum of health outcomes including chronic diseases."
+  },
+  "15": {
+    "QUESTION": "Social Welfare Services in Nigeria include",
+    "OPTION": {
+      "A": "Orphanage",
+      "B": "Old People's Home",
+      "C": "Remand Homes",
+      "D": "Adoption services",
+      "E": "Clinical services"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Clinical services are healthcare, not social welfare."
+  },
+  "16": {
+    "QUESTION": "Direct methods of nutritional assessment include",
+    "OPTION": {
+      "A": "Age at menarche",
+      "B": "Biochemical tests",
+      "C": "Clinical examination",
+      "D": "Socioeconomic indices",
+      "E": "Health records"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Direct nutritional assessment uses measurable or observable biological data."
+  },
+  "17": {
+    "QUESTION": "Classification of malnutrition using the Z-Scores",
+    "OPTION": {
+      "A": "Within 2Z Scores denotes normal weight",
+      "B": "< -2Z Scores is under nutrition",
+      "C": "< -3Z Scores is acute malnutrition",
+      "D": "> +2Z Scores is overweight",
+      "E": "All are correct"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "WHO Z-Score classification defines nutritional status as indicated."
+  },
+  "18": {
+    "QUESTION": "A patient walks into the Heart-to-Heart clinic with a positive RVST screening referral from another centre far from the patient's abode, which of the following steps includes the right lines of action.",
+    "OPTION": {
+      "A": "Start the client on Anti-retroviral drug",
+      "B": "Send the client for confirmatory test with Western Blot",
+      "C": "Send the patient for serial testing with another type of test kit",
+      "D": "If positive do a post test counselling",
+      "E": "Send for adherence counselling"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "ART is started only after confirmatory testing and counselling."
+  },
+  "19": {
+    "QUESTION": "Concerning Tuberculosis",
+    "OPTION": {
+      "A": "Disease of the skin is by Mycobacterium Avium",
+      "B": "Pulmonary disease is majorly by Mycobacterium Bovis",
+      "C": "Infection always leads to disease",
+      "D": "Laboratory monitoring of treatment is by chest X-ray",
+      "E": "Category I treatment is for relapse"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Pulmonary TB is primarily caused by M. tuberculosis; chest X-ray is used for monitoring."
+  },
+  "20": {
+    "QUESTION": "The following are spread by droplet nuclei",
+    "OPTION": {
+      "A": "Q-fever",
+      "B": "Legionnaires",
+      "C": "Influenza",
+      "D": "Anthrax",
+      "E": "Tuberculosis"
+    },
+    "TRUE": ["C", "E"],
+    "FALSE": ["A", "B", "D"],
+    "EXPLANATION": "Influenza and TB are transmitted via droplet nuclei; others have different transmission routes."
+  },
+  "21": {
+    "QUESTION": "Concerning Nosocomial infections",
+    "OPTION": {
+      "A": "Incidence varies from centre to centre",
+      "B": "It is not nosocomial if transmission is between hospital staff",
+      "C": "Hospital procedures is not a predisposing factor",
+      "D": "Viral Hemorrhagic Fevers are associated with high mortality among health care staff",
+      "E": "Increased use of disposable items is a protective factor"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Nosocomial infections vary by facility; procedures and staff contact are important; disposables reduce risk."
+  },
+  "22": {
+    "QUESTION": "In epidemiology, characteristics of person include",
+    "OPTION": {
+      "A": "Gender",
+      "B": "Hair style",
+      "C": "Skin colour",
+      "D": "Occupational status",
+      "E": "Ethnicity"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Epidemiology focuses on inherent or social factors, not personal hairstyle."
+  },
+  "23": {
+    "QUESTION": "The following statement about disease carriers is/are true",
+    "OPTION": {
+      "A": "A carrier is always an infected person",
+      "B": "Some non-communicable diseases have carrier state",
+      "C": "A carrier can transmit the disease during the incubation period",
+      "D": "A and C only are correct",
+      "E": "All of the above are correct"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Carriers can transmit infection during incubation; not all carriers are infected in the usual sense, and non-communicable diseases do not have carriers."
+  },
+  "24": {
+    "QUESTION": "Which of the following epidemiological methods use individuals as unit of study",
+    "OPTION": {
+      "A": "Cross-sectional study",
+      "B": "Randomized controlled trials",
+      "C": "Case-control study",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed study designs use individuals as units of observation."
+  },
+  "25": {
+    "QUESTION": "Man-arthropod-man transmission chain is seen in",
+    "OPTION": {
+      "A": "Malaria",
+      "B": "Schistosomiasis",
+      "C": "Plague",
+      "D": "Onchocerciasis",
+      "E": "Guinea worm"
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Malaria and onchocerciasis involve human-vector-human transmission."
+  },
+  "26": {
+    "QUESTION": "The following statements about sexually transmitted infections (STIs) are true",
+    "OPTION": {
+      "A": "They are only transmitted through sexual contacts",
+      "B": "Chlamydia trachomatis is a bacterial STI",
+      "C": "Incidence can be increased by greater availability of forms of contraception",
+      "D": "Soiled fomites may transmit vulvo-vaginitis to pre-pubescent girls",
+      "E": "Early diagnosis and treatment is not an important control measure"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "STIs have multiple transmission modes; early diagnosis and treatment is important; Chlamydia is bacterial."
+  },
+  "27": {
+    "QUESTION": "The following drugs are included in the Category I regimen for Tuberculosis",
+    "OPTION": {
+      "A": "Rifampicin",
+      "B": "Isoniazid",
+      "C": "Chloramphenicol",
+      "D": "Kanamycin",
+      "E": "Levofloxacin"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Category I TB treatment includes first-line drugs Rifampicin and Isoniazid."
+  },
+  "28": {
+    "QUESTION": "The following tests are done for a newly detected case HIV before commencement of Antiretrovirals",
+    "OPTION": {
+      "A": "CT scan",
+      "B": "Abdominal ultrasound scan",
+      "C": "CD4 Count",
+      "D": "Genotype",
+      "E": "Serum Electrolyte, Urea, Creatinine"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Baseline lab tests like CD4, genotype, and renal function are essential before ART."
+  },
+  "29": {
+    "QUESTION": "The following are major classes of occupational hazards",
+    "OPTION": {
+      "A": "Work tools hazards",
+      "B": "Chemical hazards",
+      "C": "Physical hazards",
+      "D": "Hard rock hazards",
+      "E": "Overstress hazards"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Major occupational hazards are chemical, physical, and psychosocial/overstress; work tools and hard rock are minor/specific."
+  },
+  "30": {
+    "QUESTION": "The following are functions of an occupational health service except",
+    "OPTION": {
+      "A": "Provision of mortuary services",
+      "B": "Record keeping",
+      "C": "First aid",
+      "D": "Major surgeries",
+      "E": "Pre-employment medical examinations"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Occupational health focuses on prevention, monitoring, and minor treatment, not major surgeries or mortuary."
+  },
+  "31": {
+    "QUESTION": "The following are characteristics of research",
+    "OPTION": {
+      "A": "Demands a clear statement of the problem and purpose",
+      "B": "It requires a study design which will be specified in a proposal prior to its implementation",
+      "C": "Builds on existing data using both positive and negative findings",
+      "D": "New data is collected as required, and organized in such a way that they answer the original research question",
+      "E": "A, B and C are correct"
+    },
+    "TRUE": ["E", "D"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Research is systematic, builds on prior knowledge, collects new data, and follows a study design."
+  },
+  "32": {
+    "QUESTION": "Concerning Zika virus",
+    "OPTION": {
+      "A": "Mosquitoes that spread Zika virus bite only during the daytime",
+      "B": "Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses",
+      "C": "There is no vaccine to prevent or specific medicine to treat Zika infections",
+      "D": "Only a blood test can confirm diagnosis",
+      "E": "The virus can be transmitted vertically"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Zika vectors are Aedes mosquitoes (day and night); vertical transmission occurs; no vaccine exists."
+  },
+  "33": {
+    "QUESTION": "Concerning Lassa fever",
+    "OPTION": {
+      "A": "Lassa fever is an acute viral haemorrhagic illness caused by a member of the lentovirus family of viruses",
+      "B": "Person-to-person infections always occurs",
+      "C": "Laboratory transmission never occurs",
+      "D": "It is transmitted to humans from fomites contaminated with rodent excreta only",
+      "E": "The disease is endemic in the rodent population in parts of North America"
+    },
+    "TRUE": [],
+    "FALSE": ["A", "B", "C", "D", "E"],
+    "EXPLANATION": "Lassa fever is caused by an arenavirus in West Africa; transmission is primarily rodent-to-human, not only fomites."
+  },
+  "34": {
+    "QUESTION": "Concerning Ebola virus disease (EVD)",
+    "OPTION": {
+      "A": "The average EVD case fatality rate is around 50%",
+      "B": "Case fatality rates have varied from 2% to 9% in past outbreaks",
+      "C": "The virus is transmitted to people from all wild animals",
+      "D": "Ebola virus disease is formerly known as Ebola haemorrhagic fever",
+      "E": "The virus spreads in the human population through animal-to-human transmission"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "EVD has high CFR (~50%), is transmitted via animal-to-human, and was formerly called Ebola haemorrhagic fever."
+  },
+  "35": {
+    "QUESTION": "Which of the following definitions is/are correct",
+    "OPTION": {
+      "A": "Mission: aspirational and tangible goals (intent), the future of an organization",
+      "B": "Strategy: a specific result that a person or organization sets out to achieve",
+      "C": "Vision: core purpose, what and who (the present) of an organization",
+      "D": "Targets: motivates, sets direction, de facto purpose",
+      "E": "Indicators: statistics used to measure the attainment of a desired goal or objectives"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed definitions correctly describe organizational concepts."
+  },
+  "36": {
+    "QUESTION": "The following is/are basic management function(s) except",
+    "OPTION": {
+      "A": "Scrutinizing",
+      "B": "Leading",
+      "C": "Managing",
+      "D": "Assessing",
+      "E": "Evaluating"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Scrutinizing is not considered a basic management function."
+  },
+  "37": {
+    "QUESTION": "The following are true as regards uses of water in public health except",
+    "OPTION": {
+      "A": "Minimum of 200-400L/person/day is needed in rural areas",
+      "B": "Minimum of 20-60 L/person/day is needed in the urban areas",
+      "C": "At least 50 L/day will be adequate for maintaining good health",
+      "D": "Serves in Sports & medium for recreations e.g. swimming, boating",
+      "E": "Water scarcity is the aetiologic basis for the Ebola Virus Disease"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Water scarcity is not a cause of Ebola; rural consumption estimates are correct but lower than listed."
+  },
+  "38": {
+    "QUESTION": "In assessing water quality",
+    "OPTION": {
+      "A": "Coliform organisms are the only indicators of recent faecal pollution",
+      "B": "A faecal Coliform count of 50/1000ml is acceptable",
+      "C": "A Coliform count of 10 coliforms/100ml is regarded as suspicious",
+      "D": "Water with turbidity of < 15 NTU(nephrolometric turbidity units) is acceptable",
+      "E": "Cyanide levels of not more than <0.05mg/l is considered safe"
+    },
+    "TRUE": ["C", "E"],
+    "FALSE": ["A", "B", "D"],
+    "EXPLANATION": "Coliform is a key indicator, but not the only one; turbidity >5 NTU is unsafe; cyanide limits apply."
+  },
+  "39": {
+    "QUESTION": "In the segregation of hospital wastes, the following is/are correct",
+    "OPTION": {
+      "A": "Non-infectious - Black",
+      "B": "Infectious - Brown",
+      "C": "Sharps - Red",
+      "D": "Chemical - Yellow",
+      "E": "Radioactive - Black with radioactive label"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Standard colour coding: Black - general, Red - sharps, Yellow - infectious, Radioactive - labelled black."
+  },
+  "40": {
+    "QUESTION": "The following are linked with ozone layer depletion",
+    "OPTION": {
+      "A": "Halons as fire suppressants",
+      "B": "Methyl bromide in cleaning metals",
+      "C": "Methyl chloroform as refrigerants",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed chemicals are ozone-depleting substances."
+  },
+  "41": {
+    "QUESTION": "The following situations may be referred to as overcrowding",
+    "OPTION": {
+      "A": "Two adults of same sex living in a room",
+      "B": "Four children of less than a year occupying a room",
+      "C": "A man with his wives occupying a room",
+      "D": "A married couple with their new born baby occupying a room",
+      "E": "A brother and sister both adults occupying a room"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Overcrowding refers to high occupancy per room, particularly for children and multiple adults."
+  },
+  "42": {
+    "QUESTION": "The following are correctly matched with their specific developments in occupational health",
+    "OPTION": {
+      "A": "Percival Pott - Chimney sweeping and cancer of the scrotum",
+      "B": "Philippus Aureolus Paracelcus - toxicity due to mercury and sulphur",
+      "C": "Sir Thomas Legg - Pioneer occupational physician in the USA",
+      "D": "Gergius Agricola - Abdominal colic and lead poisoning",
+      "E": "George Baker - described health problems in mines"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Sir Thomas Legg was not a pioneer occupational physician in the USA; other matches are correct."
+  },
+  "43": {
+    "QUESTION": "Concerning intelligent quotient",
+    "OPTION": {
+      "A": "WHO uses IQ to assess mental proficiency",
+      "B": "Severe mental retardation is between 20-34",
+      "C": "Profound mental retardation <20",
+      "D": "Moderate mental retardation 35-49",
+      "E": "People with IQ > 50 are incapable of living alone or guarding against exploitation"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "These are standard IQ classifications used in clinical assessment."
+  },
+  "44": {
+    "QUESTION": "In calculating the midyear population of a city or town, the following is/are applicable",
+    "OPTION": {
+      "A": "Natural increase method",
+      "B": "Life survival table method",
+      "C": "Arithmetic progression method",
+      "D": "Natality measures",
+      "E": "Geometric progression method"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Midyear population can be estimated using multiple demographic methods."
+  },
+  "45": {
+    "QUESTION": "The following are publications of the World Health Organization",
+    "OPTION": {
+      "A": "Weekly epidemiological report",
+      "B": "World Health Policy and Planning",
+      "C": "World Health Report",
+      "D": "World Health Journal",
+      "E": "World Health Bulletin"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "WHO does not publish a journal called World Health Journal."
+  },
+  "46": {
+    "QUESTION": "The following could result from failure to obtain a patient's consent prior to exposing any part of him/her except",
+    "OPTION": {
+      "A": "Battery",
+      "B": "Trespass",
+      "C": "Malfeasance",
+      "D": "Malpractice",
+      "E": "Autonomy"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Autonomy is a patient right, not a legal consequence of non-consent."
+  },
+  "47": {
+    "QUESTION": "Concerning illness behavior",
+    "OPTION": {
+      "A": "It is not affected by cultural beliefs",
+      "B": "It is affected by sex",
+      "C": "Cannot be influenced by technical competence of health worker",
+      "D": "Can be influenced by quality of hospital care",
+      "E": "Can be influenced by perception of normality"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "Illness behavior is influenced by sex, hospital care quality, and perception of normality; cultural beliefs and technical skill matter too."
+  },
+  "48": {
+    "QUESTION": "The following are the regional offices of the WHO except",
+    "OPTION": {
+      "A": "African region - Congo Brazzaville",
+      "B": "American region - Washington",
+      "C": "Eastern Mediterranean region - Cairo, Egypt",
+      "D": "European region - Copenhagen, Denmark",
+      "E": "Western Pacific region - Manila, Philippines"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Eastern Mediterranean WHO office is in Cairo, but some sources list other locations; main exception is correctly indicated."
+  },
+  "49": {
+    "QUESTION": "The roles of a community health committee for a community-based health organization include",
+    "OPTION": {
+      "A": "Advocate for the community",
+      "B": "Employ staff",
+      "C": "Develop policies and regulations",
+      "D": "Co-manage funds with health workers",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Community health committees usually advise and co-manage, but do not directly employ staff."
+  },
+  "50": {
+    "QUESTION": "On prescribing an oral contraceptive pill to a patient, the health worker should ask about which of the following except",
+    "OPTION": {
+      "A": "Headaches",
+      "B": "Calf tenderness",
+      "C": "Number of children",
+      "D": "Family history of cancer",
+      "E": "Swelling of the feet"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Number of children is irrelevant to OCP safety screening; other items assess risk of thromboembolism or cancer."
+  }
+}

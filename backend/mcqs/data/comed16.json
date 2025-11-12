@@ -1,0 +1,652 @@
+{
+"1": {
+  "QUESTION": "Which of these statements about Classification of malnutrition using the Z-Scores is NOT correct?",
+  "OPTION": {
+    "A": "Within ±2Z Scores denotes normal weight",
+    "B": "<-2Z Scores is under nutrition",
+    "C": "<-3Z Scores is severe acute malnutrition",
+    "D": "+2Z Scores is overweight",
+    "E": "None of the above"
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "Z-scores < -2 indicate undernutrition; < -3 indicate severe malnutrition. ±2 is normal, +2 indicates overweight. 'None of the above' is true in context of NOT correct."
+},
+"2": {
+  "QUESTION": "Indirect methods of assessing nutritional status include:",
+  "OPTION": {
+    "A": "Dietary history",
+    "B": "Agricultural output",
+    "C": "Socioeconomic factors",
+    "D": "Mortality and morbidity patterns",
+    "E": "Health and Vital statistics"
+  },
+  "TRUE": ["B", "C", "D", "E"],
+  "FALSE": ["A"],
+  "EXPLANATION": "Indirect methods rely on population and environmental indicators; dietary history is direct assessment."
+},
+"3": {
+  "QUESTION": "The following are true about weight for age measurement:",
+  "OPTION": {
+    "A": "Determines wasting",
+    "B": "Most sensitive between 1-5 years of age",
+    "C": "Can differentiate wasting from stunting",
+    "D": "Useful only when the child's age is known",
+    "E": "All of the above"
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Weight for age measures underweight but cannot distinguish wasting from stunting."
+},
+"4": {
+  "QUESTION": "Which of these belong to the fruit/vegetable group?",
+  "OPTION": {
+    "A": "Cassava",
+    "B": "Tomatoes",
+    "C": "Sweet potatoes",
+    "D": "Dry peas",
+    "E": "Cocoyam"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Cassava, tomatoes, and cocoyam are considered vegetables/fruits. Sweet potatoes and dry peas belong to roots and legumes."
+},
+"5": {
+  "QUESTION": "Agents of socialization include:",
+  "OPTION": {
+    "A": "Church",
+    "B": "Peer group",
+    "C": "Workplace",
+    "D": "Social clubs",
+    "E": "All of the above"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "All listed institutions and groups influence socialization."
+},
+"6": {
+  "QUESTION": "About Traditional orthodox Medicine:",
+  "OPTION": {
+    "A": "Modern medicine is evidence-based while traditional is not",
+    "B": "Both are now standardized and practitioners are trained",
+    "C": "In Traditional medicine, each person is treated on individual basis",
+    "D": "Modern medicine is based on principles that are applicable globally while Traditional medicine has no worldly applicable principles",
+    "E": "All of the above"
+  },
+  "TRUE": ["B"],
+  "FALSE": ["A", "C", "D", "E"],
+  "EXPLANATION": "Only B is correct; modern and traditional medicine now both have trained practitioners."
+},
+"7": {
+  "QUESTION": "The numerator for perinatal mortality rate is:",
+  "OPTION": {
+    "A": "Number of deaths in the first week of life",
+    "B": "Number of deaths in the first month of life",
+    "C": "Number of still births",
+    "D": "Number of still births and deaths in the first week of life",
+    "E": "None of the above"
+  },
+  "TRUE": ["D"],
+  "FALSE": ["A", "B", "C", "E"],
+  "EXPLANATION": "Perinatal mortality = stillbirths + deaths within the first week of life."
+},
+"8": {
+  "QUESTION": "Concerning the International Health Regulations:",
+  "OPTION": {
+    "A": "They are an international legal instrument",
+    "B": "It is binding on 194 countries across the globe",
+    "C": "The goal is to prevent, protect, control, and respond without disrupting international trade and traffic",
+    "D": "It is for the recent coronavirus epidemic only",
+    "E": "Compliance to the IHR is not mandatory for all the Member States of World Health Organization"
+  },
+  "TRUE": ["A", "B", "C"],
+  "FALSE": ["D", "E"],
+  "EXPLANATION": "IHR applies broadly to all relevant public health emergencies, not only COVID-19, and compliance is mandatory for members."
+},
+"9": {
+  "QUESTION": "Since International Health Regulations (2005) was put into place, the following public health emergencies of international concern have been declared by WHO:",
+  "OPTION": {
+    "A": "H1N1 influenza (2009)",
+    "B": "Polio (2014)",
+    "C": "Ebola (2014)",
+    "D": "Zika virus (2016)",
+    "E": "New (novel) coronavirus (2020)"
+  },
+  "TRUE": ["A", "D", "E"],
+  "FALSE": ["B", "C"],
+  "EXPLANATION": "H1N1, Zika, and COVID-19 were declared PHEICs; Polio and Ebola had specific contexts."
+},
+"10": {
+  "QUESTION": "Concerning International health regulation:",
+  "OPTION": {
+    "A": "It was first adopted by the health assembly in 1969",
+    "B": "IHR 2005 came into force on the 15 June 2007",
+    "C": "IHR initially covered two diseases",
+    "D": "IHR 2005 covers eighteen diseases",
+    "E": "Only A and B are correct"
+  },
+  "TRUE": ["B", "C"],
+  "FALSE": ["A", "D", "E"],
+  "EXPLANATION": "IHR 2005 came into force in 2007 (B) and initially covered two diseases (C)."
+},
+"11": {
+  "QUESTION": "Constraints in accessing health service in developing countries include:",
+  "OPTION": {
+    "A": "Highest level of maternal education attained",
+    "B": "Socio-economic status",
+    "C": "Socio-cultural practices for example the Purdah system",
+    "D": "Distance to health facilities",
+    "E": "Transportation and poor road infrastructure"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Education, socioeconomic status, and transport infrastructure are major constraints; distance and socio-cultural practices may vary by context."
+},
+"12": {
+  "QUESTION": "Sociodemographic information extractable in research include:",
+  "OPTION": {
+    "A": "sex",
+    "B": "age",
+    "C": "diagnosis",
+    "D": "location",
+    "E": "seasonal variations"
+  },
+  "TRUE": ["A", "B", "D"],
+  "FALSE": ["C", "E"],
+  "EXPLANATION": "Demographics include age, sex, location; diagnosis is clinical, seasonal variations are temporal data."
+},
+"13": {
+  "QUESTION": "The following statements about Biostatistics are correct:",
+  "OPTION": {
+    "A": "It can be used for sentinel surveys",
+    "B": "It is key in decision making",
+    "C": "Inductive statistics is similar to inferential statistics",
+    "D": "Most of the information are on changing trends",
+    "E": "Deductive statistics is inferior to inductive statistics"
+  },
+  "TRUE": ["B", "C", "D"],
+  "FALSE": ["A", "E"],
+  "EXPLANATION": "Biostatistics informs decision-making and inferential statistics is inductive. Deductive statistics is not inferior."
+},
+"14": {
+  "QUESTION": "The following are key components of Health Information System:",
+  "OPTION": {
+    "A": "Demography and Vital Statistics",
+    "B": "Health resources",
+    "C": "Health chronicles",
+    "D": "Utilization of health services",
+    "E": "Cost Analysis"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Key HIS components include demography, resources, and cost analysis; health chronicles are not standard."
+},
+"15": {
+  "QUESTION": "About frequency table distribution, the following issues raised is/are incorrect:",
+  "OPTION": {
+    "A": "It has several columns",
+    "B": "In qualitative data presentation, its second column contains mutually exclusive variables",
+    "C": "It is used for early data exploration",
+    "D": "All class intervals must be unique",
+    "E": "Class limits are the most important part"
+  },
+  "TRUE": ["A", "C"],
+  "FALSE": ["B", "D"],
+  "EXPLANATION": "Frequency tables are exploratory tools with multiple columns; class intervals must be exclusive but uniqueness and second column rule vary."
+},
+"16": {
+  "QUESTION": "Concerning variables, the following statements are correct:",
+  "OPTION": {
+    "A": "It is a set of values recorded continuously",
+    "B": "It is the aspect of an individual that is measured",
+    "C": "Numerical variables are commoner in nature",
+    "D": "Culture result is an example of binary variable",
+    "E": "All of the above"
+  },
+  "TRUE": ["B"],
+  "FALSE": ["A", "C", "D", "E"],
+  "EXPLANATION": "A variable measures a characteristic; numerical variables are not always commoner, culture results may not be binary."
+},
+"17": {
+  "QUESTION": "Subject Variation in research measurement can occur as a result of:",
+  "OPTION": {
+    "A": "Faulty technique used",
+    "B": "Physical changes in the observed",
+    "C": "Hawthorne effect",
+    "D": "Observer and subject misinterpretation",
+    "E": "Emotional changes in the observed"
+  },
+  "TRUE": ["B", "C", "E"],
+  "FALSE": ["A", "D"],
+  "EXPLANATION": "Variation arises from physiological changes, Hawthorne effect, and emotional states; faulty technique is measurement error."
+},
+"18": {
+  "QUESTION": "The following are components of rehabilitation:",
+  "OPTION": {
+    "A": "Chemical rehabilitation",
+    "B": "Medical rehabilitation",
+    "C": "Physical rehabilitation",
+    "D": "Social rehabilitation",
+    "E": "Psychological rehabilitation"
+  },
+  "TRUE": ["B", "C", "D", "E"],
+  "FALSE": ["A"],
+  "EXPLANATION": "Rehabilitation includes medical, physical, social, and psychological domains; chemical rehabilitation is not a component."
+},
+"19": {
+  "QUESTION": "Rehabilitative medicine focuses broadly on the following groups:",
+  "OPTION": {
+    "A": "Physically handicapped; dumb, crippled",
+    "B": "Mentally handicapped",
+    "C": "Spiritually handicapped",
+    "D": "Socially handicapped",
+    "E": "Mechanically handicapped"
+  },
+  "TRUE": ["B", "D"],
+  "FALSE": ["A", "C", "E"],
+  "EXPLANATION": "Focus is on mental and social rehabilitation; spiritual and mechanical handicaps are not standard categories."
+},
+"20": {
+  "QUESTION": "Community Medicine is:",
+  "OPTION": {
+    "A": "A combination of clinical medicine and public health",
+    "B": "Applied to a well-defined community",
+    "C": "Practised by both the doctor and the community nurse",
+    "D": "Practised by all the community health workers",
+    "E": "Practised by the doctor alone"
+  },
+  "TRUE": ["C", "D"],
+  "FALSE": ["A", "B", "E"],
+  "EXPLANATION": "Community medicine involves doctors and community nurses working with community health workers."
+},
+"21": {
+  "QUESTION": "Human Ecology studies:",
+  "OPTION": {
+    "A": "The interaction between humans and animals",
+    "B": "The interaction of humans with their total environment",
+    "C": "Human surroundings and the effects they produce in the lives of men",
+    "D": "Only the influence of humans on their environment",
+    "E": "The impact of human activities on the ecosystem"
+  },
+  "TRUE": ["E"],
+  "FALSE": ["A", "B", "C", "D"],
+  "EXPLANATION": "Human ecology focuses on human activities’ impact on ecosystems."
+},
+"22": {
+  "QUESTION": "Current concepts of HEALTH include:",
+  "OPTION": {
+    "A": "Health as a dynamic process",
+    "B": "Health as a way of life",
+    "C": "Health as a potential",
+    "D": "Health as a social goal",
+    "E": "All of the above"
+  },
+  "TRUE": ["B", "C", "D", "E"],
+  "FALSE": ["A"],
+  "EXPLANATION": "Health is considered a way of life, potential, and social goal; the 'all of the above' option is correct."
+},
+"23": {
+  "QUESTION": "Sociology in Medicine deals with:",
+  "OPTION": {
+    "A": "Application of Sociology to Medicine",
+    "B": "The social aspects of health organizations",
+    "C": "The social aspects of health and disease",
+    "D": "What people believe and do about health and illness",
+    "E": "Patient-Doctor relationship"
+  },
+  "TRUE": ["A", "C", "D"],
+  "FALSE": ["B", "E"],
+  "EXPLANATION": "Sociology in medicine focuses on societal influences on health and disease, beliefs, and behaviors."
+},
+"24": {
+  "QUESTION": "The following are formal sources of literature in research",
+  "OPTION": {
+    "A": "Journals, books",
+    "B": "Report of Expert Committee",
+    "C": "Search engines-Google",
+    "D": "Pubmed",
+    "E": "Thesis/ Dissertation"
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Formal sources include peer-reviewed publications, expert reports, PubMed, and academic theses; search engines are informal."
+},
+"25": {
+  "QUESTION": "Ethical issues in research involves which of the following",
+  "OPTION": {
+    "A": "Informed consent",
+    "B": "Right to withdraw",
+    "C": "Reasons for the study",
+    "D": "Permission for access to medical records",
+    "E": "Provision of study results"
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Ethical principles cover participant autonomy, data access permissions, and feedback of results."
+},
+"26": {
+  "QUESTION": "The following are quantitative methods of data collection",
+  "OPTION": {
+    "A": "Delphi technique",
+    "B": "Data sheets",
+    "C": "Mystery clients",
+    "D": "Clinic record - case notes",
+    "E": "Key informant interviews"
+  },
+  "TRUE": ["B", "D"],
+  "FALSE": ["A", "C", "E"],
+  "EXPLANATION": "Quantitative data collection relies on numerical records such as data sheets and clinic notes."
+},
+"27": {
+  "QUESTION": "The following are true as regards uses of water in Public Health",
+  "OPTION": {
+    "A": "Minimum of 200-400L/person/day is needed in rural areas",
+    "B": "Minimum of 20-60 L/person/ day is needed in the urban areas",
+    "C": "At least 50 L/day will be adequate for maintaining good health.",
+    "D": "Serves in Sports & medium for recreations e.g. swimming, boating,",
+    "E": "Water scarcity is the etiologic basis for the Ebola Virus Disease"
+  },
+  "TRUE": ["C", "D"],
+  "FALSE": ["A", "B", "E"],
+  "EXPLANATION": "Around 50 L per person daily supports health; water is also essential for recreation but not linked etiologically to Ebola."
+},
+"28": {
+  "QUESTION": "In assessing water quality,",
+  "OPTION": {
+    "A": "Water with <15 true color units (TCU).",
+    "B": "Physical assessment is conclusive",
+    "C": "A Coliform count of 10 coliforms/100ml is regarded as suspicious.",
+    "D": "Water with turbidity of <5 nephelometric turbidity units (NTU) is acceptable.",
+    "E": "Cyanide levels not more than <0.05mg/l is considered safe"
+  },
+  "TRUE": ["A", "C", "D", "E"],
+  "FALSE": ["B"],
+  "EXPLANATION": "Acceptable limits include <15 TCU color, <5 NTU turbidity, safe cyanide levels, and low coliform counts; physical checks alone are insufficient."
+},
+"29": {
+  "QUESTION": "The health effects of poorly disposed refuse include:",
+  "OPTION": {
+    "A": "pollution of water supply",
+    "B": "breeding of flies and rats",
+    "C": "mosquito borne diseases",
+    "D": "stress",
+    "E": "murine typhus infection"
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Improper refuse disposal leads to contamination, vermin infestation, typhus risk, and psychosocial stress."
+},
+"30": {
+  "QUESTION": "The characteristics of a good sanitary well include",
+  "OPTION": {
+    "A": "Should be sited at least 10 metres and uphill from any potential source of pollution.",
+    "B": "Water should be drawn by a pump or a permanent bucket attached to the well.",
+    "C": "There should be a concrete parapet about two feet high",
+    "D": "There should be a concrete platform surrounded by a concrete apron",
+    "E": "There should be water-tight lining of at least 30 feet from the surface."
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "A sanitary well requires adequate distance, structural protection, lining, and hygienic water drawing methods."
+},
+"31": {
+  "QUESTION": "The following are characteristics of good sewage disposal:",
+  "OPTION": {
+    "A": "Must not pollute the surface soil, surface water, or underground water",
+    "B": "Must be unsightly or smelly",
+    "C": "Must be inaccessible to flies or animals",
+    "D": "Encourage handling of fresh sewage",
+    "E": "Method should be simple, cheap and culturally acceptable"
+  },
+  "TRUE": ["A", "C", "E"],
+  "FALSE": ["B", "D"],
+  "EXPLANATION": "Good sewage disposal prevents contamination, limits fly access, and remains simple and acceptable."
+},
+"32": {
+  "QUESTION": "In the segregation of biomedical wastes, the following is/are correct",
+  "OPTION": {
+    "A": "Non- infectious | Black",
+    "B": "Infectious | Brown",
+    "C": "Sharps | Red",
+    "D": "Chemical | Yellow",
+    "E": "Radioactive | Black with radioactive label"
+  },
+  "TRUE": ["A", "C", "D", "E"],
+  "FALSE": ["B"],
+  "EXPLANATION": "Non-infectious wastes use black bags; sharps red; chemicals yellow; radioactive wastes labeled black; infectious wastes use yellow or red, not brown."
+},
+"33": {
+  "QUESTION": "Which of the following definitions is/ are correct",
+  "OPTION": {
+    "A": "Sewage - household waste containing faeces.",
+    "B": "Sullage - network of sewers from the same area that discharges into the same pool",
+    "C": "Sewer - waste water from kitchen, bathrooms, laundry.",
+    "D": "Sewerage - connection of pipes that take away faeces from the toilet.",
+    "E": "Sullarage - connection of pipes that take away faeces from the bath and laundry"
+  },
+  "TRUE": ["A", "D"],
+  "FALSE": ["B", "C", "E"],
+  "EXPLANATION": "Sewage is excreta-containing waste; sewerage refers to the pipe system for its removal."
+},
+"34": {
+  "QUESTION": "Contraceptive oral pills help in birth control in different ways by:",
+  "OPTION": {
+    "A": "Killing of ova",
+    "B": "Preventing ovulation",
+    "C": "Killing of sperms",
+    "D": "Efficacy with regular use is over 84%",
+    "E": "Thickening the mucous on the cervix"
+  },
+  "TRUE": ["B", "D", "E"],
+  "FALSE": ["A", "C"],
+  "EXPLANATION": "Oral pills mainly suppress ovulation and thicken cervical mucus, providing high contraceptive efficacy."
+},
+"35": {
+  "QUESTION": "Factors vital for successful conception is/are",
+  "OPTION": {
+    "A": "The sperm count of the male partner must be satisfactory in every parameter",
+    "B": "The mucous membrane of the cervix must facilitate the transport of active spermatozoa",
+    "C": "Existence of certain congenital anomalies in the reproductive system always affects fertilization",
+    "D": "The Female hormones especially progesterone and androgen must be adequate",
+    "E": "All of the above"
+  },
+  "TRUE": ["E"],
+  "FALSE": [],
+  "EXPLANATION": "Conception depends on adequate sperm, cervical receptivity, hormonal balance, and normal anatomy."
+},
+"36": {
+  "QUESTION": "The definition of Primary Health Care covers:",
+  "OPTION": {
+    "A": "Universally accessible services",
+    "B": "Full participation of communities",
+    "C": "At a cost that individuals and families can afford at every stage of development",
+    "D": "In a spirit of self-reliance and self-determination",
+    "E": "Basic and advanced health care"
+  },
+  "TRUE": ["A", "B", "C", "D"],
+  "FALSE": ["E"],
+  "EXPLANATION": "Primary health care emphasizes accessible, affordable, participatory, and self-reliant basic services."
+},
+"37": {
+  "QUESTION": "Health Economics covers the following",
+  "OPTION": {
+    "A": "Scarcity",
+    "B": "Choice",
+    "C": "Opportunity demand and efficient use of scarce resources to produce commodities for the satisfaction of unlimited needs and wants",
+    "D": "Equity",
+    "E": "Study of proper allocation of resources"
+  },
+  "TRUE": ["A", "B", "D", "E"],
+  "FALSE": ["C"],
+  "EXPLANATION": "Health economics examines scarcity, equity, choices, and allocation; 'opportunity cost' describes efficient resource use."
+},
+"38": {
+  "QUESTION": "The following are true about the forms of Economic Evaluation",
+  "OPTION": {
+    "A": "Cost minimization analysis is also called Cost Analysis",
+    "B": "Cost-benefit Analysis has both numerator and denominator in terms of cost",
+    "C": "Cost-effectiveness Analysis is also called Cost Analysis",
+    "D": "Cost-Utilization Analysis has Quality Unadjusted Life Years as an outcome",
+    "E": "Cost-Utilization Analysis has Healthy Life Years (HLY) as an outcome"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Cost-minimization compares costs; cost-benefit uses cost in both components; cost-utility outcomes may be measured in HLY."
+},
+"39": {
+  "QUESTION": "The following is/are true about Adoption:",
+  "OPTION": {
+    "A": "Adoption is a permanent legal arrangement whereby the care of a child is taken up by a responsible woman",
+    "B": "The child takes up the family name",
+    "C": "The child is entitled to an inheritance when adoptive parents die",
+    "D": "The adoptive parents must be educated",
+    "E": "The adoptive parents must be over 21 years of age"
+  },
+  "TRUE": ["A", "B", "C", "E"],
+  "FALSE": ["D"],
+  "EXPLANATION": "Adoption confers full legal rights including name and inheritance; education is not a legal requirement."
+},
+"40": {
+  "QUESTION": "A patient walks into the Heart-to-Heart clinic of your rural practice centre with a positive RVST screening (using only determine) referral from another centre far from the patient's abode, which of the following steps includes the right lines of action.",
+  "OPTION": {
+    "A": "Start the client on Anti-retroviral drug first",
+    "B": "Send the client for confirmatory test with Western Blot",
+    "C": "Send the patient for serial testing with another type of test kit",
+    "D": "If positive do a post-test counselling",
+    "E": "Send for adherence counselling"
+  },
+  "TRUE": ["C", "D", "E"],
+  "FALSE": ["A", "B"],
+  "EXPLANATION": "After screening, serial testing with different kits confirms diagnosis, followed by counseling and adherence support."
+},
+"41": {
+  "QUESTION": "Concerning meningitis outbreaks in Nigeria",
+  "OPTION": {
+    "A": "Antigenic group C has been implicated in one of the outbreaks in 2017",
+    "B": "The outbreaks have spread beyond Northern Nigeria",
+    "C": "Mass immunization is not an effective control measure",
+    "D": "The recommended drug of choice for close contacts of cases is Isoniazid",
+    "E": "Gathering in large numbers for prolonged time during an outbreak is not encouraged"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Group C was involved in 2017; outbreaks extended southward; crowding worsens spread; rifampicin, not isoniazid, is used for contacts."
+},
+"42": {
+  "QUESTION": "In view of the recent outbreak of Lassa fever in different Health Care Facilities in the country",
+  "OPTION": {
+    "A": "Hospitals must form Infection Prevention and Control Committees",
+    "B": "Standard Operating Procedures (SOP) need not be established for the every sections of the hospital due to 'a' above",
+    "C": "Screening of all patients for fever with creation of isolation area is mandatory",
+    "D": "Search for epidemiological link is of little relevance for those with fever",
+    "E": "Universal precaution should be ensured by all."
+  },
+  "TRUE": ["A", "C", "E"],
+  "FALSE": ["B", "D"],
+  "EXPLANATION": "Effective Lassa control requires IPC committees, fever screening with isolation, and adherence to universal precautions."
+},
+"43": {
+  "QUESTION": "Activities to control sexually transmitted infections include the following:",
+  "OPTION": {
+    "A": "Contact tracing",
+    "B": "Sex education",
+    "C": "Screening of every adult",
+    "D": "Treating of sick persons",
+    "E": "Use of all forms of family planning"
+  },
+  "TRUE": ["A", "B", "D"],
+  "FALSE": ["C", "E"],
+  "EXPLANATION": "Control strategies focus on education, case treatment, and tracing of contacts; mass screening and all FP methods are not required."
+},
+"44": {
+  "QUESTION": "The infective agents for under-listed diseases in man are?",
+  "OPTION": {
+    "A": "Malaria - merozoites",
+    "B": "Draucunculiasis - cercaria",
+    "C": "Schistosomiasis - metacercaria",
+    "D": "Fasciole hepatica - cercaria",
+    "E": "Taenia saginata - cysticercosis"
+  },
+  "TRUE": ["D", "E"],
+  "FALSE": ["A", "B", "C"],
+  "EXPLANATION": "Fasciola hepatica infection occurs via cercaria; Taenia saginata via cysticercus; malaria’s infective form is sporozoite."
+},
+"45": {
+  "QUESTION": "Concerning intelligent quotient",
+  "OPTION": {
+    "A": "The WHO uses the intelligence quotient to assess mental proficiency.",
+    "B": "Severe mental retardation is between 20-34",
+    "C": "Profound mental retardation <20",
+    "D": "Moderate mental retardation - 35-49",
+    "E": "People with I.Q. > 50 are incapable of living alone or guarding against exploitation"
+  },
+  "TRUE": ["B", "C", "D"],
+  "FALSE": ["A", "E"],
+  "EXPLANATION": "IQ ranges define intellectual impairment levels; WHO does not routinely use IQ, and those above 50 can often live independently."
+},
+"46": {
+  "QUESTION": "The following practices at work place can be termed as a form of containment:",
+  "OPTION": {
+    "A": "Change of process",
+    "B": "Total enclosure",
+    "C": "Ventilation",
+    "D": "Substitution",
+    "E": "Wet drilling at mines"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "Containment includes process modification, substitution, ventilation, and physical control like enclosure or wet drilling."
+},
+"47": {
+  "QUESTION": "The following are correctly matched:",
+  "OPTION": {
+    "A": "Georgius Agricola.... De Re Metallica",
+    "B": "Charles Turner Thachrah.... Effects of the principal acts of trade and profession on health and longevity",
+    "C": "Thomas Percival.... De morbis artificum diatriba",
+    "D": "Bernadino Ramazzini.... Health and morals of apprentices act 1802",
+    "E": "Sir Thomas Legg.... lead poisoning and lead absorption"
+  },
+  "TRUE": ["A", "B", "E"],
+  "FALSE": ["C", "D"],
+  "EXPLANATION": "Agricola wrote De Re Metallica; Thackrah documented occupational effects; Legg studied lead toxicity."
+},
+"48": {
+  "QUESTION": "School health services comprise the following except:",
+  "OPTION": {
+    "A": "Medical examination",
+    "B": "Control of infectious disease including immunization",
+    "C": "Treatment of minor ailments and first aid",
+    "D": "Record keeping",
+    "E": "School nutrition programme"
+  },
+  "TRUE": ["A", "B", "C", "D"],
+  "FALSE": ["E"],
+  "EXPLANATION": "School health focuses on preventive, promotive, and minor curative care; feeding programs fall under nutrition services."
+},
+"49": {
+  "QUESTION": "Concerning vaccine vial monitor",
+  "OPTION": {
+    "A": "This is a thermochromic label on vaccine bottles used to indicate if vaccine is stored within adequate temperature to maintain its potency",
+    "B": "Vaccines are stored at a temp of 2-8 degree Celsius",
+    "C": "The thermochromic label changes in colour",
+    "D": "It has four stages, Stage 1(white) & 2(ash) are viable vaccines",
+    "E": "Stage 3(light purple) & 4(dark purple) are non-viable vaccines or expired"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "Vaccine Vial Monitors (VVMs) are thermochromic labels indicating if vaccines are stored within proper temperatures; color stages show whether vaccines remain potent or have expired."
+},
+"50": {
+  "QUESTION": "The following are functions of the STATE MINISTRY OF HEALTH in Nigeria",
+  "OPTION": {
+    "A": "To co-ordinate, supervise, evaluate and regulate the health sector of the state",
+    "B": "To provide quality accessible health care service to the people of the state",
+    "C": "To promote the general welfare of the citizens",
+    "D": "To organize and maintain the government hospital and primary health care in communities and provide guidelines to the health care facilities",
+    "E": "To control any potential outbreaks of diseases and other infectious diseases"
+  },
+  "TRUE": ["A", "B", "C", "D", "E"],
+  "FALSE": [],
+  "EXPLANATION": "The State Ministry of Health is responsible for regulation, supervision, service delivery, public welfare, health facility management, and outbreak control."
+}
+}

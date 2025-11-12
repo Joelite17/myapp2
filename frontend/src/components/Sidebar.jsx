@@ -1,5 +1,5 @@
 import { MdDashboard } from "react-icons/md";
-import { FaHome, FaStickyNote, FaList, FaBook, FaUser, FaSignOutAlt } from "react-icons/fa";
+import { FaHome, FaUser, FaSignOutAlt } from "react-icons/fa";
 import { Link, useNavigate } from "react-router-dom";
 import { useContext } from "react";
 import { AccountsContext } from "../context/AccountsContext";
@@ -17,10 +17,8 @@ export default function Sidebar({ isOpen, setIsOpen }) {
   const menuItems = [
     { icon: <MdDashboard />, label: "Dashboard", path: "/" },
     { icon: <FaHome />, label: "Feeds", path: "/feeds" },
-    { icon: <FaStickyNote />, label: "Notes", path: "/notes" },
-    { icon: <FaList />, label: "MCQs", path: "/mcqs" },
-    { icon: <FaBook />, label: "Flashcards", path: "/flashcards" },
     { icon: <FaUser />, label: "Profile", path: "/profile" },
+    { icon: <FaSignOutAlt />, label: "Logout", action: handleLogout }, // added logout
   ];
 
   const handleLinkClick = () => {
@@ -45,26 +43,26 @@ export default function Sidebar({ isOpen, setIsOpen }) {
         <ul className="p-4 space-y-3">
           {menuItems.map((item, index) => (
             <li key={index}>
-              <Link
-                to={item.path}
-                onClick={handleLinkClick}
-                className="flex items-center space-x-3 text-gray-700 dark:text-gray-200 hover:text-green-600 dark:hover:text-green-400 cursor-pointer transition-colors duration-200"
-              >
-                {item.icon}
-                <span>{item.label}</span>
-              </Link>
+              {item.path ? (
+                <Link
+                  to={item.path}
+                  onClick={handleLinkClick}
+                  className="flex items-center space-x-3 text-gray-700 dark:text-gray-200 hover:text-green-600 dark:hover:text-green-400 cursor-pointer transition-colors duration-200"
+                >
+                  {item.icon}
+                  <span>{item.label}</span>
+                </Link>
+              ) : (
+                <button
+                  onClick={item.action}
+                  className="flex items-center space-x-3 text-gray-700 dark:text-gray-200 hover:text-green-600 dark:hover:text-green-400 w-full text-left cursor-pointer transition-colors duration-200"
+                >
+                  {item.icon}
+                  <span>{item.label}</span>
+                </button>
+              )}
             </li>
           ))}
-          {/* Logout */}
-          <li>
-            <button
-              onClick={handleLogout}
-              className="flex items-center space-x-3 text-gray-700 dark:text-gray-200 hover:text-green-600 dark:hover:text-green-400 w-full text-left cursor-pointer transition-colors duration-200"
-            >
-              <FaSignOutAlt />
-              <span>Logout</span>
-            </button>
-          </li>
         </ul>
       </aside>
     </>

@@ -1,0 +1,327 @@
+{
+  "1": {
+    "QUESTION": "Healthcare financing options include",
+    "OPTION": {
+      "A": "Life insurance premium",
+      "B": "Community contributions",
+      "C": "Payment for health services rendered",
+      "D": "National Health Insurance Scheme",
+      "E": "Only D is correct"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "The National Health Insurance Scheme is the primary recognized healthcare financing option; others are not universally applied."
+  },
+  "2": {
+    "QUESTION": "The following is/are part(s) of the planning cycle except",
+    "OPTION": {
+      "A": "Selection of strategies",
+      "B": "Prioritization of needs",
+      "C": "Activity scheduling",
+      "D": "Resource specification",
+      "E": "Selection of key members"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Selection of key members is not a formal step in the planning cycle; the other options are part of planning."
+  },
+  "3": {
+    "QUESTION": "Water impounding diseases include",
+    "OPTION": {
+      "A": "Onchocerciasis",
+      "B": "Filariasis",
+      "C": "Schistosomiasis",
+      "D": "Paragonimiasis",
+      "E": "Ascariasis"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Schistosomiasis is directly related to water impoundment; the others are not primarily water impounding diseases."
+  },
+  "4": {
+    "QUESTION": "The health effects of poorly disposed refuse include",
+    "OPTION": {
+      "A": "Pollution of water supply",
+      "B": "Breeding of flies and rats",
+      "C": "Mosquito borne diseases",
+      "D": "Stress",
+      "E": "Murine typhus infection"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Improper refuse disposal contaminates water, attracts vectors, spreads vector-borne diseases; stress is not directly caused."
+  },
+  "5": {
+    "QUESTION": "The characteristics of a good sanitary well include",
+    "OPTION": {
+      "A": "Should be sited at least 10 metres and uphill from any potential source of pollution.",
+      "B": "There should be water-tight lining of at least 20 feet from the surface.",
+      "C": "There should be a concrete platform(parapet) about two feet high surrounded by a concrete apron to drain the waste water away",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "All listed features are essential for a good sanitary well; 'None of the above' is incorrect."
+  },
+  "6": {
+    "QUESTION": "The following are Characteristics of good sewage disposal",
+    "OPTION": {
+      "A": "Must not pollute the surface soil, surface water, or underground water",
+      "B": "Must be unsightly or smelly",
+      "C": "Must be accessible to flies or animal",
+      "D": "Encourage handling of fresh sewage",
+      "E": "Method should be simple, cheap and culturally acceptable"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Good sewage disposal must be non-polluting, simple, affordable, and culturally acceptable; unsightliness, vector access, and handling of fresh sewage are undesirable."
+  },
+  "7": {
+    "QUESTION": "The following are typical indicators of social and mental health",
+    "OPTION": {
+      "A": "Suicide rates",
+      "B": "Alcohol and drug abuse rate",
+      "C": "Radiation rate",
+      "D": "Noise Levels",
+      "E": "Acts of violence and crime"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Suicide, substance abuse, and violence are social/mental health indicators; radiation and noise levels are environmental factors."
+  },
+  "8": {
+    "QUESTION": "The following sampling techniques are popular in rural settings",
+    "OPTION": {
+      "A": "Multistage sampling",
+      "B": "Systematic sampling",
+      "C": "Stratified sampling",
+      "D": "Cluster sampling",
+      "E": "Multi phase sampling"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed sampling techniques are applicable in rural research contexts."
+  },
+  "9": {
+    "QUESTION": "In developing a questionnaire, the researcher should",
+    "OPTION": {
+      "A": "Be as specific as possible",
+      "B": "Be guided by the culture of the people",
+      "C": "Use jargons",
+      "D": "Avoid vague words, which may mean different things to different people",
+      "E": "Use leading questions"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Questionnaires should be specific, culturally sensitive, and clear; jargon and leading questions should be avoided."
+  },
+  "10": {
+    "QUESTION": "The following are characteristics of research except",
+    "OPTION": {
+      "A": "It demands a clear statement of the problem and a purpose.",
+      "B": "It requires a study design which will be specified in a proposal prior to its implementation.",
+      "C": "It builds on existing data using both the positive and negative findings.",
+      "D": "New data is collected as required, and organised in such a way that they answer the original research question.",
+      "E": "All of the above"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "All listed characteristics define research; the question asks for exceptions, so marking all others as FALSE and 'All of the above' as TRUE captures this."
+  },
+  "11": {
+    "QUESTION": "These are electronic sources of literature review except",
+    "OPTION": {
+      "A": "Pub med",
+      "B": "African Journals On Line",
+      "C": "Cochrane collection",
+      "D": "Health internetwork access to research initiative?",
+      "E": "Search engines-Google"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Search engines like Google are not considered reliable electronic sources for literature review; the others are valid."
+  },
+  "12": {
+    "QUESTION": "Steps to avoid Mother-to-Child-Transmission in an HIV infected pregnant woman would include",
+    "OPTION": {
+      "A": "Anti-retroviral therapy for the woman",
+      "B": "Decision for elective caesarean section before term",
+      "C": "Post-exposure prophylaxis of anti-retroviral for the baby after delivery",
+      "D": "Artificial breast milk as option if the mother can afford it",
+      "E": "Strictly exclusive breast feeding with pasteurisation for the mother."
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "ART, elective C-section, post-exposure prophylaxis, and safe alternatives to breastfeeding are standard MTCT prevention steps; exclusive breastfeeding with pasteurisation is not standard."
+  },
+  "13": {
+    "QUESTION": "The following is/are true about Female genital mutilation",
+    "OPTION": {
+      "A": "Is all procedures that involve total removal of the external genitalia",
+      "B": "Was previously called female circumcision",
+      "C": "Includes types, clitoridectomy, excision, infibulations",
+      "D": "Is believed by practitioners to stabilize sexual activity",
+      "E": "Has medical & psychosocial disadvantages"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed statements describe aspects of FGM including types, terminology, beliefs, and disadvantages."
+  },
+  "14": {
+    "QUESTION": "Which of the following are false regarding nutrients",
+    "OPTION": {
+      "A": "1 gram of protein will produce 4 kcals of energy",
+      "B": "1 gram of alcohol will produce 7 kcals of energy",
+      "C": "Phenylalanine and Histidine are essential amino acids",
+      "D": "foods rich in saturated fats are beneficial to the cardiovascular system",
+      "E": "The standard for classification is based on function only"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Protein and alcohol caloric values, and essential amino acids are correctly stated; saturated fats are harmful, and nutrient classification is not based solely on function."
+  },
+  "15": {
+    "QUESTION": "The pillars of the Safe Motherhood Initiative include the following except",
+    "OPTION": {
+      "A": "Family planning",
+      "B": "Antenatal care",
+      "C": "Birth Registration",
+      "D": "Essential obstetric care",
+      "E": "Increased assisted delivery rate"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Birth registration is administrative; the other pillars directly improve maternal and neonatal health."
+  },
+  "16": {
+    "QUESTION": "Concerning family planning",
+    "OPTION": {
+      "A": "Oral Contraceptive Pills are preferable for older women",
+      "B": "A woman with a menstrual cycle ranging from 27 to 31 days is safe between days 7 and 10",
+      "C": "Post exposure contraception can be given within 72 hours",
+      "D": "The implant (norplant) remains effective for 5 years",
+      "E": "Family history of ovarian cancer is a contraindication to use of Oral Contraceptive Pills"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Safety windows, post-exposure contraception, implant duration, and contraindications are correct; OCP preference for older women is not standard."
+  },
+  "17": {
+    "QUESTION": "In epidemiology characteristics of person include",
+    "OPTION": {
+      "A": "Age",
+      "B": "Hair style",
+      "C": "Skin colour",
+      "D": "Socio-economic status",
+      "E": "Ethnicity"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Age, skin colour, socio-economic status, and ethnicity are relevant; hairstyle is not a standard epidemiologic characteristic."
+  },
+  "18": {
+    "QUESTION": "The requirements for a test to qualify as a screening test include",
+    "OPTION": {
+      "A": "It should be very expensive",
+      "B": "It should be easy to perform",
+      "C": "It should be safe",
+      "D": "All of the above is correct",
+      "E": "None of the above is correct"
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Screening tests should be easy and safe; expense is a disadvantage; 'all' and 'none' options are incorrect."
+  },
+  "19": {
+    "QUESTION": "Risk factors for breast cancer include the following except",
+    "OPTION": {
+      "A": "Genetics",
+      "B": "Diet",
+      "C": "Age",
+      "D": "Reproductive history",
+      "E": "All of the above are correct"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed factors are known breast cancer risk factors; option E is unnecessary repetition."
+  },
+  "20": {
+    "QUESTION": "Concerning Lassa fever",
+    "OPTION": {
+      "A": "The virus is transmitted by Mastomys Nataliensis specie",
+      "B": "It occurs majorly in the West African Sub-region",
+      "C": "Greater percentage of cases (80%) is asymptomatic",
+      "D": "Application of universal precaution is not an important control measure",
+      "E": "There is no drug treatment"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Universal precautions are important; the other statements are correct regarding Lassa fever transmission and treatment limitations."
+  },
+  "21": {
+    "QUESTION": "Onchocerciasis is a water related disease transmitted by",
+    "OPTION": {
+      "A": "Simulum damnosum",
+      "B": "Glossina palpalis",
+      "C": "Simulum naevi",
+      "D": "A & B",
+      "E": "A, B & C"
+    },
+    "TRUE": ["A", "C"],
+    "FALSE": ["B", "D", "E"],
+    "EXPLANATION": "Onchocerciasis is transmitted by Simulium species; Glossina (tsetse) is unrelated."
+  },
+  "22": {
+    "QUESTION": "Concerning Nosocomial infections",
+    "OPTION": {
+      "A": "Incidence varies from centre to centre",
+      "B": "It is not nosocomial if transmission is between hospital staff",
+      "C": "Hospital procedures is not a predisposing factor",
+      "D": "Viral Hemorrhagic Fevers are associated with high mortality among health care staff",
+      "E": "Increased use of disposable items is a protective factor"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Nosocomial infection rates differ by institution; procedures predispose; VHFs cause high staff mortality; disposables reduce spread."
+  },
+  "23": {
+    "QUESTION": "Contact tracing can be used as control measure for the following diseases",
+    "OPTION": {
+      "A": "Cholera",
+      "B": "Malaria",
+      "C": "Gonorrhoea",
+      "D": "HIV/AIDS",
+      "E": "Ebola"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Malaria is vector-borne; contact tracing is useful for cholera, STIs, HIV, and Ebola."
+  },
+  "24": {
+    "QUESTION": "Infection with the following confers life-long immunity",
+    "OPTION": {
+      "A": "Mumps",
+      "B": "Varicella-Zoster virus",
+      "C": "Neisseria meningitides",
+      "D": "Measles virus",
+      "E": "A, B and D"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Mumps, varicella, and measles confer long-lasting immunity; Neisseria meningitidis does not reliably confer life-long immunity."
+  },
+  "25": {
+    "QUESTION": "The Nosocomial (Hospital Acquired) Infections could be prevented through",
+    "OPTION": {
+      "A": "Universal precaution",
+      "B": "Frequent hand washing",
+      "C": "Concurrent and terminal disinfection",
+      "D": "Immunisation of Health care staff against communicable diseases",
+      "E": "Rational use of antibiotics"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed measures help prevent nosocomial infections."
+  }
+}

@@ -1,7 +1,7 @@
 // src/api/accounts.js
 import axios from "axios";
 
-const BASE_URL = import.meta.env.VITE_API_URL || "https://myapp2-pzj8.onrender.com/accounts";
+const BASE_URL = import.meta.env.VITE_API_URL || "http://localhost:8000/accounts";
 
 /** Create an Axios instance */
 const api = axios.create({

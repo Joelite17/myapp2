@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "Pre-placement examination:",
+    "OPTION": {
+      "A": "Assesses medical fitness",
+      "B": "Ascertains that an employee is in a good physical condition",
+      "C": "Is not a prerequisite in occupational health",
+      "D": "All of the above are correct",
+      "E": "Only A and C are correct"
+    },
+    "TRUE": ["A", "B"],
+    "FALSE": ["C", "D", "E"],
+    "EXPLANATION": "Pre-placement examination assesses medical fitness and ensures employees are in good physical condition; it is a prerequisite in occupational health."
+  },
+  "2": {
+    "QUESTION": "The following are correctly matched with their specific developments in occupational health:",
+    "OPTION": {
+      "A": "Percival Pott - Chimney sweeping and cancer of the scrotum",
+      "B": "Philippus Aureolus Paracelsus - Toxicity due to mercury and sulphur",
+      "C": "Sir Thomas Legg - Pioneer occupational physician in the USA",
+      "D": "Georgius Agricola - Abdominal colic and lead poisoning",
+      "E": "George Baker - Described health problems in mines"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Pott, Paracelsus, and Agricola made valid occupational health contributions; Sir Thomas Legg was in the UK, and George Baker linked lead colic to cider, not mining."
+  },
+  "3": {
+    "QUESTION": "Behaviour affects quality of population by controlling genetics through the following:",
+    "OPTION": {
+      "A": "Marriage customs",
+      "B": "Customs of deliberate childhood exposure to immunization",
+      "C": "Food customs",
+      "D": "Disease spread",
+      "E": "Disease ecology"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Marriage customs influence genetic transmission; other factors affect environment and health, not genetics directly."
+  },
+  "4": {
+    "QUESTION": "The following are true as regards uses of water in public health:",
+    "OPTION": {
+      "A": "Minimum of 200–400 L/person/day is needed in rural areas",
+      "B": "Minimum of 20–60 L/person/day is needed in the urban areas",
+      "C": "At least 50 L/day will be adequate for maintaining good health",
+      "D": "Serves in sports and medium for recreation e.g. swimming, boating",
+      "E": "Water scarcity is the aetiologic basis for the Ebola Virus Disease"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "About 50 L/day supports good hygiene; water is used in recreation. Ebola is not water-related."
+  },
+  "5": {
+    "QUESTION": "Concerning the Sustainable Development Goals:",
+    "OPTION": {
+      "A": "The goals are a United Nations Initiative",
+      "B": "The Sustainable Development Goals are officially known as Transforming our world: the 2030 Agenda",
+      "C": "There are 17 Sustainable Development Goals and 165 targets",
+      "D": "The Goals were adopted on 25 September 2000",
+      "E": "The second Sustainable Development Goal is zero hunger"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "There are 17 SDGs and 169 targets adopted in 2015; SDG 2 is Zero Hunger."
+  },
+  "6": {
+    "QUESTION": "The following diseases have zoonotic potential:",
+    "OPTION": {
+      "A": "Anthrax",
+      "B": "Brucellosis",
+      "C": "Cryptosporidiosis",
+      "D": "Dermatophilosis",
+      "E": "Escherichia coli"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed diseases can be transmitted between animals and humans."
+  },
+  "7": {
+    "QUESTION": "Concerning schistosoma species and their intermediate hosts:",
+    "OPTION": {
+      "A": "Bulinus is the intermediate host of Schistosoma haematobium",
+      "B": "Lymnea is the intermediate host of Schistosoma mekongi",
+      "C": "Oncomelania is the intermediate host of Schistosoma japonicum",
+      "D": "Biomphalaria is the intermediate host of Schistosoma mansoni",
+      "E": "Biomphalaria is the intermediate host of Schistosoma intercalatum"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Correct host-parasite matches are A, C, D; Lymnea and Biomphalaria for intercalatum are incorrect."
+  },
+  "8": {
+    "QUESTION": "Concerning onchocerciasis:",
+    "OPTION": {
+      "A": "It is transmitted to humans through repeated bites of infected blackflies of the genus Simulium",
+      "B": "Symptoms include severe itching, disfiguring skin conditions, and visual impairment including blindness",
+      "C": "In Africa, the strategy is biannual large-scale treatment with ivermectin",
+      "D": "Community-directed treatment with ivermectin is the core strategy to eliminate onchocerciasis worldwide",
+      "E": "It has been eradicated in Nigeria"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Onchocerciasis persists in Nigeria; other statements describe correct facts and strategies."
+  },
+  "9": {
+    "QUESTION": "The following are formal sources of literature in research:",
+    "OPTION": {
+      "A": "Journals, books",
+      "B": "Report of Expert Committee",
+      "C": "Search engines - Google",
+      "D": "PubMed",
+      "E": "Thesis/Dissertation"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Google is a search engine, not a formal literature source."
+  },
+  "10": {
+    "QUESTION": "Ethical issues in research involve which of the following:",
+    "OPTION": {
+      "A": "Informed consent",
+      "B": "Right to withdraw at will",
+      "C": "Reasons for the study",
+      "D": "Permission for access to medical records",
+      "E": "Provision of study results"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Ethical principles emphasize consent, withdrawal rights, data access, and result sharing; study reasons are not an ethical issue."
+  },
+  "11": {
+    "QUESTION": "The following are qualitative methods of data collection except:",
+    "OPTION": {
+      "A": "Desk reviews",
+      "B": "Data sheets",
+      "C": "Observational checklists",
+      "D": "Clinic record – case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["E", "A", "C", "D"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Data sheets are quantitative tools; others are qualitative or contextual."
+  },
+  "12": {
+    "QUESTION": "The following sampling techniques are popular in rural settings:",
+    "OPTION": {
+      "A": "Multistage sampling",
+      "B": "Systematic sampling",
+      "C": "Stratified sampling",
+      "D": "Cluster sampling",
+      "E": "Multi-phase sampling"
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Cluster and multistage sampling are suitable for dispersed rural populations."
+  },
+  "13": {
+    "QUESTION": "Which of the following definitions is/are correct:",
+    "OPTION": {
+      "A": "Sewage - household waste containing faeces",
+      "B": "Sullage - network of sewers from the same area discharging into a common pool",
+      "C": "Sewer - waste water from kitchen, bathrooms, laundry, etc",
+      "D": "Sewerage - connection of pipes that take away faeces from the toilet",
+      "E": "Suller - connection of household waste without faeces"
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "Sewage and sewerage definitions are correct; sullage is waste water from kitchens, not a network."
+  },
+  "14": {
+    "QUESTION": "The following are linked with ozone layer depletion:",
+    "OPTION": {
+      "A": "Halons as fire suppressants",
+      "B": "Methyl bromide in cleaning metals",
+      "C": "Methyl chloroform as refrigerants",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed compounds contribute to ozone depletion."
+  },
+  "15": {
+    "QUESTION": "The following situations may be referred to as overcrowding:",
+    "OPTION": {
+      "A": "Two adults of same sex living in a room",
+      "B": "Four children under one year occupying a room",
+      "C": "A man with his wives occupying a room",
+      "D": "A married couple with their newborn baby occupying a room",
+      "E": "A brother and sister both adults occupying a room"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Children under one year are not counted; others indicate social or physical overcrowding."
+  },
+  "16": {
+    "QUESTION": "In developing questionnaires the researcher should avoid:",
+    "OPTION": {
+      "A": "Ambiguity",
+      "B": "Cultural distortion",
+      "C": "Use of jargons",
+      "D": "Use of leading questions",
+      "E": "Use of vague words"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed issues reduce validity and reliability of responses."
+  },
+  "17": {
+    "QUESTION": "Management:",
+    "OPTION": {
+      "A": "Implies activities must have a time relation or sequence",
+      "B": "Implies commitment to achievement",
+      "C": "Adjudges money as the most important resource",
+      "D": "Implies getting things done through people",
+      "E": "Implies saying what an organization wants done and getting it done"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Management involves planning and people coordination; money is only one of many resources."
+  },
+  "18": {
+    "QUESTION": "The following is/are basic management function(s) except:",
+    "OPTION": {
+      "A": "Scrutinizing",
+      "B": "Leading",
+      "C": "Managing",
+      "D": "Assessing",
+      "E": "Evaluating"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "Leading and evaluating are core functions; scrutinizing and assessing are not standard management terms."
+  },
+  "19": {
+    "QUESTION": "Planning:",
+    "OPTION": {
+      "A": "Makes desired health situation less certain by leaving it to chance",
+      "B": "Reduces waste",
+      "C": "Increases cost-effectiveness and cost-efficiency",
+      "D": "Galvanizes purposeful action",
+      "E": "Facilitates anarchy, monitoring and evaluation"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Planning minimizes uncertainty, waste, and promotes purposeful, efficient actions."
+  },
+  "20": {
+    "QUESTION": "The following are the skills of an effective manager:",
+    "OPTION": {
+      "A": "Human skill",
+      "B": "Technical skill",
+      "C": "Scientific skill",
+      "D": "Conceptual skill",
+      "E": "Technological skill"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Effective managers use human, technical, and conceptual skills; scientific and technological are not core categories."
+  },
+  "21": {
+    "QUESTION": "The following is/are part(s) of the planning cycle except:",
+    "OPTION": {
+      "A": "Selection of strategies",
+      "B": "Prioritization of needs",
+      "C": "Activity scheduling",
+      "D": "Resource specification",
+      "E": "Selection of key members"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Selecting key members is not part of the planning cycle."
+  },
+  "22": {
+    "QUESTION": "Healthcare financing options include:",
+    "OPTION": {
+      "A": "Life insurance premium",
+      "B": "Community contributions",
+      "C": "Payment for health services rendered",
+      "D": "National Health Insurance Scheme",
+      "E": "Only D is correct"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed options are valid forms of health financing."
+  },
+  "23": {
+    "QUESTION": "An ideal health indicator should have the following qualities:",
+    "OPTION": {
+      "A": "Validity",
+      "B": "Turbidity",
+      "C": "Reliability",
+      "D": "Sensitivity",
+      "E": "Feasibility"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Validity, reliability, sensitivity, and feasibility are essential; turbidity is irrelevant."
+  },
+  "24": {
+    "QUESTION": "The following are publications of the World Health Organization:",
+    "OPTION": {
+      "A": "Weekly epidemiological record",
+      "B": "World Health Policy and Planning",
+      "C": "World Health Journal of Epidemiology",
+      "D": "Journal of Public Health in Developing Countries",
+      "E": "World Health Bulletin"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "WHO publishes the Weekly Epidemiological Record and World Health Bulletin; others are unrelated journals."
+  },
+  "25": {
+    "QUESTION": "Concerning the United Nations Children's Fund:",
+    "OPTION": {
+      "A": "The State of the World's Children is a publication of the body",
+      "B": "UNICEF Annual Report is a publication of the body",
+      "C": "Geneva is the headquarters",
+      "D": "Provides humanitarian assistance to children and mothers in developing countries",
+      "E": "Provides developmental assistance to children and mothers in developing countries"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "UNICEF headquarters is in New York; other statements are correct."
+  },
+  "26": {
+    "QUESTION": "The activities of international health include",
+    "OPTION": {
+      "A": "Health regulations",
+      "B": "Control of international travels",
+      "C": "Control of the spread of diseases",
+      "D": "Vaccination against typhoid",
+      "E": "Food control"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "International health activities focus on disease prevention, health regulations, safe travel, and food safety; vaccination against typhoid is a national rather than international measure."
+  },
+  "27": {
+    "QUESTION": "In the rehabilitation of individuals",
+    "OPTION": {
+      "A": "He/she should be coerced to accept the opportunities offered",
+      "B": "The family is not important",
+      "C": "The community provides the major resources for those that are based with it",
+      "D": "Credit institutions such as banks may play a role",
+      "E": "Income generating projects are a way of combating poverty for the disabled"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Rehabilitation emphasizes community support, financial empowerment, and social inclusion; coercion and exclusion of the family are not acceptable."
+  },
+  "28": {
+    "QUESTION": "Concerning the UNRRA (United Nations Relief and Rehabilitation Administration)",
+    "OPTION": {
+      "A": "It was founded in 1943",
+      "B": "Later became the World Health Organization",
+      "C": "Its purpose was to cater for Prisoners of war",
+      "D": "The U.K. was its biggest sponsor",
+      "E": "All of the above"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "UNRRA was established in 1943 to aid war-affected populations; it did not become WHO, nor was the UK its largest sponsor."
+  },
+  "29": {
+    "QUESTION": "The principles of Primary health care include the following",
+    "OPTION": {
+      "A": "Community diagnosis",
+      "B": "Intersectoral collaboration",
+      "C": "Self - relationship",
+      "D": "Equal distribution of trader monies for healthcare",
+      "E": "Provision of essential drugs"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "PHC principles include community diagnosis, collaboration between sectors, and provision of essential drugs; 'self-relationship' and trader money distribution are incorrect."
+  },
+  "30": {
+    "QUESTION": "Which of the following are correctly matched",
+    "OPTION": {
+      "A": "Vit A - Osteomalacia",
+      "B": "Vit B - Scurvy",
+      "C": "Iodine - Cretinism",
+      "D": "Folic acid - Anaemia",
+      "E": "Vit D - Keratomalacia"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Iodine deficiency causes cretinism; folic acid deficiency causes anaemia. Osteomalacia and keratomalacia are due to vitamin D and A deficiencies respectively."
+  },
+  "31": {
+    "QUESTION": "Family Planning includes the following",
+    "OPTION": {
+      "A": "Spacing of pregnancy",
+      "B": "Preventing unwanted pregnancy",
+      "C": "Achieving desired pregnancy",
+      "D": "Genetic counseling",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Family planning encompasses spacing, prevention, achievement of desired pregnancies, and genetic counseling."
+  },
+  "32": {
+    "QUESTION": "Concerning the sick role",
+    "OPTION": {
+      "A": "Roles are delegated or socially adjusted",
+      "B": "Sick role is the same as patient role",
+      "C": "Assumption of the sick role may lead to social crisis",
+      "D": "The uncooperative patient is labeled as malingering",
+      "E": "The patient is to be held responsible for his sickness"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "The sick role involves temporary social adjustment and exemption from normal duties; patients are not blamed for illness."
+  },
+  "33": {
+    "QUESTION": "Which of the following statements concerning community participation is true",
+    "OPTION": {
+      "A": "The community is involved only in the implementation of health programs",
+      "B": "The community should be involved in planning, implementation and evaluation",
+      "C": "The community should be involved in the funding of health programs",
+      "D": "A and B are incorrect",
+      "E": "All are correct"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "True community participation includes planning, implementation, and evaluation stages, not just implementation."
+  },
+  "34": {
+    "QUESTION": "The following are indirect causes of maternal mortality in Nigeria",
+    "OPTION": {
+      "A": "Haemorrhage",
+      "B": "Anaemia",
+      "C": "Eclampsia",
+      "D": "Malaria",
+      "E": "Obstructed labour"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "Indirect causes include underlying conditions such as anaemia and malaria, while haemorrhage, eclampsia, and obstructed labour are direct causes."
+  },
+  "35": {
+    "QUESTION": "An adolescent is defined by WHO as:",
+    "OPTION": {
+      "A": "13-19 years",
+      "B": "15-19 years",
+      "C": "10-24 years",
+      "D": "15-24 years",
+      "E": "10-19 years"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "WHO defines adolescence as the period from 10 to 19 years of age."
+  },
+  "36": {
+    "QUESTION": "Direct methods of assessment of nutritional status include the following: EXCEPT?",
+    "OPTION": {
+      "A": "Dietary history",
+      "B": "Physical examinations",
+      "C": "Biochemical investigation",
+      "D": "Health and Vital Statistics",
+      "E": "All of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Health and vital statistics are indirect assessment methods; direct methods include diet, physical, and biochemical assessments."
+  },
+  "37": {
+    "QUESTION": "Odds ratio is",
+    "OPTION": {
+      "A": "It is same as relative risk",
+      "B": "It is the only measure of risk that can be obtained directly from a case-control study",
+      "C": "It tends to be biased towards 1 (neither risk nor protection at hight rates of disease)",
+      "D": "It is the ratio of incidence in exposed divided by incidence in non-exposed",
+      "E": "It can be calculated without data on rates(as in a case-control study)"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Odds ratio is used in case-control studies, can be estimated without incidence rates, and approximates relative risk when disease frequency is low."
+  },
+  "38": {
+    "QUESTION": "With respect to the screening test:",
+    "OPTION": {
+      "A": "It is valid if it gives a good preliminary indication of which individuals have the disease",
+      "B": "Its yield refers to the amount of the disease it can detect in the population",
+      "C": "Its reliability depends on its repeatability with consistency of results",
+      "D": "It is the basic tool of the screening programme",
+      "E": "It does not have to be acceptable if it is relatively easy and safe"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "A good screening test must be valid, reliable, acceptable, and effective; unacceptability limits its usefulness."
+  },
+  "39": {
+    "QUESTION": "Which of the following is not true about Case-control studies:",
+    "OPTION": {
+      "A": "Relatively cheap",
+      "B": "Relative risk can be calculated",
+      "C": "Used for rare diseases",
+      "D": "Odd's ratio can be calculated",
+      "E": "Also called Cross-sectional descriptive study"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Case-control studies are inexpensive, suitable for rare diseases, and use odds ratio, not relative risk; they are analytical, not descriptive."
+  },
+  "40": {
+    "QUESTION": "Concerning Zika virus",
+    "OPTION": {
+      "A": "Mosquitoes that spread Zika virus bite only during the daytime.",
+      "B": "Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses.",
+      "C": "There is no vaccine to prevent or specific medicine to treat Zika infections.",
+      "D": "Only a blood test can confirm diagnosis",
+      "E": "Many people infected with Zika virus won't have symptoms"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Zika is transmitted by day-biting Aedes mosquitoes that also transmit dengue and chikungunya; most infections are asymptomatic and there is no vaccine."
+  },
+  "41": {
+    "QUESTION": "Concerning Lassa fever",
+    "OPTION": {
+      "A": "It occurs majorly in the West African Sub-region",
+      "B": "It is transmitted to humans from contacts with food or household items contaminated with rodent excreta only",
+      "C": "The disease is endemic in the rodent population in parts of North America",
+      "D": "Application of universal precaution is not an important control measure",
+      "E": "The virus is transmitted by Mastomys natalensis specie"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Lassa fever is endemic in West Africa and transmitted mainly by Mastomys natalensis rodents; infection can occur via rodent excreta and person-to-person spread. Universal precautions are crucial for control."
+  },
+  "42": {
+    "QUESTION": "Concerning Ebola virus disease (EVD)",
+    "OPTION": {
+      "A": "The average EVD case fatality rate is around 50%.",
+      "B": "Case fatality rates have varied from 2% to 9% in past outbreaks.",
+      "C": "The virus is transmitted to people from all wild animals",
+      "D": "Ebola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans.",
+      "E": "The virus spreads in the human population through animal-to-human transmission."
+    },
+    "TRUE": ["A", "D"],
+    "FALSE": ["B", "C", "E"],
+    "EXPLANATION": "EVD has a high fatality rate around 50%. It is transmitted from specific infected wild animals (not all) and spreads mainly through human-to-human transmission."
+  },
+  "43": {
+    "QUESTION": "Concerning measles",
+    "OPTION": {
+      "A": "Occurrence is worldwide",
+      "B": "Can be transmitted through soiled fomites",
+      "C": "Immunity cannot be lifelong",
+      "D": "Having an immune population is a major means of control",
+      "E": "Infection may be modified by use of immunoglobulin"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Measles occurs worldwide; immunity is lifelong; control depends on herd immunity, and immunoglobulin can modify infection severity."
+  },
+  "44": {
+    "QUESTION": "Concerning Nosocomial infections",
+    "OPTION": {
+      "A": "Incidence varies from centre to centre",
+      "B": "It is not nosocomial if transmission is between hospital staff",
+      "C": "Hospital procedures is not a predisposing factor",
+      "D": "Viral Hemorrhagic Fevers are associated with high mortality among health care staff",
+      "E": "Increased use of disposable items is a protective factor"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Nosocomial infection rates differ between hospitals; invasive procedures increase risk; VHFs have high mortality among staff; disposable items reduce spread."
+  },
+  "45": {
+    "QUESTION": "The following are modes of transmission of the corresponding arthropod disease/agent",
+    "OPTION": {
+      "A": "African trypanosomiasis - rubbing faeces of reduviid bug",
+      "B": "Chaga's disease - biting of Glossina fly",
+      "C": "Yellow fever – ingestion of cyclops from water",
+      "D": "Filariasis – inhalation of Wuchereria bancrofti",
+      "E": "Dengue fever - biting of Aedes mosquito"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Dengue is transmitted by Aedes mosquitoes. African trypanosomiasis is spread by Glossina (tsetse) flies, Chagas disease by reduviid bugs, and filariasis by mosquito bites, not inhalation."
+  },
+  "46": {
+    "QUESTION": "Concerning Tuberculosis",
+    "OPTION": {
+      "A": "It is transmitted by droplets",
+      "B": "The major causative organism is M. bovis",
+      "C": "The smear positive TB is of greater public health importance",
+      "D": "The Multi Drug Resistant TB is resistant to isoniazid",
+      "E": "The TB register is important for standardized recording and reporting"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Tuberculosis is transmitted via droplets; M. tuberculosis is the main pathogen. Smear-positive cases are most infectious, and MDR-TB resists isoniazid. Registers aid monitoring and control."
+  },
+  "47": {
+    "QUESTION": "The following statements about non-parametric tests is true",
+    "OPTION": {
+      "A": "It does not assume any particular functional form for a population distribution",
+      "B": "They are distribution free methods based on ordered statistic theory",
+      "C": "Their hypothesis focuses on nature of distribution alone rather than values",
+      "D": "It is weaker than parametric tests in situations where data satisfies the assumptions",
+      "E": "They are less useful on classificatory variables"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Non-parametric tests are distribution-free and based on ranked data. They are less powerful when parametric assumptions hold but do not depend on specific distribution forms."
+  },
+  "48": {
+    "QUESTION": "In applying the T-test, the following criteria or assumptions must be met",
+    "OPTION": {
+      "A": "Data must be quantitative in nature",
+      "B": "The parent population standard deviation is known",
+      "C": "The two groups compared have similar variances",
+      "D": "Samples should be random in nature",
+      "E": "It must be of a known scale"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "T-test assumptions include quantitative data, random sampling, and homogeneity of variances. The population standard deviation is typically unknown."
+  },
+  "49": {
+    "QUESTION": "Considering the uses of median as a measure of central tendency the following is true",
+    "OPTION": {
+      "A": "It is affected by outliers",
+      "B": "Can be calculated if extreme class is open",
+      "C": "Cannot be determined directly for odd number observations",
+      "D": "Affected by fluctuations of sampling",
+      "E": "It is used for irregular distributions"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "The median is not influenced by outliers and is suitable for irregular or open-ended distributions."
+  },
+  "50": {
+    "QUESTION": "The following measures of dispersion or variability can be used for calculating individual observations",
+    "OPTION": {
+      "A": "Standard deviation",
+      "B": "Coefficient of variance",
+      "C": "Standard error of mean",
+      "D": "Standard error of proportion",
+      "E": "Inter-quartile range"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Standard deviation, coefficient of variation, and interquartile range describe variability of individual observations, while standard errors apply to sample statistics."
+  }
+}

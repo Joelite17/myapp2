@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "Host factors more strongly related to diseases is/are",
+    "OPTION": {
+      "A": "Age",
+      "B": "Marital status",
+      "C": "Sex",
+      "D": "Occupation",
+      "E": "Race"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Age, sex, occupation, and race influence susceptibility; marital status does not."
+  },
+  "2": {
+    "QUESTION": "Indirect transmission of communicable disease occurs through following sources except",
+    "OPTION": {
+      "A": "Touch",
+      "B": "Air",
+      "C": "Water",
+      "D": "Vector",
+      "E": "Trans-placental"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Touch is direct contact; the rest are indirect transmission modes."
+  },
+  "3": {
+    "QUESTION": "The following statement about disease carriers is/are true?",
+    "OPTION": {
+      "A": "A carrier is always an infected person",
+      "B": "Some non-communicable diseases have carrier state",
+      "C": "A carrier can transmit the disease during the incubation period",
+      "D": "A only is correct",
+      "E": "All of the above are correct"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Carriers transmit disease during incubation; not all carriers are always infected, and non-communicable diseases do not have carriers."
+  },
+  "4": {
+    "QUESTION": "With respect to the screening test",
+    "OPTION": {
+      "A": "It is valid if it gives a good preliminary indication of which individuals have the disease",
+      "B": "Its yield refers to the amount of the disease it can detect in the population",
+      "C": "Its reliability depends on its repeatability with consistency of results",
+      "D": "It is the basic tool of the screening programme",
+      "E": "It does not have to be acceptable if it is relatively easy and safe"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Screening must be acceptable to the population; the other statements correctly describe screening tests."
+  },
+  "5": {
+    "QUESTION": "The following are true about Leprosy",
+    "OPTION": {
+      "A": "More prevalent in India and tropical Africa than Europe",
+      "B": "Tuberculoid leprosy has higher bacterial index than lepromatous leprosy",
+      "C": "Bacterial and morphological indices are used to monitor response to treatment",
+      "D": "Mitsuda reaction occurs earlier than Fernandez",
+      "E": "Rifampicin, Dapsone, and Clofazimine are used in treatment"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Lepromatous leprosy has higher bacterial index; Mitsuda reaction is a delayed hypersensitivity test, not earlier than Fernandez."
+  },
+  "6": {
+    "QUESTION": "The following STI's are caused by matched organisms",
+    "OPTION": {
+      "A": "Lymphogranuloma venereum / Chlamydia trachomatis",
+      "B": "Chancroid / Treponema pallidum",
+      "C": "Granuloma inguinale / Gardnerella vaginalis",
+      "D": "Genital warts / Human immunodeficiency virus",
+      "E": "Non-specific urethritis / Ureaplasma urealyticum"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Correct STI-organism pairs are lymphogranuloma venereum and Chlamydia, non-specific urethritis and Ureaplasma; others are mismatched."
+  },
+  "7": {
+    "QUESTION": "The following are modes of transmission of the corresponding arthropod disease/agent",
+    "OPTION": {
+      "A": "African trypanosomiasis - rubbing feces of reduviid bug",
+      "B": "Chaga's disease - biting of Glossina fly",
+      "C": "Yellow fever - ingestion of Cyclops from water",
+      "D": "Filariasis - inhalation of Wuchereria bancrofti",
+      "E": "Dengue fever - biting of Aedes mosquito"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "African trypanosomiasis is transmitted by Glossina; Chagas disease via reduviid bug feces; yellow fever via Aedes mosquito, not ingestion; filariasis via mosquito bite."
+  },
+  "8": {
+    "QUESTION": "The following are situations in which transmission of zoonotic disease can occur except",
+    "OPTION": {
+      "A": "Animal contaminates human environment",
+      "B": "Vector transmits infection from animal to humans",
+      "C": "Inoculation through animal bite",
+      "D": "Humans use the animal for food",
+      "E": "Only A & B are correct"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Zoonotic transmission occurs via contamination, vector, or bite; consumption is a separate consideration."
+  },
+  "9": {
+    "QUESTION": "The following are correctly matched with their specific developments in occupational health",
+    "OPTION": {
+      "A": "Percival Pott - chimney sweeping and cancer of the scrotum",
+      "B": "Paracelsus - toxicity due to mercury and sulphur",
+      "C": "Sir Thomas Legg - Pioneer occupational physician in USA",
+      "D": "Gergius Agricola - Abdominal colic and lead poisoning",
+      "E": "George Baker - described health problems in mines"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Sir Thomas Legg is not US-based; Agricola studied mining but not specifically lead poisoning."
+  },
+  "10": {
+    "QUESTION": "The following tatements about inorganic lead poisoning is/are true",
+    "OPTION": {
+      "A": "Abdominal colic is a chronic symptom",
+      "B": "Encephalopathy is the commonest presentation",
+      "C": "Increased urinary lead above 0.2 mg/l is observed",
+      "D": "Anaemia with punctate basophilic is not commonly seen",
+      "E": "There is increased urinary coproporphyrin"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Encephalopathy is rare; abdominal colic, elevated lead and coproporphyrin are classic features."
+  },
+  "11": {
+    "QUESTION": "Legumes are deficient in",
+    "OPTION": {
+      "A": "Methionine and lysine",
+      "B": "Methionine and cysteine",
+      "C": "Lysine and tryptophan",
+      "D": "Tryptophan and cysteine",
+      "E": "Lysine and cysteine"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Legumes are low in sulfur-containing amino acids: methionine and cysteine."
+  },
+  "12": {
+    "QUESTION": "Which of the following will provide nutritionally adequate diet",
+    "OPTION": {
+      "A": "Beans and corn",
+      "B": "Pap with soy milk",
+      "C": "Moi-Moi and pap",
+      "D": "Spaghetti with carrot and green pepper",
+      "E": "Only A and C"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Combining legumes with cereals provides complete proteins; vegetable alone or pap with soy milk does not suffice."
+  },
+  "13": {
+    "QUESTION": "Zinc deficiencies are associated with the following EXCEPT",
+    "OPTION": {
+      "A": "Immune deficiency",
+      "B": "Diarrhoea",
+      "C": "Discoloration of skin",
+      "D": "A and B only",
+      "E": "A and C only"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Zinc deficiency causes immune dysfunction and diarrhea; skin discoloration is less commonly associated."
+  },
+  "14": {
+    "QUESTION": "Anti-nutrients in legumes include",
+    "OPTION": {
+      "A": "Phytates",
+      "B": "Trypsin and chymotrypsin inhibitors",
+      "C": "Tannins",
+      "D": "Haemagglutinins",
+      "E": "Only B and D"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Legumes contain phytates, tannins, protease inhibitors, and lectins (haemagglutinins)."
+  },
+  "15": {
+    "QUESTION": "Carbohydrates in the diet supply",
+    "OPTION": {
+      "A": "45-65% of total energy intake",
+      "B": "60-75% of total water intake",
+      "C": "20-35% of total fat intake",
+      "D": "50-70% of total fibre intake",
+      "E": "None of the above"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Carbohydrates supply 45–65% of energy; other options are incorrect."
+  },
+  "16": {
+    "QUESTION": "The following oils are rich in polyunsaturated fatty acids",
+    "OPTION": {
+      "A": "Sunflower oil",
+      "B": "Soybean oil",
+      "C": "Cottonseed oil",
+      "D": "Olive oil",
+      "E": "Palm oil"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Olive oil is monounsaturated, palm oil is saturated; others are PUFA-rich."
+  },
+  "17": {
+    "QUESTION": "The underlying causes of malnutrition include",
+    "OPTION": {
+      "A": "Inadequate levels of household food security",
+      "B": "Inadequate care of children and women",
+      "C": "Low education levels and information",
+      "D": "War, conflicts, and political instability",
+      "E": "Insufficient health services"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors contribute to malnutrition."
+  },
+  "18": {
+    "QUESTION": "Sick-role is",
+    "OPTION": {
+      "A": "A form of behavior deemed appropriate to those perceived as ill",
+      "B": "The individual is not responsible for their illness",
+      "C": "Exemption from normal obligations until well",
+      "D": "When the ill person seeks professional help",
+      "E": "When the sick person consults a relation or friend"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Sick-role includes all listed behavioral and societal expectations."
+  },
+  "19": {
+    "QUESTION": "Medical Sociology is interested in",
+    "OPTION": {
+      "A": "What people think/believe and do about health and illness how the beliefs affect their health",
+      "B": "Patient-doctor relationship",
+      "C": "Patient care management",
+      "D": "Hospital organizations",
+      "E": "Care of the handicapped"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Medical sociology covers all aspects of social behavior related to health care."
+  },
+  "20": {
+    "QUESTION": "Ascribed status refers to the following",
+    "OPTION": {
+      "A": "Sex",
+      "B": "Age",
+      "C": "Profession",
+      "D": "Social class",
+      "E": "Husband"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Ascribed status is assigned at birth or involuntarily (sex, age, social class). Profession and marital status are achieved."
+  },
+  "21": {
+    "QUESTION": "Concerning the term 'Disease Vector'",
+    "OPTION": {
+      "A": "Refers to agents that carry and transmit infectious pathogens into other living organisms",
+      "B": "Agents could be an inanimate medium of infection such as dust particles",
+      "C": "All agents regarded as vectors are organisms, such as intermediate parasites or microbes",
+      "D": "Means of control can be biological",
+      "E": "Pests may transmit diseases but cannot have a nuisance value"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Vectors are living organisms transmitting disease; inanimate objects are fomites; pests can have nuisance value."
+  },
+  "22": {
+    "QUESTION": "Concerning 'Disease Transmission'",
+    "OPTION": {
+      "A": "Arthropods form a major group of pathogen vectors",
+      "B": "Haematophagous agents feed on blood at some or all stages of their lives",
+      "C": "Diatomine bugs transmit Trypanosoma causing Chagas disease",
+      "D": "Means of control can be biological",
+      "E": "Some plants and fungi act as vectors for various pathogens"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All statements are correct; plants/fungi can carry pathogens."
+  },
+  "23": {
+    "QUESTION": "Food hygiene",
+    "OPTION": {
+      "A": "WHO assists member states in promoting safe food handling",
+      "B": "Its efforts does not require intersectoral collaboration",
+      "C": "Involves conditions and measures necessary to ensure safety only during servicing of food",
+      "D": "Persons with wounds, otitis media or skin infections should not handle food or utensils",
+      "E": "Food handlers are to undergo medical check at least twice/year."
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Food hygiene requires collaboration and safety at all stages."
+  },
+  "24": {
+    "QUESTION": "Housing",
+    "OPTION": {
+      "A": "Overcrowding is a potentially very important factor that has bearing on the risks of home accident.",
+      "B": "Physical overcrowding occurs when two persons over six years of age of same gender obliged to sleep in same room",
+      "C": "Healthy or unhealthy housing is related to exposure to toxins and environmental factors",
+      "D": "Is only the physical structure providing shelter",
+      "E": "Statutory overcrowding occurs when Room or Space Standard is contravened"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Housing includes environmental quality; not just structure."
+  },
+  "25": {
+    "QUESTION": "Direct effects of radiation pollution include all except",
+    "OPTION": {
+      "A": "Famine and drought due to poor agricultural output and lack of potable water",
+      "B": "Economic loss and poverty due to poor agricultural output",
+      "C": "Disorder in the ecosystem and its attendant effects",
+      "D": "Global warming, climate change and all its effects",
+      "E": "Civil strife due to fighting over available land and water"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Radiation directly causes health/ecosystem effects; global warming is unrelated."
+  },
+  "26": {
+    "QUESTION": "Qualities of a good sewage disposal system include",
+    "OPTION": {
+      "A": "Must not pollute surface soil or water (surface or underground).",
+      "B": "Must not be sightly or smelly.",
+      "C": "There must not be any handling whatsoever of fresh faeces.",
+      "D": "Method should be culturally acceptable to the community.",
+      "E": "Must be situated at least 50meters downhill from water source"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "Sewage should be hygienic and culturally appropriate; smell is an issue to manage but not disqualifying."
+  },
+  "27": {
+    "QUESTION": "Factors affecting waste management include",
+    "OPTION": {
+      "A": "Economic activities",
+      "B": "Climatic and seasonal changes",
+      "C": "Physical characteristics/topography",
+      "D": "Social and religious custom",
+      "E": "Finance and budgetary limitations"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors influence waste management effectiveness."
+  },
+  "28": {
+    "QUESTION": "The road to health card for a child",
+    "OPTION": {
+      "A": "Should be kept by the health worker",
+      "B": "This is a relatively cheap and effective measure in the promotion of health and in the early detection and prevention of disease in infants and children.",
+      "C": "It can also facilitate advantageous family spacing",
+      "D": "It serves as a record of birth data, growth in mass, immunization, neurological development and episodes of illness only",
+      "E": "Shows other useful information apart from anthropometric values"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Health card documents multiple aspects of child health and development."
+  },
+  "29": {
+    "QUESTION": "The following are live attenuated vaccines",
+    "OPTION": {
+      "A": "Yellow fever",
+      "B": "Sabine vaccine",
+      "C": "Rubella vaccine",
+      "D": "Pertussis vaccine",
+      "E": "Salk vaccine"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Pertussis and Salk polio vaccines are inactivated; others are live attenuated."
+  },
+  "30": {
+    "QUESTION": "The activities of international health include",
+    "OPTION": {
+      "A": "health regulations",
+      "B": "control of international travels",
+      "C": "control of the spread of international diseases only",
+      "D": "vaccination against typhoid",
+      "E": "Food control"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Vaccination against specific diseases like typhoid is national, not international health activity."
+  },
+  "31": {
+    "QUESTION": "The following are publications of the World Health Organization",
+    "OPTION": {
+      "A": "Weekly epidemiological report",
+      "B": "World Health Policy and Planning",
+      "C": "World Health Report",
+      "D": "Journal of Public Health in Developing countries",
+      "E": "World health bulletin"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "D is not a WHO publication."
+  },
+  "32": {
+    "QUESTION": "The following are comprehensive indicators that measure Health in any community",
+    "OPTION": {
+      "A": "Proportional mortality indicator",
+      "B": "Expectation of life",
+      "C": "Maternal and infant mortality rates",
+      "D": "Number of females",
+      "E": "Crude birth rate."
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Number of females is not a health indicator."
+  },
+  "33": {
+    "QUESTION": "The following requirements are to be satisfied by the health information system according to the WHO",
+    "OPTION": {
+      "A": "The system should be grouped and specific based",
+      "B": "Feedback components absolutely necessary",
+      "C": "The system should agglomerate data carefully",
+      "D": "Financial statistics is very important",
+      "E": "The system should express information imaginatively"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Health information must be accurate and functional; imaginative presentation is not a requirement."
+  },
+  "34": {
+    "QUESTION": "Concerning the Sustainable Development Goals",
+    "OPTION": {
+      "A": "The goals are a United States Initiative.",
+      "B": "The Sustainable Development Goals are officially known as Transforming our world: the 2030 Agenda",
+      "C": "There are 19 Sustainable Development Goals and 167 targets.",
+      "D": "The Goals were adopted on 25 September 2015",
+      "E": "The second Sustainable Development Goal is zero hunger"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "SDGs are UN initiatives; there are 17 goals, not 19."
+  },
+  "35": {
+    "QUESTION": "The following is true about routine immunization in Nigeria except",
+    "OPTION": {
+      "A": "PPV is given at 6, 10 and 14 weeks",
+      "B": "OPV is given at birth, 6 and 14 weeks",
+      "C": "Measles and Yellow fever are given at 9 months",
+      "D": "BCG can only be given at birth",
+      "E": "Vitamin A is only given to children under age 1 year"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "PPV schedule is incorrect; Vitamin A is given to older children too."
+  },
+  "36": {
+    "QUESTION": "Healthcare financing options include all the following",
+    "OPTION": {
+      "A": "Life insurance premium",
+      "B": "Community contributions",
+      "C": "Payment for health services rendered",
+      "D": "National Health Insurance Scheme",
+      "E": "Only D is correct"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed options are forms of healthcare financing."
+  },
+  "37": {
+    "QUESTION": "Regarding health education and health information",
+    "OPTION": {
+      "A": "Health education and Health Information are the same in real terms.",
+      "B": "Health education refers to health related facts.",
+      "C": "Until there is a change in behavior, health information is not said to have taken place.",
+      "D": "An individual who is informed about health related facts but fails to change his/her behaviour is merely health informed not health educated",
+      "E": "There is nothing like Health information."
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Health education focuses on behavior change; information alone is insufficient."
+  },
+  "38": {
+    "QUESTION": "The following is are part(s) of the planning cycle except",
+    "OPTION": {
+      "A": "Selection of strategies",
+      "B": "Prioritization of needs",
+      "C": "Activity scheduling",
+      "D": "Resource specification",
+      "E": "Stratification of key members"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Selection of strategies is part of planning; stratification of members is not standard terminology."
+  },
+  "39": {
+    "QUESTION": "The following are component of Health information system",
+    "OPTION": {
+      "A": "Demography and vital statistics.",
+      "B": "Community diagnosis.",
+      "C": "Health status of individuals.",
+      "D": "Financial statistics",
+      "E": "Health management and planning."
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Financial statistics are not a core component of HIS."
+  },
+  "40": {
+    "QUESTION": "The following are characteristics of research except",
+    "OPTION": {
+      "A": "It demands a clear statement of the problem and a purpose.",
+      "B": "It requires a study design which will be specified in a proposal prior to its implementation",
+      "C": "It builds on existing data using both the positive and negative findings.",
+      "D": "New data is collected as required, and organised in such a way that they answer the original research question.",
+      "E": "It is usually exploratory"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Research can be exploratory but not all research is; main characteristics are systematic and planned."
+  },
+  "41": {
+    "QUESTION": "The following statements about biostatistics is correct",
+    "OPTION": {
+      "A": "It is applied to biological sciences",
+      "B": "It is usually inductive in nature",
+      "C": "It usually follows probability theory",
+      "D": "Inductive uses specifics to apply on the general",
+      "E": "It is of little use in the development of health care policy"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Biostatistics is essential for healthcare policy and planning."
+  },
+  "42": {
+    "QUESTION": "The following requirements are to be satisfied by the health information system according to WHO",
+    "OPTION": {
+      "A": "The system should be grouped and specific based",
+      "B": "Feedback components absolutely necessary",
+      "C": "The system should agglomerate data carefully",
+      "D": "Financial statistics is very important",
+      "E": "The system should express information imaginatively"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Imaginative expression is not a formal requirement."
+  },
+  "43": {
+    "QUESTION": "The following variables can be classified as an ordered poly-chotomous categorical variable except",
+    "OPTION": {
+      "A": "Blood group of individuals",
+      "B": "Skin colour measurements",
+      "C": "Social class of individuals",
+      "D": "Chlamydia test result",
+      "E": "Cervical smear result in selected women"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Blood group and Chlamydia test result are nominal; others are ordered categorical."
+  },
+  "44": {
+    "QUESTION": "The following statements about data on the nominal scale are/is correct",
+    "OPTION": {
+      "A": "It follows an order in some cases",
+      "B": "It is classified by some quantities it posses",
+      "C": "It may involve arithmetic computations",
+      "D": "It is classificatory in nature",
+      "E": "Ethnicity is an example of a variable in this class"
+    },
+    "TRUE": ["D", "E"],
+    "FALSE": ["A", "B", "C"],
+    "EXPLANATION": "Nominal data are purely classificatory; ethnicity is an example."
+  },
+  "45": {
+    "QUESTION": "Concerning the bar chart",
+    "OPTION": {
+      "A": "Simple bar chart are the commoner type",
+      "B": "It can be presented in column or horizontal bars",
+      "C": "Component bar charts is used to compare two or more items",
+      "D": "The heights of the bars are directly proportional to the values of the items",
+      "E": "Column or horizontal bar charts are used in time series presentations"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Time series usually uses line or histogram charts, not simple bar charts."
+  },
+  "46": {
+    "QUESTION": "These statements about the mean is not true",
+    "OPTION": {
+      "A": "Geometric mean is used usually for observations on a logarithm scale",
+      "B": "Mean > median, the distribution is skewed to the left",
+      "C": "Mean < mode, the distribution is skewed to the right",
+      "D": "In bimodal the mean is usually equal to the median",
+      "E": "Mean cannot be calculated if a single observation is missing"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Mean can be calculated even with missing values using appropriate methods."
+  },
+  "47": {
+    "QUESTION": "These characteristics and uses of the mode as a type of summary indices is/are correct",
+    "OPTION": {
+      "A": "It is not affected by outliers",
+      "B": "May have multiple values in sizable number of cases",
+      "C": "Not affected by fluctuations of sampling",
+      "D": "Does not exist if all values in a set occur with the same frequency",
+      "E": "It often occurs in unimodal form"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Mode can vary with sample; statement C is incorrect."
+  },
+  "48": {
+    "QUESTION": "In choosing significant test for differences between groups, the following test statistics can be used for unpaired test",
+    "OPTION": {
+      "A": "Sign test",
+      "B": "Chi-square test",
+      "C": "Fishers exact",
+      "D": "T-test",
+      "E": "F-test"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All can be used depending on data type."
+  },
+  "49": {
+    "QUESTION": "The following assumptions are true about using the t- test in statistics",
+    "OPTION": {
+      "A": "The two groups compared have similar variances",
+      "B": "The population from which is drawn is normal in to some extent,",
+      "C": "Data is measured on at least an interval scale",
+      "D": "The score is measured separately in each group",
+      "E": "The target population standard deviation is unknown"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "These are standard assumptions for t-test application."
+  },
+  "50": {
+    "QUESTION": "The following statements about confidence interval is not true",
+    "OPTION": {
+      "A": "Conventionally 95% confidence level is commonly chosen",
+      "B": "It tells us how much an exposure affects the subjects",
+      "C": "It detects significant and non-statistically significant effects",
+      "D": "It reveals the level of significance used",
+      "E": "It is similar to p-value"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "CI does not directly measure effect size; it is different from p-value."
+  }
+}

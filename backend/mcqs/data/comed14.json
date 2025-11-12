@@ -1,0 +1,652 @@
+{
+  "1": {
+    "QUESTION": "Body Mass Index varies by:",
+    "OPTION": {
+      "A": "Age",
+      "B": "Sex",
+      "C": "Race",
+      "D": "Peer group",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "BMI varies with age, sex, race, and peer influence, so all options are correct."
+  },
+  "2": {
+    "QUESTION": "Ant nutrients in legumes include:",
+    "OPTION": {
+      "A": "Phytates",
+      "B": "Haemagglutinins",
+      "C": "Trypsin and chymotrypsin inhibitors",
+      "D": "All of the above",
+      "E": "Only b and c."
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed substances are antinutrients present in legumes."
+  },
+  "3": {
+    "QUESTION": "Nutritional Status can be indirectly assessed using:",
+    "OPTION": {
+      "A": "24 hour dietary recall",
+      "B": "Socioeconomic data",
+      "C": "Health and Vital Statistics",
+      "D": "Food Frequency Questionnaire",
+      "E": "Birth weight"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed methods can indirectly assess nutritional status."
+  },
+  "4": {
+    "QUESTION": "Mid Upper Arm Circumference of 115mm indicates:",
+    "OPTION": {
+      "A": "Mild malnutrition",
+      "B": "Moderate malnutrition",
+      "C": "Severe malnutrition",
+      "D": "Borderline malnutrition",
+      "E": "Severe acute malnutrition"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "MUAC of 115mm indicates moderate malnutrition."
+  },
+  "5": {
+    "QUESTION": "The effects of zinc deficiency include:",
+    "OPTION": {
+      "A": "Poor wound healing",
+      "B": "Keratomalacia (VIT A)",
+      "C": "Growth failure",
+      "D": "Mental retardation (IDD)",
+      "E": "Increased susceptibility to infection"
+    },
+    "TRUE": ["A", "C", "E"],
+    "FALSE": ["B", "D"],
+    "EXPLANATION": "Zinc deficiency causes poor wound healing, growth failure, and increased infection risk."
+  },
+  "6": {
+    "QUESTION": "Rich sources of vitamin A include:",
+    "OPTION": {
+      "A": "Dark green leafy vegetables",
+      "B": "Pawpaw and mangoes",
+      "C": "Groundnuts",
+      "D": "Fish liver oils",
+      "E": "Carrots and tomatoes"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Groundnuts are not rich sources of vitamin A; the others are."
+  },
+  "7": {
+    "QUESTION": "Concepts of Health include which of the following:",
+    "OPTION": {
+      "A": "A way of life",
+      "B": "Capacity to perform tasks or roles adequately",
+      "C": "A major social investment",
+      "D": "A fundamental human right",
+      "E": "Only B and C."
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Health is a way of life, capacity, social investment, and a human right."
+  },
+  "8": {
+    "QUESTION": "Factors influencing individual response to illness include:",
+    "OPTION": {
+      "A": "Symptom invisibility",
+      "B": "Social status",
+      "C": "Symptom denial for fear of confirmation of serious illness",
+      "D": "Deferring response to symptoms because of competing social demands",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed factors influence how an individual responds to illness."
+  },
+  "9": {
+    "QUESTION": "The following are examples of social handicap:",
+    "OPTION": {
+      "A": "Cerebral palsy",
+      "B": "Refugees",
+      "C": "Motherless babies",
+      "D": "Sickle cell disease",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Sickle cell disease is a medical condition; others are social handicaps."
+  },
+  "10": {
+    "QUESTION": "Socioeconomic status (SES) is measured by:",
+    "OPTION": {
+      "A": "Income",
+      "B": "Residence",
+      "C": "Education",
+      "D": "Race",
+      "E": "A and C only"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "SES is measured using income, education, and related social factors."
+  },
+  "11": {
+    "QUESTION": "The following are correctly matched with their specific developments in occupational health:",
+    "OPTION": {
+      "A": "Percival Pott - Chimney sweeping and cancer of the scrotum",
+      "B": "Philippus Aureolus Paracelcus - toxicity due to mercury and Sulphur",
+      "C": "Sir Thomas Legg - Pioneer occupational physician in the USA",
+      "D": "Gergius Agricola - Abdominal colic and lead poisoning",
+      "E": "George Baker - described health problems in mines"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Sir Thomas Legg was not the pioneer occupational physician in the USA."
+  },
+  "12": {
+    "QUESTION": "The following organizations are mainly involved in occupational health:",
+    "OPTION": {
+      "A": "ILO, International Labour Organisation",
+      "B": "UNICEF, United Nations Children Funds.",
+      "C": "UNDP, United Nations Development Programme.",
+      "D": "Agricultural Organisation of Nigeria",
+      "E": "World bank"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "ILO is primarily involved in occupational health."
+  },
+  "13": {
+    "QUESTION": "Ergonomics is",
+    "OPTION": {
+      "A": "Interphase of man and machines",
+      "B": "Interphase of employer and employee",
+      "C": "Interphase of manager and staff",
+      "D": "Interphase of colleagues",
+      "E": "Interphase of worker and workplace design"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Ergonomics studies the interaction between humans and work systems/machines."
+  },
+  "14": {
+    "QUESTION": "Concerning hazard:",
+    "OPTION": {
+      "A": "Same as risk",
+      "B": "Probability of a dangerous occurrence",
+      "C": "Ability of something or a process in a workplace to cause harm",
+      "D": "Lower than risk",
+      "E": "Vulnerability and hazards in the workplace cannot be controlled"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "Hazard is the potential to cause harm, distinct from risk."
+  },
+  "15": {
+    "QUESTION": "The occupational health team consists of",
+    "OPTION": {
+      "A": "Physicians",
+      "B": "Toxicologists",
+      "C": "Nurses",
+      "D": "A and B only",
+      "E": "Hygienists"
+    },
+    "TRUE": ["A", "B", "C", "E", "D"],
+    "FALSE": [],
+    "EXPLANATION": "Occupational health teams include physicians, toxicologists, nurses, and hygienists."
+  },
+  "16": {
+    "QUESTION": "What type of hazard is noise?",
+    "OPTION": {
+      "A": "Mechanical",
+      "B": "Chemical",
+      "C": "Biological",
+      "D": "Physical",
+      "E": "Psychosocial and physical"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Noise is considered a physical hazard."
+  },
+  "17": {
+    "QUESTION": "Concerning PPE (Personal Protective Equipment):",
+    "OPTION": {
+      "A": "Means Person Protection Equipment",
+      "B": "It is a very vital adjunct control measure",
+      "C": "It is the first line of hazard control in the workplace",
+      "D": "Includes ear muffs, face masks, goggles, helmets",
+      "E": "Ranked low in the hierarchy of hazard control"
+    },
+    "TRUE": ["B", "D"],
+    "FALSE": ["A", "C", "E"],
+    "EXPLANATION": "PPE is vital and includes protective gear but is not first-line control."
+  },
+  "18": {
+    "QUESTION": "Which of this profession requires regular visual acuity tests?",
+    "OPTION": {
+      "A": "Musicians",
+      "B": "Drivers",
+      "C": "Lecturers",
+      "D": "Hair dressers",
+      "E": "A and C"
+    },
+    "TRUE": ["B", "C"],
+    "FALSE": ["A", "D", "E"],
+    "EXPLANATION": "Drivers and lecturers require regular visual assessments."
+  },
+  "19": {
+    "QUESTION": "World Health Organization:",
+    "OPTION": {
+      "A": "Has 7 regional offices",
+      "B": "Headquarter is in Geneva",
+      "C": "Is a bilateral agency",
+      "D": "Founded in 1948",
+      "E": "Provides financial assistance to member countries"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "WHO has 6 regional offices, is multilateral."
+  },
+  "20": {
+    "QUESTION": "Concerning the following statements:",
+    "OPTION": {
+      "A": "Free pratique is offered to a ship with Q flag",
+      "B": "QQ flag indicates the ship has suspected case of disease",
+      "C": "Exposure to occupational hazards varies with individual susceptibility",
+      "D": "Napthylamines are associated with bladder cancers",
+      "E": "Cotton dust is associated with bagassosis"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "QQ flag not for suspected disease; cotton dust causes byssinosis."
+  },
+  "21": {
+    "QUESTION": "The following are components of DOTS (Directly Observed Treatment Short course):",
+    "OPTION": {
+      "A": "Political will on the part of government",
+      "B": "Regular, but interrupted supply of drugs and reagents",
+      "C": "Standardised treatment regimen for all diagnosed TB cases and direct observation drug intake by a health worker",
+      "D": "Purchase of vehicles for effective distribution of drugs and reagents",
+      "E": "All of the above"
+    },
+    "TRUE": ["A", "C"],
+    "FALSE": ["B", "D", "E"],
+    "EXPLANATION": "DOTS requires political will and standardized treatment with direct observation; interrupted supply or vehicle purchase are not DOTS components."
+  },
+  "22": {
+    "QUESTION": "Contact tracing can be used as a control measure for the following diseases:",
+    "OPTION": {
+      "A": "Cholera",
+      "B": "Malaria",
+      "C": "Gonorrhoea",
+      "D": "HIV/AIDS",
+      "E": "Lassa fever"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Contact tracing is effective for sexually transmitted or contagious diseases, not cholera or malaria."
+  },
+  "23": {
+    "QUESTION": "Concerning Nosocomial infections:",
+    "OPTION": {
+      "A": "Incidence varies from centre to centre",
+      "B": "It is not nosocomial if transmission is between hospital staff",
+      "C": "Hospital procedures are not a predisposing factor",
+      "D": "Viral Hemorrhagic Fevers are associated with high mortality among health care staff",
+      "E": "Increased use of disposable items is a protective factor"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Hospital procedures can predispose to infection; other statements are correct."
+  },
+  "24": {
+    "QUESTION": "The following are examples of probability sampling methods:",
+    "OPTION": {
+      "A": "Quota",
+      "B": "Cluster",
+      "C": "Convenient",
+      "D": "Stratified",
+      "E": "Proportionate random"
+    },
+    "TRUE": ["B", "D", "E"],
+    "FALSE": ["A", "C"],
+    "EXPLANATION": "Quota and convenient sampling are non-probability methods."
+  },
+  "25": {
+    "QUESTION": "In the activities for the control of communicable diseases, the interruption of transmission of disease from a large geographic region could be by the following:",
+    "OPTION": {
+      "A": "Eradication",
+      "B": "Surveillance",
+      "C": "Monitoring",
+      "D": "Elimination",
+      "E": "None of the above"
+    },
+    "TRUE": ["A"],
+    "FALSE": ["B", "C", "D", "E"],
+    "EXPLANATION": "Eradication is the permanent interruption of disease transmission over a large region."
+  },
+  "26": {
+    "QUESTION": "A recently infected person that harbours a specific infectious agent in the absence of discernible clinical disease and serves as a potential source of infection is:",
+    "OPTION": {
+      "A": "A chronic carrier",
+      "B": "A convalescent carrier",
+      "C": "A precocious carrier",
+      "D": "A healthy carrier",
+      "E": "A case"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D"],
+    "EXPLANATION": "A healthy carrier harbors the pathogen without showing disease symptoms."
+  },
+  "27": {
+    "QUESTION": "African trypanosomiasis:",
+    "OPTION": {
+      "A": "It is essentially a disease of the rural population",
+      "B": "Population movement (like nomadic Fulanis) plays a role in its aetiology",
+      "C": "It is caused by the Reduviid bug",
+      "D": "It has two clinically distinct types",
+      "E": "Pentamidine can be used in the treatment"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Trypanosomiasis is transmitted by the Glossina (Tse Tse) fly, not the Reduviid bug."
+  },
+  "28": {
+    "QUESTION": "In a propagated epidemic:",
+    "OPTION": {
+      "A": "All cases of the disease are within one incubation period",
+      "B": "All cases are infected from the same source",
+      "C": "The curve usually has one spike",
+      "D": "None of the above",
+      "E": "All of the above"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "A propagated epidemic spreads gradually person-to-person; no single spike exists."
+  },
+  "29": {
+    "QUESTION": "Rate in epidemiology:",
+    "OPTION": {
+      "A": "Indicates the change in an event over a period",
+      "B": "Has a numerator not part of the denominator",
+      "C": "May be expressed per 1,000",
+      "D": "Can be specific, crude or adjusted",
+      "E": "Is a statement of the risk of developing a particular condition"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "All listed statements correctly describe rate in epidemiology."
+  },
+  "30": {
+    "QUESTION": "During an outbreak of measles, a family of 8 with both parents immunized had 2 of their 6 children developing symptoms. Attack rate is:",
+    "OPTION": {
+      "A": "40%",
+      "B": "33.3%",
+      "C": "50%",
+      "D": "25%",
+      "E": "80%"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Attack rate = (2/6) × 100 = 33.3%."
+  },
+  "31": {
+    "QUESTION": "The following are true as regards uses of water in public health:",
+    "OPTION": {
+      "A": "Minimum of 200-400L/person/day is needed in rural areas",
+      "B": "Minimum of 20-60 L/person/day is needed in urban areas",
+      "C": "At least 50 L/day will be adequate for maintaining good health",
+      "D": "Serves in Sports & medium for recreations e.g. swimming, boating",
+      "E": "Water scarcity is the aetiologic basis for Ebola Virus Disease"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Water scarcity does not cause Ebola; the other uses are correct."
+  },
+  "32": {
+    "QUESTION": "Concerning the Sustainable Development Goals (SDGs):",
+    "OPTION": {
+      "A": "The goals are a United Nations Initiative",
+      "B": "The SDGs are officially known as Transforming our world: the 2030 Agenda",
+      "C": "There are 17 SDGs and 169 targets",
+      "D": "The Goals were adopted on 25 September 2000",
+      "E": "The second SDG is zero hunger"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "SDGs were adopted on 25 September 2015, not 2000."
+  },
+  "33": {
+    "QUESTION": "Concerning Schistosoma species:",
+    "OPTION": {
+      "A": "Bulinus is the Intermediate host of Schistosoma haematobium",
+      "B": "Lymnea is the Intermediate host of Schistosoma mekongi",
+      "C": "Onchomelanaria is Intermediate host of Schistosoma japonicum",
+      "D": "Biomphalaria is the Intermediate host of Schistosoma mansoni",
+      "E": "Buiomphalaria is the Intermediate host of Schistosoma intercalatum"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Onchomelanaria is not a host for S. japonicum."
+  },
+  "34": {
+    "QUESTION": "Concerning onchocerciasis:",
+    "OPTION": {
+      "A": "Transmitted to humans through repeated bites of infected Simulium blackflies",
+      "B": "Symptoms include severe itching, disfiguring skin conditions, and visual impairment including permanent blindness",
+      "C": "In the Africa the strategy is biannual large-scale treatment with ivermectin",
+      "D": "Community-directed treatment with ivermectin is the core strategy to eliminate onchocerciasis worldwide",
+      "E": "It has been eradicated in Nigeria"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Eradication is not complete; vector control is also critical."
+  },
+  "35": {
+    "QUESTION": "The following are electronic sources of literature in research:",
+    "OPTION": {
+      "A": "Journals, books",
+      "B": "Report of Expert Committee",
+      "C": "Search engines - Google",
+      "D": "Pubmed",
+      "E": "Thesis/ Dissertation"
+    },
+    "TRUE": ["C", "D"],
+    "FALSE": ["A", "B", "E"],
+    "EXPLANATION": "Electronic sources include search engines and PubMed; others are formal but not electronic."
+  },
+  "36": {
+    "QUESTION": "The following are quantitative methods of data collection except:",
+    "OPTION": {
+      "A": "Desk reviews",
+      "B": "Data sheets",
+      "C": "Observational Checklists",
+      "D": "Clinic record - case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Desk reviews and key informant interviews are qualitative methods."
+  },
+  "37": {
+    "QUESTION": "The following are linked with ozone layer depletion:",
+    "OPTION": {
+      "A": "Halons as fire suppressants",
+      "B": "Methyl bromide in cleaning metals",
+      "C": "Methyl chloroform as refrigerants",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Only methyl bromide contributes significantly to ozone depletion."
+  },
+  "38": {
+    "QUESTION": "Management implies:",
+    "OPTION": {
+      "A": "Implies activities must have a time relation or sequence",
+      "B": "Commitment to the entity",
+      "C": "Adjudges money as the most important resource",
+      "D": "Implies getting things done through people",
+      "E": "Implies saying what an individual or an organization wants to be done and getting it done"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Time and people management are key; money is a resource, not the sole focus."
+  },
+  "39": {
+    "QUESTION": "Healthcare financing options include:",
+    "OPTION": {
+      "A": "Life insurance premium",
+      "B": "Community contributions",
+      "C": "Payment for health services rendered",
+      "D": "National Health Insurance Scheme",
+      "E": "Only D is correct"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "All listed options are healthcare financing mechanisms."
+  },
+  "40": {
+    "QUESTION": "Which of the following statements are NOT true about gender?",
+    "OPTION": {
+      "A": "They are socially and culturally defined roles and responsibilities for being a male or female",
+      "B": "They are learned",
+      "C": "Vary greatly in different societies, cultures and historical periods",
+      "D": "Cannot be changed",
+      "E": "Can be changed"
+    },
+    "TRUE": ["D"],
+    "FALSE": ["A", "B", "C", "E"],
+    "EXPLANATION": "Gender roles can change; saying they cannot is incorrect."
+  },
+  "41": {
+    "QUESTION": "Common causes of death among under five include the following except:",
+    "OPTION": {
+      "A": "Malnutrition",
+      "B": "Sickle Cell Anaemia",
+      "C": "Pneumonias",
+      "D": "Diarrhoea",
+      "E": "Cystic fibrosis"
+    },
+    "TRUE": ["B", "E"],
+    "FALSE": ["A", "C", "D"],
+    "EXPLANATION": "Sickle cell anemia and cystic fibrosis are less common causes compared to malnutrition, diarrhoea, and pneumonia."
+  },
+  "42": {
+    "QUESTION": "In the rehabilitation of individuals:",
+    "OPTION": {
+      "A": "He/she should be coerced to accept the opportunities offered",
+      "B": "The family is not important",
+      "C": "The community provides the major resources for those based with it",
+      "D": "Credit institutions such as banks may play a role",
+      "E": "Income generating projects are a way of combating poverty for the disabled"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Rehabilitation requires community support, financial access, and income projects; coercion or ignoring family is wrong."
+  },
+  "43": {
+    "QUESTION": "The principles of Primary Health Care include:",
+    "OPTION": {
+      "A": "Community diagnosis",
+      "B": "Intersectoral collaboration",
+      "C": "Self-relationship",
+      "D": "Equal distribution of trader monies for healthcare",
+      "E": "Provision of essential drugs"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "PHC focuses on community needs, collaboration, and essential services; others are incorrect."
+  },
+  "44": {
+    "QUESTION": "Concerning Zika virus:",
+    "OPTION": {
+      "A": "Mosquitoes that spread Zika virus bite only during the daytime",
+      "B": "Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses",
+      "C": "There is no vaccine to prevent or specific medicine to treat Zika infections",
+      "D": "Only a blood test can confirm diagnosis",
+      "E": "Many people infected with Zika virus won't have symptoms"
+    },
+    "TRUE": ["A", "B", "C", "E"],
+    "FALSE": ["D"],
+    "EXPLANATION": "Diagnosis can also involve PCR; blood tests alone are insufficient."
+  },
+  "45": {
+    "QUESTION": "Concerning Lassa fever:",
+    "OPTION": {
+      "A": "It occurs majorly in the West African Sub-region",
+      "B": "It is transmitted to humans from contacts with food or household items contaminated with rodent excreta only",
+      "C": "The disease is endemic in the rodent population in parts of North America",
+      "D": "Application of universal precaution is not an important control measure",
+      "E": "The virus is transmitted by Mastomys Nataliensis specie"
+    },
+    "TRUE": ["A", "E"],
+    "FALSE": ["B", "C", "D"],
+    "EXPLANATION": "Transmission is not limited to food; universal precautions are important; endemic is in West Africa."
+  },
+  "46": {
+    "QUESTION": "Concerning Ebola virus disease (EVD):",
+    "OPTION": {
+      "A": "The average EVD case fatality rate is around 50%",
+      "B": "Case fatality rates have varied from 2% to 9% in past outbreaks",
+      "C": "The virus is transmitted to people from all wild animals",
+      "D": "Ebola virus disease, formerly known as Ebola haemorrhagic fever, is a severe, often fatal illness in humans",
+      "E": "The virus spreads in the human population through animal-to-human transmission"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "CFR varies widely; virus not transmitted by all wild animals."
+  },
+  "47": {
+    "QUESTION": "The following statements about non-parametric tests are true",
+    "OPTION": {
+      "A": "It does not assume any particular functional form for a population distribution",
+      "B": "They are distribution free methods based on ordered statistic theory",
+      "C": "Their hypothesis focuses on nature of distribution alone rather than values",
+      "D": "It is weaker than parametric tests in situations where data satisfies the assumptions",
+      "E": "They are less useful on classificatory variables"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Non-parametric tests can be used for classificatory variables."
+  },
+  "48": {
+    "QUESTION": "In applying the T-test, the following criteria or assumptions must be met:",
+    "OPTION": {
+      "A": "Data must be quantitative in nature",
+      "B": "The parent population standard deviation is known",
+      "C": "The two groups compared have similar variances",
+      "D": "Samples should be random in nature",
+      "E": "It must be of a known scale"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "T-test assumes unknown population standard deviation."
+  },
+  "49": {
+  "QUESTION": "Considering the uses of median as a measure of central tendency the following is true",
+  "OPTION": {
+    "A": "It is affected by outliers",
+    "B": "Can be calculated if extreme class is open",
+    "C": "Cannot be determined directly for odd number observations",
+    "D": "Affected by fluctuations of sampling",
+    "E": "It is used for irregular distributions"
+  },
+  "TRUE": ["B", "D", "E"],
+  "FALSE": ["A", "C"],
+  "EXPLANATION": "Median is robust to outliers (so A is false). It can often be estimated even when an extreme class is open (B true). Median is directly determined for odd-numbered observations (C false). Median may vary with sampling (D true) and is useful for irregular/skewed distributions (E true)."
+    },
+    "50": {
+    "QUESTION": "The following measures of dispersion or variability can be used for calculating individual observations",
+    "OPTION": {
+        "A": "Standard deviation",
+        "B": "Coefficient of variance",
+        "C": "Standard error of mean",
+        "D": "Standard error of proportion",
+        "E": "Inter-quartile range"
+    },
+    "TRUE": ["A", "B", "E"],
+    "FALSE": ["C", "D"],
+    "EXPLANATION": "Standard deviation, coefficient of variation and inter-quartile range describe dispersion of individual observations. Standard errors (mean/proportion) describe variability of estimates across samples, not dispersion of individual observations."
+    }
+}

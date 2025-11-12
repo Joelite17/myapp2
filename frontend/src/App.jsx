@@ -9,24 +9,9 @@ import Navbar from "./components/Navbar";
 // Pages
 import Feeds from "./pages/Feeds";
 import Dashboard from "./pages/Dashboard";
-
-// Notes
-import MyNotesPage from "./pages/notes/MyNotes";
-import NoteDetailPage from "./pages/notes/NoteDetail";
-import CreateNotePage from "./pages/notes/CreateNote";
-import EditNotePage from "./pages/notes/EditNote";
-
-// MCQs
-import MCQDetailPage from "./pages/mcqs/MCQDetail";
-import MyMCQsPage from "./pages/mcqs/MyMCQs";
-import CreateMCQPage from "./pages/mcqs/CreateMCQ";
-import EditMCQPage from "./pages/mcqs/EditMCQ";
-
-// Flashcards
-import FlashcardDetailPage from "./pages/flashcards/FlashcardDetail";
-import CreateFlashcardPage from "./pages/flashcards/CreateFlashcard";
-import EditFlashcardPage from "./pages/flashcards/EditFlashcard";
-import MyFlashcardPage from "./pages/flashcards/MyFlashCards";
+import MCQDetailPage from "./pages/resources/MCQDetail";
+// import FlashcardDetailPage from "./pages/resources/FlashcardDetail"
+// import NoteDetailPage from "./pages/resources/NoteDetail"
 
 // Accounts
 import Signup from "./pages/accounts/Signup";
@@ -126,24 +111,9 @@ export default function App() {
                     <Route path="/feeds" element={<Feeds darkMode={darkMode} />} />
                     <Route path="/profiles/:username" element={<UserProfilePage darkMode={darkMode} />} />
                     <Route path="/profile" element={<MyProfilePage darkMode={darkMode} />} />
-
-                    {/* Notes */}
-                    <Route path="/notes" element={<MyNotesPage darkMode={darkMode} />} />
-                    <Route path="/notes/:id" element={<NoteDetailPage darkMode={darkMode} />} />
-                    <Route path="/notes/:id/edit" element={<EditNotePage />} />
-                    <Route path="/notes/create" element={<CreateNotePage />} />
-
-                    {/* MCQs */}
-                    <Route path="/mcqs" element={<MyMCQsPage />} />
-                    <Route path="/mcqs/:id" element={<MCQDetailPage />} />
-                    <Route path="/mcqs/create" element={<CreateMCQPage />} />
-                    <Route path="/mcqs/:id/edit" element={<EditMCQPage />} />
-
-                    {/* Flashcards */}
-                    <Route path="/flashcards" element={<MyFlashcardPage />} />
-                    <Route path="/flashcards/:id" element={<FlashcardDetailPage />} />
-                    <Route path="/flashcards/create" element={<CreateFlashcardPage />} />
-                    <Route path="/flashcards/:id/edit" element={<EditFlashcardPage />} />
+                    <Route path="/mcqsets/:id" element={<MCQDetailPage />} />
+                    {/* <Route path="/notes/:id" element={<NoteDetailPage darkMode={darkMode} />} />
+                    <Route path="/flashcards/:id" element={<FlashcardDetailPage />} /> */}
                   </Routes>
                 </ProtectedRoute>
               }

@@ -1,0 +1,327 @@
+{
+  "1": {
+    "QUESTION": "These factors do not influence the width of a confidence interval in descriptive studies except",
+    "OPTION": {
+      "A": "The chosen significance level",
+      "B": "The power of a test",
+      "C": "The variance of the variable under study",
+      "D": "The sample size",
+      "E": "The standard deviation of the variable under study"
+    },
+    "TRUE": ["A", "C", "D", "E"],
+    "FALSE": ["B"],
+    "EXPLANATION": "The width of a confidence interval depends on the significance level, sample size, variance, and standard deviation. Power is relevant for hypothesis testing, not CI width."
+  },
+  "2": {
+    "QUESTION": "When comparing the sample means with the use of a t-test, which of the following conditions should be satisfied?",
+    "OPTION": {
+      "A": "The two samples must have been selected through a probability method of sampling",
+      "B": "At least one of the samples must be smaller or equal to 30",
+      "C": "The two sample variances must be equal",
+      "D": "The variable under study may have a binomial distribution",
+      "E": "The sample sizes drawn from these populations must be equal"
+    },
+    "TRUE": ["A", "C"],
+    "FALSE": ["B", "D", "E"],
+    "EXPLANATION": "T-tests assume samples are randomly selected and variances are equal (for independent t-test). Sample size equality and distribution type are not strict requirements."
+  },
+  "3": {
+    "QUESTION": "The following statement is not true about sampling",
+    "OPTION": {
+      "A": "The unit of enquiry is always the same as the sampling unit",
+      "B": "Proportional allocation is usually applied when selecting a simple random sample",
+      "C": "The sampling fraction is the ratio of sample size to the population size",
+      "D": "All of the above",
+      "E": "None of the above"
+    },
+    "TRUE": ["C"],
+    "FALSE": ["A", "B", "D", "E"],
+    "EXPLANATION": "The unit of enquiry may differ from the sampling unit. Proportional allocation is usually applied in stratified sampling, not simple random sampling."
+  },
+  "4": {
+    "QUESTION": "The following cannot be classified as nominal variables",
+    "OPTION": {
+      "A": "Presence or absence of blood in sputum",
+      "B": "International classification of disease code",
+      "C": "Histological type of tumor",
+      "D": "Racial group",
+      "E": "Presence of blood in urine"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Nominal variables are categorical. Presence/absence is binary (dichotomous), not nominal in classical sense; ICD codes, histological type, and race are nominal."
+  },
+  "5": {
+    "QUESTION": "The following statements about the mean of a large sample size (n) are correct",
+    "OPTION": {
+      "A": "It is always greater than the median",
+      "B": "It is calculated using the formula Σx/n",
+      "C": "It estimates the population mean with less precision than the mean of a small sample",
+      "D": "Increases as the sample size increases",
+      "E": "It is always greater than the standard deviation"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "The mean is calculated as Σx/n. It is not always greater than the median or SD, and larger samples estimate population mean with greater precision."
+  },
+  "6": {
+    "QUESTION": "Which of the following statements about the histogram are true",
+    "OPTION": {
+      "A": "Usually shows the development of quality over time",
+      "B": "Could be used to show the distribution of lengths of stay in patients admitted with acute asthma",
+      "C": "Could be used to show the distribution of birth weights in a sample of babies",
+      "D": "Conveys information about the spread of a distribution",
+      "E": "It is the best way to show relationship between weight and blood pressure"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "Histograms show distribution and spread of a single variable. Time trends or relationships between two variables require line charts or scatterplots."
+  },
+  "7": {
+    "QUESTION": "The following can be said to be true about population pyramids",
+    "OPTION": {
+      "A": "The oldest age group is open ended",
+      "B": "Females are represented on the left and males on the right side of the pyramid",
+      "C": "Age is represented on the horizontal axis",
+      "D": "Age data is commonly categorized into 5 or 10 years age groups",
+      "E": "Its base is broad in population of most third world countries"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Males are usually on the left, age on vertical axis, oldest group often open-ended, and developing countries have broad bases."
+  },
+  "8": {
+    "QUESTION": "Management by objectives includes all except",
+    "OPTION": {
+      "A": "What is to be done?",
+      "B": "How much is to be done?",
+      "C": "Where it is to be done?",
+      "D": "When it is to be completed?",
+      "E": "Which standard it will be done"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Management by objectives focuses on goals, quantity, timeline, and standards, but not on the physical location."
+  },
+  "9": {
+    "QUESTION": "The following are the skills of an effective manager",
+    "OPTION": {
+      "A": "Human skill",
+      "B": "Technical skill",
+      "C": "Scientific skill",
+      "D": "Conceptual skill",
+      "E": "Technological skill"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Effective managers need human, technical, and conceptual skills. Scientific and technological skills are not core managerial skills."
+  },
+  "10": {
+    "QUESTION": "An ideal health indicator should have the following qualities",
+    "OPTION": {
+      "A": "Validity",
+      "B": "Sensitivity",
+      "C": "Probability",
+      "D": "Feasibility",
+      "E": "Turbidity"
+    },
+    "TRUE": ["A", "B", "D"],
+    "FALSE": ["C", "E"],
+    "EXPLANATION": "Health indicators should be valid, sensitive, and feasible. Probability and turbidity are not qualities of indicators."
+  },
+  "11": {
+    "QUESTION": "Which of these is/are risk(s) associated with medical wastes",
+    "OPTION": {
+      "A": "Needle stick injuries",
+      "B": "Exposure to radiation",
+      "C": "Public nuisance (offensive smells, unsightly debris)",
+      "D": "Environmental pollution and degradation",
+      "E": "Transmission of infections and diseases"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Medical waste poses multiple risks including injuries, infections, environmental harm, and public nuisance."
+  },
+  "12": {
+    "QUESTION": "Which of the following definitions is/ are correct",
+    "OPTION": {
+      "A": "Sewage - household waste not containing faeces",
+      "B": "Sullage - network of sewers from the same area that discharges into a common pool",
+      "C": "Sewer - waste water from kitchen, bathrooms, laundry, etc",
+      "D": "Sewerage - connection pipes that take away faeces from the toilet",
+      "E": "Sullarage - connection of pipes that take away household waste without faeces"
+    },
+    "TRUE": ["C", "D", "E"],
+    "FALSE": ["A", "B"],
+    "EXPLANATION": "Sewage contains faeces. Sullage is wastewater from kitchens and baths. Sewerage is the pipe system for faecal removal."
+  },
+  "13": {
+    "QUESTION": "These are biological consequences of poor refuse disposal",
+    "OPTION": {
+      "A": "Space occupying",
+      "B": "Aesthetics - unsightly appearance, bad odours",
+      "C": "Infestation with rats and vermins",
+      "D": "Fly transmitted infections like HIV/AIDS",
+      "E": "Pollution"
+    },
+    "TRUE": ["B", "C", "E"],
+    "FALSE": ["A", "D"],
+    "EXPLANATION": "Poor refuse disposal leads to vermin infestation, pollution, and bad odors. HIV/AIDS is not transmitted by flies; space occupying is not a biological consequence."
+  },
+  "14": {
+    "QUESTION": "These are not social components of the environment",
+    "OPTION": {
+      "A": "Morals and lifestyles",
+      "B": "Customs",
+      "C": "Political systems",
+      "D": "Economic systems",
+      "E": "Health systems"
+    },
+    "TRUE": ["E"],
+    "FALSE": ["A", "B", "C", "D"],
+    "EXPLANATION": "Social components include morals, customs, political and economic systems. Health systems are structural, not social components."
+  },
+  "15": {
+    "QUESTION": "The following events can affect environmental temperatures, causing global warming",
+    "OPTION": {
+      "A": "Desertification",
+      "B": "Reforestation",
+      "C": "Eclipse of the moon",
+      "D": "Urbanization",
+      "E": "Deforestation"
+    },
+    "TRUE": ["A", "D", "E"],
+    "FALSE": ["B", "C"],
+    "EXPLANATION": "Desertification, urbanization, and deforestation contribute to global warming. Reforestation reduces warming; lunar eclipses do not affect climate."
+  },
+  "16": {
+    "QUESTION": "The following are formal sources of literature in research",
+    "OPTION": {
+      "A": "Journals, books",
+      "B": "Report of Expert Committee",
+      "C": "Search engines - Google",
+      "D": "Pubmed",
+      "E": "Thesis/Dissertation"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Formal sources include journals, books, official reports, PubMed, theses. Search engines like Google are not formal literature sources."
+  },
+  "17": {
+    "QUESTION": "Ethical issues in research involves which of the following",
+    "OPTION": {
+      "A": "Informed consent",
+      "B": "Right to withdraw",
+      "C": "Reasons for the study",
+      "D": "Permission for access to medical records",
+      "E": "Provision of study results"
+    },
+    "TRUE": ["A", "B", "D", "E"],
+    "FALSE": ["C"],
+    "EXPLANATION": "Ethical issues focus on consent, withdrawal rights, access permissions, and results sharing. Reason for study is not an ethical requirement."
+  },
+  "18": {
+    "QUESTION": "The following are quantitative methods of data collection except",
+    "OPTION": {
+      "A": "Questionnaires",
+      "B": "Data sheets",
+      "C": "Observational Checklists",
+      "D": "Clinic record - case notes",
+      "E": "Key informant interview"
+    },
+    "TRUE": ["A", "B", "C", "D"],
+    "FALSE": ["E"],
+    "EXPLANATION": "Quantitative methods include structured questionnaires, data sheets, checklists, and case notes. Key informant interviews are qualitative."
+  },
+  "19": {
+    "QUESTION": "Which of the following statements concerning community participation is true",
+    "OPTION": {
+      "A": "The community is involved only in the implementation of health programs",
+      "B": "The community should be involved in planning, implementation and evaluation",
+      "C": "The community should be involved in the funding of health programs",
+      "D": "A and B are incorrect",
+      "E": "All are correct"
+    },
+    "TRUE": ["B"],
+    "FALSE": ["A", "C", "D", "E"],
+    "EXPLANATION": "Effective community participation includes involvement in planning, implementation, and evaluation. Funding is not a primary requirement."
+  },
+  "20": {
+    "QUESTION": "Concerning the sick role",
+    "OPTION": {
+      "A": "Roles are delegated or socially adjusted",
+      "B": "Sick role is the same as patient role",
+      "C": "Assumption of the sick role may lead to social crisis",
+      "D": "The uncooperative patient is labeled as malingering",
+      "E": "The patient is to be held responsible for his sickness"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "The sick role involves social adjustments and possible stigma. It differs from patient role and patients are not blamed for illness."
+  },
+  "21": {
+    "QUESTION": "Incidence",
+    "OPTION": {
+      "A": "Is used as a health status indicator",
+      "B": "Is the same as prevalence",
+      "C": "Is used to determine the magnitude of new cases",
+      "D": "Is a ratio",
+      "E": "All of the above is true"
+    },
+    "TRUE": ["A", "C", "D"],
+    "FALSE": ["B", "E"],
+    "EXPLANATION": "Incidence measures new cases over a period, expressed as a ratio. It is distinct from prevalence."
+  },
+  "22": {
+    "QUESTION": "Concerning Zika virus",
+    "OPTION": {
+      "A": "Many people infected with Zika virus won't have symptoms",
+      "B": "There is no specific medicine for Zika",
+      "C": "Some people infected with Zika virus will only have mild symptoms",
+      "D": "The most common symptoms of Zika are fever, rash, joint pain, or conjunctivitis",
+      "E": "The illness is usually mild with symptoms lasting for a few days to a week"
+    },
+    "TRUE": ["A", "B", "C", "D", "E"],
+    "FALSE": [],
+    "EXPLANATION": "Zika virus infections are often asymptomatic or mild; treatment is supportive."
+  },
+  "23": {
+    "QUESTION": "Concerning Lassa fever",
+    "OPTION": {
+      "A": "The overall case-fatality rate is 1%",
+      "B": "Early supportive care with rehydration and symptomatic treatment improves survival",
+      "C": "About 80% of people who become infected with Lassa virus have no symptoms",
+      "D": "Lassa fever is a zoonotic disease",
+      "E": "On rare occasions, travellers from areas where Lassa fever is endemic export the disease to other countries"
+    },
+    "TRUE": ["B", "C", "D", "E"],
+    "FALSE": ["A"],
+    "EXPLANATION": "Lassa fever is mostly asymptomatic, zoonotic, treatable with supportive care; case-fatality is higher than 1% in hospitalized cases."
+  },
+  "24": {
+    "QUESTION": "Confirmation that symptoms are caused by Ebola virus infection are made using the following investigations",
+    "OPTION": {
+      "A": "Antibody-capture enzyme-linked immunosorbent assay (ELISA)",
+      "B": "Antigen-capture detection tests",
+      "C": "Reverse transcriptase polymerase chain reaction (RT-PCR) assay",
+      "D": "Light microscopy",
+      "E": "Bacterial isolation by cell culture"
+    },
+    "TRUE": ["A", "B", "C"],
+    "FALSE": ["D", "E"],
+    "EXPLANATION": "Ebola is diagnosed with ELISA, antigen detection, and RT-PCR. Light microscopy and bacterial culture are not applicable."
+  },
+  "25": {
+    "QUESTION": "The following statements about sexually transmitted infections (STIs) are true except",
+    "OPTION": {
+      "A": "They are only transmitted through sexual contacts",
+      "B": "Chlamydia trachomatis is a bacterial STI",
+      "C": "Incidence can be increased by greater availability of forms of contraception",
+      "D": "Soiled fomites may transmit vulvo-vaginitis to pre-pubescent girls",
+      "E": "Early diagnosis and treatment is not an important control measure"
+    },
+    "TRUE": ["B", "C", "D"],
+    "FALSE": ["A", "E"],
+    "EXPLANATION": "STIs can be transmitted non-sexually in rare cases; early diagnosis and treatment are important control measures."
+  }
+}
