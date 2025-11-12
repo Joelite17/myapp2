@@ -25,7 +25,12 @@ SECRET_KEY = 'django-insecure-s$0q8r-pkwk6024-*g%gl@=59^*d5pqvty)&=_x4y7c76rgb+u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = [
+    "myapp2-pzj8.onrender.com",
+    "localhost",
+    "127.0.0.1"
+]
+
 CSRF_TRUSTED_ORIGINS = [
     'https://myapp2-pzj8.onrender.com',
     'https://myapp2-frontend.onrender.com'
@@ -187,7 +192,7 @@ EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 STATIC_ROOT = BASE_DIR / 'staticfiles'
 STATIC_URL = '/static/'
 
-import os
-DEBUG = os.getenv("DEBUG", "False") == "True"
-SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret")
-ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "localhost").split(",")
+# import os
+# DEBUG = os.getenv("DEBUG", "False") == "True"
+# SECRET_KEY = os.getenv("SECRET_KEY", "dev-secret")
+# ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "localhost").split(",")
