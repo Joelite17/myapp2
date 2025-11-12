@@ -2,7 +2,8 @@
 import axios from "axios";
 import { getUserToken } from "../context/AccountsContext";
 
-const API_BASE = "http://localhost:8000"; // adjust to your backend
+// const API_BASE = "http://localhost:8000"; // adjust to your backend
+const API_BASE = "https://myapp-f2ox.onrender.com"; // adjust to your backend
 
 // Helper to get auth headers
 const getAuthHeaders = () => {
