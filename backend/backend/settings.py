@@ -26,14 +26,14 @@ SECRET_KEY = 'django-insecure-s$0q8r-pkwk6024-*g%gl@=59^*d5pqvty)&=_x4y7c76rgb+u
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "myapp2-pzj8.onrender.com",
+    "myapp-f2ox.onrender.com",
     "localhost",
     "127.0.0.1"
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://myapp2-pzj8.onrender.com',
-    'https://myapp2-frontends.onrender.com'
+    "https://myapp-frontend-cdhh.onrender.com",
+    "https://myapp-f2ox.onrender.com",
 ]
 
 
@@ -153,9 +153,9 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
-    "https://myapp2-frontends.onrender.com",
+    "https://myapp-frontend-cdhh.onrender.com",
+    "https://myapp-f2ox.onrender.com",
     "http://localhost:5173",
-    'https://myapp2-pzj8.onrender.com',
     "http://localhost:8000"
 
 
