@@ -33,7 +33,7 @@ ALLOWED_HOSTS = [
 
 CSRF_TRUSTED_ORIGINS = [
     'https://myapp2-pzj8.onrender.com',
-    'https://myapp2-frontend.onrender.com'
+    'https://myapp2-frontends.onrender.com'
 ]
 
 
@@ -153,9 +153,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
+    "https://myapp2-frontends.onrender.com",
     "http://localhost:5173",
-]
 
+]
 
 # Simple JWT config
 from datetime import timedelta

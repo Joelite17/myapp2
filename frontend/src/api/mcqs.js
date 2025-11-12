@@ -2,7 +2,7 @@
 import axios from "axios";
 import { getUserToken } from "../context/AccountsContext";
 
-const BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+const BASE_URL = import.meta.env.VITE_API_URL || "https://myapp2-pzj8.onrender.com";
 
 async function request(method, endpoint, data = null, headers = {}) {
   const token = getUserToken();
