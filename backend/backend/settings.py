@@ -155,6 +155,8 @@ CORS_ALLOW_ALL_ORIGINS = False
 CORS_ALLOWED_ORIGINS = [
     "https://myapp2-frontends.onrender.com",
     "http://localhost:5173",
+    'https://myapp2-pzj8.onrender.com',
+
 
 ]
 
