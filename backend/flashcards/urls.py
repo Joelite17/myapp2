@@ -1,7 +1,10 @@
+from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 from .views import FlashcardSetViewSet
 
 router = DefaultRouter()
-router.register(r'sets', FlashcardSetViewSet, basename='flashcardset')
+router.register(r'', FlashcardSetViewSet, basename='flashcardsets')
 
-urlpatterns = router.urls
+urlpatterns = [
+    path('', include(router.urls)),
+]

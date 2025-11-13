@@ -1,23 +1,20 @@
-// src/api/resources.js
+// src/api/mcqs.js
 import axios from "axios";
 import { getUserToken } from "../context/AccountsContext";
+import { BASE_URL } from "./base_url";
 
-// const API_BASE = "http://localhost:8000"; // adjust to your backend
-const API_BASE = "https://myapp-f2ox.onrender.com"; // adjust to your backend
-
-// Helper to get auth headers
 const getAuthHeaders = () => {
   const token = getUserToken();
   return token ? { Authorization: `Bearer ${token}` } : {};
 };
 
-// MCQ-related API calls
 export const MCQAPI = {
   fetchMCQSets: async () => {
     try {
-      const res = await axios.get(`${API_BASE}/mcqsets/`, {
+      const res = await axios.get(`${BASE_URL}/mcqsets/`, {
         headers: getAuthHeaders(),
       });
+      console.log(res.data)
       return res.data;
     } catch (err) {
       console.error("Failed to fetch MCQ sets:", err);
@@ -27,7 +24,7 @@ export const MCQAPI = {
 
   fetchMCQSet: async (mcqSetId) => {
     try {
-      const res = await axios.get(`${API_BASE}/mcqsets/${mcqSetId}/`, {
+      const res = await axios.get(`${BASE_URL}/mcqsets/${mcqSetId}/`, {
         headers: getAuthHeaders(),
       });
       return res.data;
@@ -36,12 +33,27 @@ export const MCQAPI = {
       return null;
     }
   },
+
+  toggleLike: async (mcqSetId) => {
+    try {
+      const res = await axios.post(
+        `${BASE_URL}/mcqsets/${mcqSetId}/toggle_like/`,
+        {},
+        { headers: getAuthHeaders() }
+      );
+      return res.data; // expected: { liked: true/false, likes_count: number }
+    } catch (err) {
+      console.error(`Failed to toggle like for MCQSet ${mcqSetId}:`, err);
+      throw err;
+    }
+  },
 };
+
 export const ScoreAPI = {
   postScore: async (mcqSetId, score, total_score) => {
     try {
       const res = await axios.post(
-        `${API_BASE}/mcqs/scores/`,
+        `${BASE_URL}/mcqs/scores/`,
         { mcq_set: mcqSetId, score, total_score }, // send total obtainable score
         { headers: getAuthHeaders() }
       );
@@ -54,7 +66,7 @@ export const ScoreAPI = {
 
   fetchAllScores: async () => {
   try {
-    const res = await axios.get(`${API_BASE}/mcqs/scores/`, {
+    const res = await axios.get(`${BASE_URL}/mcqs/scores/`, {
       headers: getAuthHeaders(), // include auth token
     });
     return res.data;

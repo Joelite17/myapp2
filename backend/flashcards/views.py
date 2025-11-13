@@ -1,14 +1,30 @@
-# views.py
 from rest_framework import viewsets, permissions
-from .models import FlashcardSet
-from .serializers import FlashcardSetSerializer
+from rest_framework.decorators import action
+from rest_framework.response import Response
+from .models import *
+from .serializers import *
 
-class FlashcardSetViewSet(viewsets.ModelViewSet):
+ 
+class FlashcardSetViewSet(viewsets.ReadOnlyModelViewSet):
+    queryset = FlashcardSet.objects.all()
     serializer_class = FlashcardSetSerializer
-    permission_classes = [permissions.IsAuthenticated]
+    permission_classes = [permissions.IsAuthenticatedOrReadOnly]
 
-    def get_queryset(self):
-        return FlashcardSet.objects.filter(user=self.request.user)
+    @action(detail=True, methods=['post'], permission_classes=[permissions.IsAuthenticated])
+    def toggle_like(self, request, pk=None):
+        flashcard_set = self.get_object()
+        user = request.user
 
-    def perform_create(self, serializer):
-        serializer.save(user=self.request.user)
+        if flashcard_set.likes.filter(id=user.id).exists():
+            flashcard_set.likes.remove(user)
+            liked = False
+        else:
+            flashcard_set.likes.add(user)
+            liked = True
+
+        return Response({
+            "liked": liked,
+            "likes_count": flashcard_set.total_likes()
+        })
+
+

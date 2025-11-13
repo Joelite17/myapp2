@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { MCQAPI, ScoreAPI } from "../../api/resources";
+import { MCQAPI, ScoreAPI } from "../../api/mcqs";
 import { useParams } from "react-router-dom";
 
 export default function MCQDetailPage() {

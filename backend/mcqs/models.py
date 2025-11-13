@@ -4,9 +4,17 @@ from django.conf import settings
 class MCQSet(models.Model):
     title = models.CharField(max_length=255)
     created_at = models.DateTimeField(auto_now_add=True)
+    likes = models.ManyToManyField(  # ✅ add this
+        settings.AUTH_USER_MODEL,
+        related_name="liked_mcqsets",
+        blank=True
+    )
 
     def __str__(self):
         return self.title
+    def total_likes(self):
+        return self.likes.count()
+    
 
 
 class MCQ(models.Model):

@@ -1,6 +1,6 @@
 import { useState, useEffect, useContext } from "react";
 import { AccountsContext } from "../context/AccountsContext";
-import { ScoreAPI } from "../api/resources";
+import { ScoreAPI } from "../api/mcqs";
 import {
   LineChart,
   Line,

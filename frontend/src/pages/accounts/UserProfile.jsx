@@ -1,41 +1,52 @@
-import { useState } from "react";
+import { useState, useEffect, useContext } from "react";
 import FeedItem from "../../components/FeedItem";
 import ProfileInfo from "../../components/ProfileInfo";
 import FilterTabs from "../../components/FilterTabs";
+import { AccountsContext } from "../../context/AccountsContext";
+import { MCQAPI } from "../../api/mcqs";
 
 export default function UserProfilePage() {
   const [activeTab, setActiveTab] = useState("all");
+  const [mcqPosts, setMcqPosts] = useState([]);
+  const { user } = useContext(AccountsContext);
 
-  const user = {
-    name: "Dr. Egbeogu",
-    username: "@dr_egbeogu",
-    avatar: "https://i.pravatar.cc/100?img=3",
-    bio: "Pediatrician | Educator | Lifelong Learner",
-    followers: 1280,
-    following: 523,
+  // Construct the dynamic user object
+  const userData = {
+    name: `${user.first_name || ""} ${user.last_name || ""}`.trim() || user.username,
+    username: `@${user.username}`,
+    avatar: "https://i.pravatar.cc/100?img=3"
   };
 
+  // Fetch MCQ sets from the backend
+  useEffect(() => {
+    const fetchMCQs = async () => {
+      try {
+        const data = await MCQAPI.fetchMCQSets();
+        const mcqItems = data.map((item) => ({
+          id: item.id,
+          type: "MCQ",
+          title: item.title
+        }));
+        setMcqPosts(mcqItems);
+      } catch (err) {
+        console.error("Failed to load MCQ data:", err);
+      }
+    };
+    fetchMCQs();
+  }, []);
+
+  // Combine posts
   const posts = [
     {
       id: 1,
       type: "Note",
       title: "Understanding PEM pathophysiology",
-      time: "2 days ago",
-      user: { name: user.name, avatar: user.avatar },
     },
-    {
-      id: 2,
-      type: "MCQ",
-      title: "Marasmus vs Kwashiorkor clinical differences",
-      time: "1 week ago",
-      user: { name: user.name, avatar: user.avatar },
-    },
+    ...mcqPosts,
     {
       id: 3,
       type: "Flashcard",
       title: "Key signs of protein-energy malnutrition",
-      time: "3 weeks ago",
-      user: { name: user.name, avatar: user.avatar },
     },
   ];
 
@@ -48,7 +59,7 @@ export default function UserProfilePage() {
     <div className="flex justify-center w-full min-h-screen text-gray-900 dark:text-gray-100">
       <div className="w-full lg:w-4/6 space-y-4 py-8 px-4">
         {/* Profile Header */}
-        <ProfileInfo user={user} />
+        <ProfileInfo user={userData} />
 
         {/* Filter Tabs */}
         <FilterTabs activeTab={activeTab} setActiveTab={setActiveTab} />

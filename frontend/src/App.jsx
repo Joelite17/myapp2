@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar";
 import Feeds from "./pages/Feeds";
 import Dashboard from "./pages/Dashboard";
 import MCQDetailPage from "./pages/resources/MCQDetail";
-// import FlashcardDetailPage from "./pages/resources/FlashcardDetail"
+import FlashcardDetailPage from "./pages/resources/FlashcardDetail"
 // import NoteDetailPage from "./pages/resources/NoteDetail"
 
 // Accounts
@@ -112,8 +112,9 @@ export default function App() {
                     <Route path="/profiles/:username" element={<UserProfilePage darkMode={darkMode} />} />
                     <Route path="/profile" element={<MyProfilePage darkMode={darkMode} />} />
                     <Route path="/mcqsets/:id" element={<MCQDetailPage />} />
-                    {/* <Route path="/notes/:id" element={<NoteDetailPage darkMode={darkMode} />} />
-                    <Route path="/flashcards/:id" element={<FlashcardDetailPage />} /> */}
+                    <Route path="/flashcardsets/:id" element={<FlashcardDetailPage />} />
+
+                    {/* <Route path="/notes/:id" element={<NoteDetailPage darkMode={darkMode} />} /> */}
                   </Routes>
                 </ProtectedRoute>
               }
